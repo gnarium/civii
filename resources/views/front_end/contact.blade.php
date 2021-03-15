@@ -6,7 +6,7 @@
 				<div class="row d-flex justify-content-between">
 					<div class="dez-topbar-left">
 						<ul class="social-line text-center pull-right">
-							<li><a href="javascript:void(0);"><i class="fa fa-map-marker"></i> <span> ALAMBAGH LUCKNOW 226005 </span> </a></li>
+							<li><a href="javascript:void(0);"> <span> AN ISO 9001:2015 Certified Youtube Channel </span> </a></li>
 						</ul>
 					</div>                        
 					<div class="dez-topbar-right">
@@ -25,7 +25,7 @@
 			<div class="container header-contant-block">
 				<div class="row">
 					<div class="col-md-4">
-						<div class="dez-logo "><a href="/"><img src="{{ asset('user/front_end/images/llogo.png')}}" width="193" height="89" alt=""></a></div>
+						<div class="dez-logo "><a href="/"><img src="{{ asset('user/front_end/images/logooo.png')}}" width="193" height="89" alt=""></a></div>
 					</div>
 					<div class="col-md-8">
 						<ul class="contact-info clearfix">
@@ -42,9 +42,9 @@
 								<span>Mon -Sat: 7:00 - 17:00</span>
 							</li>
 							<li>
-								<a class="site-button m-r15 text-white text-center btn-block">  
-									<h5 class="m-a0">Call Toll Free</h5>
-									<p class="m-a0">+91 8899296385</p>  
+							<a class="site-button m-r15 text-white text-center btn-block">  
+									<p class="m-a0">JOIN US ON YOUTUBE</p>
+									<!-- <p class="m-a0">+91 8899296385</p>   -->
 								</a>
 							</li>
 						</ul>
@@ -59,7 +59,7 @@
 					<div class="container clearfix bg-primary">
 					
 						<!-- website logo -->
-						<div class="dez-logo mostion"><a href="/"><img src="{{ asset('user/front_end/images/llogo.png')}}" width="193" height="89" alt=""></a></div>
+						<div class="dez-logo mostion"><a href="/"><img src="{{ asset('user/front_end/images/logooo.png')}}" width="193" height="89" alt=""></a></div>
 						
 						<!-- nav toggle button -->
 						<button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -98,7 +98,7 @@
 							<li> <a href="/disclaimer">Disclaimer</a>
 								
 							</li>
-							<li> <a href="/contact">Contact us </a>
+							<li> <a href="/front_end/contact">Contact us </a>
 								
 							</li>
 						</ul>
@@ -134,60 +134,43 @@
         <div class="section-full content-inner bg-white contact-style-1">
 			<div class="container">
                 <div class="row">
+				@include('front_end.flash')
+        
                     <!-- Left part start -->
                     <div class="col-lg-8">
                         <div class="p-a30 bg-gray clearfix m-b30 ">
 							<h2>Send Message Us</h2>
-							<div class="dzFormMsg"></div>
-							<form method="post" class="dzForm" action="/">
-							<input type="hidden" value="Contact" name="dzToDo" >
-                                <div class="row">
+							<form method="post"  action="/front_end/contact">
+							{{ csrf_field()}}
+							    <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <div class="input-group">
-                                                <input name="dzName" type="text" required class="form-control" placeholder="Your Name">
-                                            </div>
+                                                <input name="Name" type="text" required class="form-control" placeholder="Your Name">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <div class="input-group"> 
-											    <input name="dzEmail" type="email" class="form-control" required  placeholder="Your Email Id" >
-                                            </div>
+                                        	    <input name="Email" type="email" class="form-control" required  placeholder="Your Email Id" >
                                         </div>
                                     </div>
 									<div class="col-md-6">
                                         <div class="form-group">
-                                            <div class="input-group">
-                                                <input name="dzOther[Phone]" type="text" required class="form-control" placeholder="Phone">
-                                            </div>
+                                                <input name="Phone" type="text" required class="form-control" placeholder="Phone">
                                         </div>
                                     </div>
 									<div class="col-md-6">
                                         <div class="form-group">
-                                            <div class="input-group">
-                                                <input name="dzOther[Subject]" type="text" required class="form-control" placeholder="Subject">
-                                            </div>
+                                                <input name="Subject" type="text" required class="form-control" placeholder="Subject">
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
-                                            <div class="input-group">
-                                                <textarea name="dzMessage" rows="4" class="form-control" required placeholder="Your Message..."></textarea>
-                                            </div>
+                                                <textarea name="Msg" rows="4" class="form-control" required placeholder="Your Message..."></textarea>
                                         </div>
                                     </div>
-									<div class="col-lg-12">
-										<div class="form-group">
-											<div class="input-group">
-												<div class="g-recaptcha" data-sitekey="6LefsVUUAAAAADBPsLZzsNnETChealv6PYGzv3ZN" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
-												<input class="form-control d-none" style="display:none;" data-recaptcha="true" required data-error="Please complete the Captcha">
-											</div>
-										</div>
-									</div>
-                                    <div class="col-md-12">
-                                        <button name="submit" type="submit" value="Submit" class="site-button "> <span>Submit</span> </button>
-                                    </div>
+									<div class="col-md-12">
+									<button type="submit" name="submit" class="site-button"><span>Submit</span></button>
+					                </div>
                                 </div>
                             </form>
                         </div>
