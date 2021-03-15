@@ -4,26 +4,25 @@ namespace App\Http\Controllers;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 use DB;
+use App\Models\User;
 use App\Models\privatejob;
 use App\Models\govtjob;
 use App\Models\iscode;
 use App\Models\qa;
 use App\Models\contact;
-use App\Models\User;
 
 class AdminController extends Controller
 {
- public function adminindex()
- {
-     return view('admin.adminindex');
- }   
-
- public function login(Request $request)
+    public function enquiry()
+    {
+        return view("admin.adminpages.enquiry");
+    }
+        public function login(Request $request)
         {
             if($request->isMethod('post'))
             {
                 $data = $request->input();
-                if(Auth::attempt(['email'=>$data['email'],'password'=>$data['password']]))
+                if(Auth::attempt(['email'=>$data['email'],'password'=>$data['password'],'id'=>'2']))
                 {
                     return redirect('/admin/adminindex');
                 }
@@ -34,7 +33,11 @@ class AdminController extends Controller
             }
             return view("admin.login");
         }
-        
+
+ public function adminindex()
+ {
+     return view('admin.adminindex');
+ }   
  public function privatejob()
  {
      return view('admin.adminpages.privatejob');
