@@ -7,7 +7,7 @@
 				<div class="row d-flex justify-content-between">
 					<div class="dez-topbar-left">
 						<ul class="social-line text-center pull-right">
-							<li><a href="javascript:void(0);"><i class="fa fa-map-marker"></i> <span> ALAMBAGH LUCKNOW 226005 </span> </a></li>
+							<li><a href="javascript:void(0);"> <span> AN ISO 9001:2015 Certified Youtube Channel </span> </a></li>
 						</ul>
 					</div>                        
 					<div class="dez-topbar-right">
@@ -26,7 +26,7 @@
 			<div class="container header-contant-block">
 				<div class="row">
 					<div class="col-md-4">
-						<div class="dez-logo "><a href="/"><img src="{{ asset('user/front_end/images/llogo.png')}}" width="193" height="89" alt=""></a></div>
+						<div class="dez-logo "><a href="/"><img src="{{ asset('user/front_end/images/logooo.png')}}" width="193" height="89" alt=""></a></div>
 					</div>
 					<div class="col-md-8">
 						<ul class="contact-info clearfix">
@@ -43,9 +43,9 @@
 								<span>Mon -Sat: 7:00 - 17:00</span>
 							</li>
 							<li>
-								<a class="site-button m-r15 text-white text-center btn-block">  
-									<h5 class="m-a0">Call Toll Free</h5>
-									<p class="m-a0">+91 8899296385</p>  
+							<a class="site-button m-r15 text-white text-center btn-block">  
+									<p class="m-a0">JOIN US ON YOUTUBE</p>
+									<!-- <p class="m-a0">+91 8899296385</p>   -->
 								</a>
 							</li>
 						</ul>
@@ -59,8 +59,8 @@
 					<div class="container clearfix bg-primary">
 					
 						<!-- website logo -->
-						<div class="dez-logo mostion"><a href="/"><img src="{{ asset('user/front_end/images/llogo.png')}}" width="193" height="89" alt=""></a></div>
-						
+						<div class="dez-logo mostion"><a href="/"><img src="{{ asset('user/front_end/images/logooo.png')}}" width="193" height="89" alt=""></a></div>
+							
 						<!-- nav toggle button -->
 						<button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 							<span></span>
@@ -97,7 +97,7 @@
 							<li> <a href="/disclaimer">Disclaimer</a>
 								
 							</li>
-							<li> <a href="/contact">Contact us </a>
+							<li> <a href="/front_end/contact">Contact us </a>
 								
 							</li>
 						</ul>
@@ -118,6 +118,15 @@
                 </div>
             </div>
         </div>
+		<div class="breadcrumb-row">
+            <div class="container">
+                <ul class="list-inline">
+                    <li><a href="/">Home</a></li>
+                    <li>ISCODE</li>
+                </ul>
+            </div>
+        </div>
+     
 		<div class="content-area">
         <div class="container">
                 <div class="row">
@@ -138,25 +147,31 @@
         
         <!-- inner page banner END -->
         <!-- Breadcrumb row -->
-        <div class="breadcrumb-row">
-            <div class="container">
-                <ul class="list-inline">
-                    <li><a href="/">Home</a></li>
-                    <li>ISCODE</li>
-                </ul>
-            </div>
-        </div>
         <!-- Breadcrumb row END -->
         <section id="main-content">
     <section class="wrapper">
         <div class="table-agile-info">
  <div class="panel panel-default">
-    <div>
-      <table class="table-responsive " >
+ <div class="container">
+    <div class="row">
+        <form class="col-md-6 py-2">
+            <div class="input-group">
+                <input type="text" class="form-control typeahead border-primary" name="query" id="query" placeholder="Please Enter Details Here" data-provide="typeahead" autocomplete="off">
+                <div class="input-group-append">
+                    <button type="submit" class="btn btn-outline-primary">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>   
+<div class="container">
+      <table class="table-responsive container" >
         <thead>
           <tr>
             <th data-breakpoints="xs">ID</th>
-            <th>ISCODE Number</th>
+            <th> CODE</th>
             <th>ISCODE Describtion</th>
             <th>ISCODE URL</th>
            </tr>
@@ -165,7 +180,7 @@
             <tbody>
                 <tr>
                     <td data-breakpoints="xs">{{$todo->id}}</td>
-                    <td>{{$todo->iscode}}</td>
+                    <td><a href="{{$todo->url}}">{{$todo->iscode}}</a></td>
                     <td>{{$todo->isdescribtion}}</td>
                     <td>{{$todo->url}}</td>
                 </tr>
