@@ -15,7 +15,7 @@
 	<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 	
-	<title>Engineering Destination</title>
+	<title>Engineering Destination Hi</title>
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
