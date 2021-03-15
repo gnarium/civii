@@ -19,11 +19,11 @@
 							<h4 class="m-b15 text-uppercase">Useful Links</h4>
 							<div class="dez-separator bg-primary"></div>
 							<ul>
-								<li><a href="#">About</a></li>
-								<li><a href="#">Government Job's</a></li>
-								<li><a href="#">Private Job's</a></li>
-								<li><a href="#">Privacy & Policy</a></li>
-								<li><a href="#">Contact</a></li>
+								<li><a href="/about">About</a></li>
+								<li><a href="front_end/govtjob">Government Job's</a></li>
+								<li><a href="front_end/privatejob">Private Job's</a></li>
+								<li><a href="/privacy">Privacy & Policy</a></li>
+								<li><a href="/front_end/contact">Contact</a></li>
 							</ul>
 						</div>
 					</div>
@@ -46,7 +46,7 @@
 				<div class="row">
 					<div class="col-lg-4 text-left"> <span>© Copyright 2020</span> </div>
 					<div class="col-lg-4 text-center"> <span> Design With <i class="fa fa-heart text-primary heart"></i> By Gnarium Iqnovatives Pvt. Ltd. </span> </div>
-					<div class="col-lg-4 text-right "> <a href="/about"> About</a> <a href="help.html"> Help Desk</a> <a href="/privacy"> Privacy Policy</a> </div>
+					<div class="col-lg-4 text-right "> <a href="/about"> About</a> <a href="#"> Help Desk</a> <a href="/privacy"> Privacy Policy</a> </div>
 				</div>
 			</div>
 		</div>

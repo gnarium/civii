@@ -27,6 +27,7 @@ return array(
     'App\\Http\\Middleware\\TrustProxies' => $baseDir . '/app/Http/Middleware/TrustProxies.php',
     'App\\Http\\Middleware\\VerifyCsrfToken' => $baseDir . '/app/Http/Middleware/VerifyCsrfToken.php',
     'App\\Models\\User' => $baseDir . '/app/Models/User.php',
+    'App\\Models\\contact' => $baseDir . '/app/Models/contact.php',
     'App\\Models\\govtjob' => $baseDir . '/app/Models/govtjob.php',
     'App\\Models\\iscode' => $baseDir . '/app/Models/iscode.php',
     'App\\Models\\privatejob' => $baseDir . '/app/Models/privatejob.php',

@@ -1,13 +1,15 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 use DB;
 use App\Models\privatejob;
 use App\Models\govtjob;
 use App\Models\iscode;
 use App\Models\qa;
+use App\Models\contact;
+use App\Models\User;
 
 class AdminController extends Controller
 {
@@ -15,6 +17,24 @@ class AdminController extends Controller
  {
      return view('admin.adminindex');
  }   
+
+ public function login(Request $request)
+        {
+            if($request->isMethod('post'))
+            {
+                $data = $request->input();
+                if(Auth::attempt(['email'=>$data['email'],'password'=>$data['password']]))
+                {
+                    return redirect('/admin/adminindex');
+                }
+                else
+                {
+                    return redirect('/admin/login');
+                }
+            }
+            return view("admin.login");
+        }
+        
  public function privatejob()
  {
      return view('admin.adminpages.privatejob');
@@ -28,6 +48,9 @@ class AdminController extends Controller
     $privatejobs->companyname=$req2->Companyname;
     $privatejobs->lastdate=$req2->Lastname;
     $privatejobs->describtion=$req2->JobDescribtion;
+    $jobtitilurl=$req2->Jobname;
+    $job_url =  str_replace ( ' ','-',$jobtitilurl);
+    $privatejobs->jobtitileurl =$jobtitilurl;
     $privatejobs->save();
     return redirect('/admin/adminpages/privatejob')->with('success','Private Jobs add successfully!');
  }
@@ -37,10 +60,34 @@ class AdminController extends Controller
         return view('front_end/privatejob',['todoArr122'=>$todoArr122]);
     
     }
+    public function privatejobdetailsdescribtion($tab)
+    {
+        $todoArr141=DB::table('privatejobs')->select('describtion')->where('jobtitileurl',$tab)->first();
+        
+        return view('front_end/privatejobdescribtion',['todoArr141'=>$todoArr141]);
+
+    }
+    
     
     public function govtjob()
     {
      return view('admin.adminpages.govtjob');
+    }
+    public function contact()
+    {
+        return view('front_end.contact');
+    }
+   
+    public function contact_db(Request $req2)
+    {
+        $contacts = new contact;
+        $contacts->name=$req2->Name;
+        $contacts->email=$req2->Email;
+        $contacts->phone=$req2->Phone;
+        $contacts->subject=$req2->Subject;
+        $contacts->msg=$req2->Msg;
+        $contacts->save();
+        return redirect('/front_end/contact')->with('success','We Will Connect You as soon as possible!');
     }
     public function govtjob_db(Request $req2)
     {
@@ -51,6 +98,9 @@ class AdminController extends Controller
         $govtjobs->companyname=$req2->Companyname;
         $govtjobs->lastdate=$req2->Lastdate;
         $govtjobs->describtion=$req2->JobDescribtion;
+        $jobtitilurl=$req2->Jobname;
+        $job_url =  str_replace ( ' ','-',$jobtitilurl);
+        $govtjobs->jobtitileurl =$jobtitilurl;
         $govtjobs->save();
         return redirect('/admin/adminpages/govtjob')->with('success','Government Jobs add successfully!');
     }
@@ -58,6 +108,13 @@ class AdminController extends Controller
     {
         $todoArr12 = DB::select('select * from govtjobs');
         return view('front_end/govtjob',['todoArr12'=>$todoArr12]);
+    }
+    public function jobdetailsdescribtion($tab)
+    {
+        $todoArr14=DB::table('govtjobs')->select('describtion')->where('jobtitileurl',$tab)->first();
+        
+        return view('front_end/jobdescribtion',['todoArr14'=>$todoArr14]);
+
     }
     
     public function iscode()
