@@ -77,16 +77,16 @@
 							<li> <a href="/about">About</a>
 								
 							</li>
-							<li> <a href="/front_end/govtjob">Government Job's</a>
+							<li> <a href="/govtjob">Government Job's</a>
 									</li>
-							<li> <a href="/front_end/privatejob">Private Job's</a>
+							<li> <a href="/privatejob">Private Job's</a>
 								
 							</li>
-							<li> <a href="/front_end/iscode">IS CODE</a>
+							<li> <a href="/iscode">IS CODE</a>
 								
 							</li>
 
-							<li> <a href="/front_end/qa">QA/QC TESTING</a>
+							<li> <a href="/qa">QA/QC TESTING</a>
 								
 							</li>
 							
@@ -97,7 +97,7 @@
 							<li> <a href="/disclaimer">Disclaimer</a>
 								
 							</li>
-							<li> <a href="/front_end/contact">Contact us </a>
+							<li> <a href="/contact">Contact us </a>
 								
 							</li>
 						</ul>
@@ -124,7 +124,7 @@
         <div class="breadcrumb-row">
             <div class="container">
                 <ul class="list-inline">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="/">Home</a></li>
                     <li>Job Details</li>
                 </ul>
             </div>
