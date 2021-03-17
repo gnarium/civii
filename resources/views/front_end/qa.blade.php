@@ -77,12 +77,12 @@
 								
 							</li>
 						
-							<li> <a href="/front_end/govtjob">Government Job's</a>
+							<li> <a href="/govtjob">Government Job's</a>
 									</li>
-							<li> <a href="/front_end/privatejob">Private Job's</a>
+							<li> <a href="/privatejob">Private Job's</a>
 								
 							</li>
-								<li> <a href="/front_end/iscode">IS CODE</a>
+								<li> <a href="/iscode">IS CODE</a>
 								
 							</li>
 
@@ -97,7 +97,7 @@
 							<li> <a href="/disclaimer">Disclaimer</a>
 								
 							</li>
-							<li> <a href="/front_end/contact">Contact us </a>
+							<li> <a href="/contact">Contact us </a>
 									
 							</li>
 						</ul>
@@ -172,7 +172,6 @@
           <tr>
             <th data-breakpoints="xs">ID</th>
             <th>QA/ QC Testing Number</th>
-            <th>QA/ QC Testing URL</th>
            </tr>
         </thead>
         @foreach($todoArr as $todo)
@@ -180,7 +179,6 @@
                 <tr>
                     <th data-breakpoints="xs">{{$todo->id}}</th>
                     <th><a href="{{$todo->url}}">{{$todo->qaname}}</a></th>
-                    <th><a href="/">{{$todo->url}}</a></th>
                 </tr>
        </tbody>
         @endforeach
