@@ -78,15 +78,15 @@
 								
 							</li>
 							
-							<li> <a href="/front_end/govtjob">Government Job's</a>
+							<li> <a href="/govtjob">Government Job's</a>
 									</li>
-							<li> <a href="/front_end/privatejob">Private Job's</a>
+							<li> <a href="/privatejob">Private Job's</a>
 								
-							</li><li> <a href="/front_end/iscode">IS CODE</a>
+							</li><li> <a href="/iscode">IS CODE</a>
 								
 							</li>
 
-							<li> <a href="/front_end/qa">QA/QC TESTING</a>
+							<li> <a href="/qa">QA/QC TESTING</a>
 								
 							</li>
 							
@@ -97,7 +97,7 @@
 							<li> <a href="/disclaimer">Disclaimer</a>
 								
 							</li>
-							<li> <a href="/front_end/contact">Contact us </a>
+							<li> <a href="/contact">Contact us </a>
 								
 							</li>
 						</ul>
@@ -167,13 +167,13 @@
     </div>
 </div>   
 <div class="container">
-      <table class="table-responsive container" >
+      <table class="table container" >
         <thead>
           <tr>
             <th data-breakpoints="xs">ID</th>
             <th> CODE</th>
             <th>ISCODE Describtion</th>
-            <th>ISCODE URL</th>
+            
            </tr>
         </thead>
         @foreach($todoArr as $todo)
@@ -182,7 +182,6 @@
                     <td data-breakpoints="xs">{{$todo->id}}</td>
                     <td><a href="{{$todo->url}}">{{$todo->iscode}}</a></td>
                     <td>{{$todo->isdescribtion}}</td>
-                    <td>{{$todo->url}}</td>
                 </tr>
        </tbody>
         @endforeach
