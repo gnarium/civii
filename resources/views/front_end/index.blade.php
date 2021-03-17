@@ -77,16 +77,16 @@
 							<li> <a href="/about">About</a>
 								
 							</li>
-							<li> <a href="/front_end/govtjob">Government Job's</a>
+							<li> <a href="/govtjob">Government Job's</a>
 									</li>
-							<li> <a href="/front_end/privatejob">Private Job's</a>
+							<li> <a href="/privatejob">Private Job's</a>
 								
 							</li>
-							<li> <a href="/front_end/iscode">IS CODE</a>
+							<li> <a href="/iscode">IS CODE</a>
 								
 							</li>
 
-							<li> <a href="/front_end/qa">QA/QC TESTING</a>
+							<li> <a href="/qa">QA/QC TESTING</a>
 								
 							</li>
 							
@@ -97,7 +97,7 @@
 							<li> <a href="/disclaimer">Disclaimer</a>
 								
 							</li>
-							<li> <a href="/front_end/contact">Contact us </a>
+							<li> <a href="/contact">Contact us </a>
 								
 							</li>
 						</ul>
@@ -119,23 +119,66 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ asset('user/front_end/images/main-slider/slide2.jpg')}}" alt="Los Angeles" width="1100" height="500">
+      <img src="{{ asset('user/front_end/images/main-slider/slide2.jpg')}}" class="tp-caption" 
+										id="slide-300-layer-6" 
+										data-x="['left','left','left','left']" data-hoffset="['200','200','210','200']" 
+										data-y="['top','top','top','top']" data-voffset="['470','470','420','350']" 
+										data-width="none"
+										data-height="none"
+										data-whitespace="nowrap"
+										data-responsive_offset="on" 
+										data-responsive="off"
+										data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
+										data-textAlign="['left','left','left','left']"
+										data-paddingtop="[0,0,0,0]"
+										data-paddingright="[0,0,0,0]"
+										data-paddingbottom="[0,0,0,0]"
+										data-paddingleft="[0,0,0,0]"
+										style="z-index: 8; white-space: nowrap; background-color:rgba(0, 0, 0, 0) !important;" alt="Los Angeles" width="1100" height="500">
       <div class="carousel-caption">
         
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="{{ asset('user/front_end/images/main-slider/slide12.jpg')}}" alt="Chicago" width="1100" height="500">
+      <img src="{{ asset('user/front_end/images/main-slider/slide12.jpg')}}" class="tp-caption" 
+										id="slide-300-layer-6" 
+										data-x="['left','left','left','left']" data-hoffset="['200','200','210','200']" 
+										data-y="['top','top','top','top']" data-voffset="['470','470','420','350']" 
+										data-width="none"
+										data-height="none"
+										data-whitespace="nowrap"
+										data-responsive_offset="on" 
+										data-responsive="off"
+										data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
+										data-textAlign="['left','left','left','left']"
+										data-paddingtop="[0,0,0,0]"
+										data-paddingright="[0,0,0,0]"
+										data-paddingbottom="[0,0,0,0]"
+										data-paddingleft="[0,0,0,0]"
+
+										style="z-index: 8; white-space: nowrap; background-color:rgba(0, 0, 0, 0) !important;" alt="Chicago" width="1100" height="500">
       <div class="carousel-caption">
-        <!-- <h3>Chicago</h3>
-        <p>Thank you, Chicago!</p> -->
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="{{ asset('user/front_end/images/main-slider/slide1.jpg')}}" alt="New York" width="1100" height="500">
+      <img src="{{ asset('user/front_end/images/main-slider/slide1.jpg')}}" class="tp-caption" 
+										id="slide-300-layer-6" 
+										data-x="['left','left','left','left']" data-hoffset="['200','200','210','200']" 
+										data-y="['top','top','top','top']" data-voffset="['470','470','420','350']" 
+										data-width="none"
+										data-height="none"
+										data-whitespace="nowrap"
+										data-responsive_offset="on" 
+										data-responsive="on"
+										data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
+										data-textAlign="['left','left','left','left']"
+										data-paddingtop="[0,0,0,0]"
+										data-paddingright="[0,0,0,0]"
+										data-paddingbottom="[0,0,0,0]"
+										data-paddingleft="[0,0,0,0]"
+
+										style="z-index: 8; white-space: nowrap; background-color:rgba(0, 0, 0, 0) !important;"alt="New York" width="1100" height="500">
       <div class="carousel-caption">
-        <!-- <h3>New York</h3>
-        <p>We love the Big Apple!</p> -->
       </div>   
     </div>
   </div>
@@ -147,12 +190,11 @@
   </a>
 </div>
 	
-		<!-- Purchase Add -->
-        <div class="section-full bg-img-fix overlay-black-middle content-inner-1 about-uni" >
+      <div class="section-full bg-img-fix overlay-black-middle content-inner-1 about-uni" >
             <div class="container" >
 				<div class="row text-white" style="background-color:white">	
 					<div class="col-lg-12 col-md-8">
-						<h2 class="m-a0"><img src="{{ asset('user/front_end/images/tag.png')}}" style="text-align:center"></h2>
+						<h2 class="m-a0"><img src="{{ asset('user/front_end/images/tagline.png')}}" style="text-align:center"></h2>
 					</div>	
 				</div>
 			</div>	
@@ -208,7 +250,7 @@
 					<div class="row">
 						<div class="col-lg-4 col-md-6 col-sm-6">
 							<div class="icon-bx-wraper center m-b40 m-lr15">
-								<div class="icon-bx-sm  m-b20"> <span class="icon-cell"><i class="fa fa-life-saver text-primary"></i></span>  </div>
+								<div class="icon-bx-lg bg-secondry m-b20"> <span class="icon-cell"><i class="fa fa-graduation-cap text-primary" style="margin-top:25px;"></i></span>  </div>
 								<div class="icon-content">
 									<h5 class="dez-tilte text-uppercase">TRAINING</h5>
 									<p>ALL FREE CERTIFICATE WEBINARS/TRAININGS UPDATES ARE PROVIDED FOR ALL ENGINEERING STUDENTS/GRADUATES.</p>
@@ -217,7 +259,7 @@
 						</div>
 						<div class="col-lg-4 col-md-6 col-sm-6">
 							<div class="icon-bx-wraper center m-b40 m-lr15">
-								<div class="icon-bx-sm  m-b20"><span class="icon-cell"><i class="fa fa-users text-primary"></i></span>  </div>
+								<div class="icon-bx-lg bg-secondary m-b20"><span class="icon-cell"><i class="fa fa-leanpub text-primary" style="margin-top:25px;"></i></span>  </div>
 								<div class="icon-content">
 									<h5 class="dez-tilte text-uppercase">ISCODE</h5>
 									<p>WE PROVIDE IS CODES FOR CIVIL ENGINEERING PROFESSIONALS AND STUDENTS FOR THEIR KNOWLEDGE AND UNDERSTANDING. </p>
@@ -226,7 +268,7 @@
 						</div>
 						<div class="col-lg-4 col-md-6 col-sm-6">
 							<div class="icon-bx-wraper center m-b40 m-lr15">
-								<div class="icon-bx-sm  m-b20">  <span class="icon-cell"><i class="fa fa-thumbs-up text-primary"></i></span> </div>
+								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-leanpub text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
 									<h5 class="dez-tilte text-uppercase">ONLINE COURSE</h5>
 									<p>WE ALSO ORGAINZE FREE TRAINING COURSESE FOR IMPROVEMENT OF KNOWLEDGE AND MODERN CHANGES RELATED TO CONSTRUCTIONS </p>
@@ -235,7 +277,7 @@
 						</div>
 						<div class="col-lg-4 col-md-6 col-sm-6">
 							<div class="icon-bx-wraper center m-b40 m-lr15">
-								<div class="icon-bx-sm m-b20">  <span class="icon-cell"><i class="fa fa-trophy text-primary"></i></span> </div>
+								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-building text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
 									<h5 class="dez-tilte text-uppercase">JOB UPDATES</h5>
 									<p>WE PROVIDE MOST TRUSTED JOB UPDATES FOR BOTH PRIVATE AND GOVERNMENT ORGANIZATIONS FROM ALL OVER INDIA.</p>
@@ -244,7 +286,7 @@
 						</div>
 						<div class="col-lg-4 col-md-6 col-sm-6">
 							<div class="icon-bx-wraper center m-b40 m-lr15">
-								<div class="icon-bx-sm  m-b20">  <span class="icon-cell"><i class="fa fa-cubes text-primary"></i></span> </div>
+								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-flag text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
 									<h5 class="dez-tilte text-uppercase">QA/QC Reports</h5>
 									<p>WE PROVIDE ALL LAB TEST REPORT FORMATS FOR EASE AND COMFORT FOR ALL USERS </p>
@@ -253,7 +295,7 @@
 						</div>
 						<div class="col-lg-4 col-md-6 col-sm-6">
 							<div class="icon-bx-wraper center m-b10 m-lr15">
-								<div class="icon-bx-sm  m-b20">  <span class="icon-cell"><i class="fa fa-area-chart text-primary"></i></span> </div>
+								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-area-chart text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
 									<h5 class="dez-tilte text-uppercase">CURRENT AFFAIRS</h5>
 									<p>ALL CURRENT AFFAIRS RELATED TO CONSTRUCTION AND CIVIL ENGINEERING ARE BEING UPDATES TIME TO TIME.</p>
