@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="col-lg-4 col-md-6 col-sm-6 footer-col-4">
 						<div class="widget widget_about">
-							<div class="logo-footer"><img src="{{ asset('user/front_end/images/llogo.png')}}" alt=""></div>
+							<div class="logo-footer"><img src="{{ asset('user/front_end/images/logooo.png')}}" alt=""></div>
 							<p class="m-tb20"><strong>Construct</strong>Dear candidate, we are not a recruiter/job consultant. We only post the available and relevant jobs from the internet, we are not involved directly or indirectly in the recruitment process at any stage.</p>
 							<ul class="dez-social-icon dez-social-icon-lg">
 								<li><a href="javascript:void(0);" class="fa fa-facebook fb-btn"></a></li>
