@@ -77,16 +77,16 @@
 							<li> <a href="/about">About</a>
 								
 							</li>
-							<li> <a href="/front_end/govtjob">Government Job's</a>
+							<li> <a href="/govtjob">Government Job's</a>
 									</li>
-							<li> <a href="/front_end/privatejob">Private Job's</a>
+							<li> <a href="/privatejob">Private Job's</a>
 								
 							</li>
-							<li> <a href="/front_end/iscode">IS CODE</a>
+							<li> <a href="/iscode">IS CODE</a>
 								
 							</li>
 
-							<li> <a href="/front_end/qa">QA/QC TESTING</a>
+							<li> <a href="/qa">QA/QC TESTING</a>
 								
 							</li>
 							
@@ -97,7 +97,7 @@
 							<li> <a href="/disclaimer">Disclaimer</a>
 								
 							</li>
-							<li> <a href="/front_end/contact">Contact us </a>
+							<li> <a href="/contact">Contact us </a>
 								
 							</li>
 						</ul>
@@ -150,7 +150,7 @@
                                         <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
                                         <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/front_end/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button">For More Info</a>
+											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button">For More Info</a>
 										</div>
 									</div>
 									<div class="sale">
