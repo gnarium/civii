@@ -21,25 +21,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link rel="stylesheet" href="{{ asset('admin/css/morris.css')}}" type="text/css"/>
 <!-- calendar -->
 <link rel="stylesheet" href="{{ asset('admin/css/monthly.css')}}">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="{{ asset('admin/plugins/fontawesome-free/css/all.min.css')}}">
-  <!-- icheck bootstrap -->
-  <link rel="stylesheet" href="{{ asset('admin/plugins/icheck-bootstrap/icheck-bootstrap.min.css')}}">
-  <!-- Theme style -->
-  <link rel="stylesheet" href="{{ asset('admin/dist/css/adminlte.min.css')}}">
-  <script src="{{ asset('admin/plugins/jquery/jquery.min.js')}}"></script>
-<!-- Bootstrap 4 -->
-<script src="{{ asset('admin/plugins/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
-<!-- AdminLTE App -->
-<script src="{{ asset('admin/dist/js/adminlte.min.js')}}"></script>
-
 <!-- //calendar -->
 <!-- //font-awesome icons -->
 <script src="{{ asset('admin/js/jquery2.0.3.min.js')}}"></script>
 <script src="{{ asset('admin/js/raphael-min.js')}}"></script>
 <script src="{{ asset('admin/js/morris.js')}}"></script>
-<script type="text/javascript" src="{{ asset('admin/js/nicEdit.js')}}"></script>
+<script src="https://cdn.ckeditor.com/4.16.0/standard/ckeditor.js"></script>
+<!-- <script type="text/javascript" src="{{ asset('admin/js/nicEdit.js')}}"></script> -->
 <script type="text/JavaScript">
 function MM_findObj(n, d) { //v4.01
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
@@ -68,7 +56,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   if (restore) selObj.selectedIndex=0;
 }
 </script>
-<script type="text/javascript" src="{{asset('admin/js/nicEdit.js')}}"></script>
+<!-- <script type="text/javascript" src="{{asset('admin/js/nicEdit.js')}}"></script> -->
 <script type="text/javascript">
   bkLib.onDomLoaded(function() { nicEditors.allTextAreas() });
 </script>
