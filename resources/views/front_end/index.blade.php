@@ -1,4 +1,11 @@
 @extends('layouts.main')
+<style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  </style>
 <div class="page-wraper">
 	<!-- header -->
 	<header class="site-header header-style-4 dark">
@@ -13,10 +20,10 @@
 					</div>                        
 					<div class="dez-topbar-right">
 						<ul class="social-line text-center pull-right">
-							<li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-							<li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-							<li><a href="javascript:void(0);" class="fa fa-linkedin"></a></li>
-							<li><a href="javascript:void(0);" class="fa fa-google-plus"></a></li>
+							<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" class="fa fa-facebook"></a></li>
+							<li><a href="https://t.me/civilenggdestination" class="fa fa-telegram"></a></li>
+							<li><a href="https://www.linkedin.com/in/civilengineeringdestination-43255b1b6/" class="fa fa-linkedin"></a></li>
+							<li><a href="https://www.instagram.com/civilengineeringdestination" class="fa fa-instagram"></a></li>
 						</ul>
 					</div>
 				</div>
@@ -30,25 +37,25 @@
 						<div class="dez-logo "><a href="/"><img src="{{ asset('user/front_end/images/logooo.png')}}" width="193" height="89" alt=""></a></div>
 					</div>
 					<div class="col-md-8">
-						<ul class="contact-info clearfix">
-							<li>
-								<h6 class="text-primary"><i class="fa fa-phone"></i> Call Us</h6>
-								<span>+91 8899296385</span>
-							</li>
-							<li>
-								<h6 class="text-primary"><i class="fa fa-envelope-o"></i> Send us an Email</h6>
-								<span>Cedestination140@gmail.com</span>
-							</li>
-							<li>
-								<h6 class="text-primary"><i class="fa fa-clock-o"></i> Opening Time</h6>
-								<span>Mon -Sat: 7:00 - 17:00</span>
-							</li>
-							<li>
-								<a class="site-button m-r15 text-white text-center btn-block">  
-									<p class="m-a0">JOIN US ON YOUTUBE</p>
+						<ul class="contact-info clearfix" >
+							<li style="margin-left:100px;">
+								<a class="site-button m-r15 text-white text-center btn-block" href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" style="margin-top:-10px;">  
+									<p class="m-a0">Career Destination</p>
 									<!-- <p class="m-a0">+91 8899296385</p>   -->
 								</a>
+								
 							</li>
+							<li>
+							<a class="site-button text-white text-center " href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1"style="margin-left:10px;margin-top:-10px;" >  
+									<p class="m-a0">Tech Civil Destination</p>
+								</a>
+							</li>
+							<li>
+							<a class="site-button text-white text-center " href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1"style="margin-left:10px;margin-top:0px;" >  
+									<p class="m-a0">Civil Engineering Destination</p>
+								</a>
+							</li>
+
 						</ul>
 					</div>
 				</div>
@@ -109,88 +116,38 @@
 		<!-- main header END -->
 	</header>
 
-    <div class="page-content">
-		<!-- Slider -->
-		<div id="demo" class="carousel slide" data-ride="carousel">
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
-  </ul>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="{{ asset('user/front_end/images/main-slider/slide2.jpg')}}" class="tp-caption" 
-										id="slide-300-layer-6" 
-										data-x="['left','left','left','left']" data-hoffset="['200','200','210','200']" 
-										data-y="['top','top','top','top']" data-voffset="['470','470','420','350']" 
-										data-width="none"
-										data-height="none"
-										data-whitespace="nowrap"
-										data-responsive_offset="on" 
-										data-responsive="off"
-										data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-										data-textAlign="['left','left','left','left']"
-										data-paddingtop="[0,0,0,0]"
-										data-paddingright="[0,0,0,0]"
-										data-paddingbottom="[0,0,0,0]"
-										data-paddingleft="[0,0,0,0]"
-										style="z-index: 8; white-space: nowrap; background-color:rgba(0, 0, 0, 0) !important;" alt="Los Angeles" width="1100" height="500">
-      <div class="carousel-caption">
-        
-      </div>   
-    </div>
-    <div class="carousel-item">
-      <img src="{{ asset('user/front_end/images/main-slider/slide12.jpg')}}" class="tp-caption" 
-										id="slide-300-layer-6" 
-										data-x="['left','left','left','left']" data-hoffset="['200','200','210','200']" 
-										data-y="['top','top','top','top']" data-voffset="['470','470','420','350']" 
-										data-width="none"
-										data-height="none"
-										data-whitespace="nowrap"
-										data-responsive_offset="on" 
-										data-responsive="off"
-										data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-										data-textAlign="['left','left','left','left']"
-										data-paddingtop="[0,0,0,0]"
-										data-paddingright="[0,0,0,0]"
-										data-paddingbottom="[0,0,0,0]"
-										data-paddingleft="[0,0,0,0]"
-
-										style="z-index: 8; white-space: nowrap; background-color:rgba(0, 0, 0, 0) !important;" alt="Chicago" width="1100" height="500">
-      <div class="carousel-caption">
-      </div>   
-    </div>
-    <div class="carousel-item">
-      <img src="{{ asset('user/front_end/images/main-slider/slide1.jpg')}}" class="tp-caption" 
-										id="slide-300-layer-6" 
-										data-x="['left','left','left','left']" data-hoffset="['200','200','210','200']" 
-										data-y="['top','top','top','top']" data-voffset="['470','470','420','350']" 
-										data-width="none"
-										data-height="none"
-										data-whitespace="nowrap"
-										data-responsive_offset="on" 
-										data-responsive="on"
-										data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-										data-textAlign="['left','left','left','left']"
-										data-paddingtop="[0,0,0,0]"
-										data-paddingright="[0,0,0,0]"
-										data-paddingbottom="[0,0,0,0]"
-										data-paddingleft="[0,0,0,0]"
-
-										style="z-index: 8; white-space: nowrap; background-color:rgba(0, 0, 0, 0) !important;"alt="New York" width="1100" height="500">
-      <div class="carousel-caption">
-      </div>   
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
-</div>
 	
-      <div class="section-full bg-img-fix overlay-black-middle content-inner-1 about-uni" >
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+<!-- Indicators -->
+<ul class="carousel-indicators">
+  <li data-target="#demo" data-slide-to="0" class="active"></li>
+  <li data-target="#demo" data-slide-to="1"></li>
+  <li data-target="#demo" data-slide-to="2"></li>
+</ul>
+
+<!-- The slideshow -->
+<div class="carousel-inner">
+  <div class="carousel-item active">
+	<img src="{{ asset('user/front_end/images/main-slider/slide1.jpg')}}" alt="Los Angeles" width="1100" height="500">
+  </div>
+  <div class="carousel-item">
+	<img src="{{ asset('user/front_end/images/main-slider/slide5.jpg')}}" alt="Chicago" width="1100" height="500">
+  </div>
+  <div class="carousel-item">
+	<img src="{{ asset('user/front_end/images/main-slider/slide4.jpg')}}" alt="New York" width="1100" height="500">
+  </div>
+</div>
+
+<!-- Left and right controls -->
+<a class="carousel-control-prev" href="#demo" data-slide="prev">
+  <span class="carousel-control-prev-icon"></span>
+</a>
+<a class="carousel-control-next" href="#demo" data-slide="next">
+  <span class="carousel-control-next-icon"></span>
+</a>
+</div>
+<div class="section-full bg-img-fix overlay-black-middle content-inner-1 about-uni" >
             <div class="container" >
 				<div class="row text-white" style="background-color:white">	
 					<div class="col-lg-12 col-md-8">
@@ -206,28 +163,28 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-building-o"></i></div>
-                            <div class="counter text-white m-b5 h2">1035</div>
+                            <div class="counter text-white m-b5 h2">100</div>
                             <span>Number of Government Job</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-group"></i></div>
-                            <div class="counter text-white m-b5 h2">1226</div>
+                            <div class="counter text-white m-b5 h2">100</div>
                             <span>Number of Private Job</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-slideshare"></i></div>
-                            <div class="counter text-white m-b5 h2">1552</div>
+                            <div class="counter text-white m-b5 h2">20</div>
                             <span>Number of ISCODE</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b10">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-home"></i></div>
-                            <div class="counter text-white m-b5 h2">1156</div>
+                            <div class="counter text-white m-b5 h2">20</div>
                             <span>Number of QA/QC Testing</span> 
 						</div>
                     </div>
@@ -236,12 +193,13 @@
         </div>
 		<!-- Stats End -->
 		<!-- Our Gallery -->
+		
 		<div class="section-full box-shadow bg-white content-inner">
             <div class="container">
                 <div class="section-content">
                     <div class="row">
                         <div class="col-lg-12 text-center section-head">
-                            <h2 class="h2">OUR SPECILIZATIONS</h2>
+                            <h2 class="h2">OUR SPECIALIZATIONS</h2>
 							<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
                             <div class="clear"></div>
                             <p class="m-b0">ENGINEERING DESTINATION IS THE MOST TRUSTED PLATFORM FOR ALL ENGINEERING STUDENTS AND PROFESSIONALS FROM ALL OVER INDIA.</p>
@@ -250,7 +208,7 @@
 					<div class="row">
 						<div class="col-lg-4 col-md-6 col-sm-6">
 							<div class="icon-bx-wraper center m-b40 m-lr15">
-								<div class="icon-bx-lg bg-secondry m-b20"> <span class="icon-cell"><i class="fa fa-graduation-cap text-primary" style="margin-top:25px;"></i></span>  </div>
+								<div class="icon-bx-lg bg-secondary m-b20"> <span class="icon-cell"><i class="fa fa-graduation-cap text-primary" style="margin-top:25px;"></i></span>  </div>
 								<div class="icon-content">
 									<h5 class="dez-tilte text-uppercase">TRAINING</h5>
 									<p>ALL FREE CERTIFICATE WEBINARS/TRAININGS UPDATES ARE PROVIDED FOR ALL ENGINEERING STUDENTS/GRADUATES.</p>
@@ -261,7 +219,7 @@
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20"><span class="icon-cell"><i class="fa fa-leanpub text-primary" style="margin-top:25px;"></i></span>  </div>
 								<div class="icon-content">
-									<h5 class="dez-tilte text-uppercase">ISCODE</h5>
+									<h5 class="dez-tilte text-uppercase">IS CODE</h5>
 									<p>WE PROVIDE IS CODES FOR CIVIL ENGINEERING PROFESSIONALS AND STUDENTS FOR THEIR KNOWLEDGE AND UNDERSTANDING. </p>
 								</div>
 							</div>
@@ -298,7 +256,7 @@
 								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-area-chart text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
 									<h5 class="dez-tilte text-uppercase">CURRENT AFFAIRS</h5>
-									<p>ALL CURRENT AFFAIRS RELATED TO CONSTRUCTION AND CIVIL ENGINEERING ARE BEING UPDATES TIME TO TIME.</p>
+									<p>ALL CURRENT AFFAIRS RELATED TO CONSTRUCTION AND CIVIL ENGINEERING ARE BEING UPDATED TIME TO TIME.</p>
 								</div>
 							</div>
 						</div>
@@ -306,12 +264,44 @@
                 </div>
             </div>
         </div>
-         <!-- Our Gallery END -->
+		<div class="container">
+                <div class="text-black text-center">
+                    <h2 class="h2">Latest Jobs</h2>
+					<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
+                </div><div class="row" id="masonry">
+                        @foreach($todoArr13 as $todo1)
+							<div class="col-md-12 col-lg-12 col-sm-12 m-b30 product-item card-container testimonial-two owl-carousel owl-theme">
+								<div class="dez-box ">
+									<div class="dez-info p-a20">
+										<h6 class="m-b0">Job Name:</h6><span>{{$todo1->jobname}}</span>
+                                        <h6 class="m-b0">Branch:</h6><span>{{$todo1->branch}}</span>
+                                        <h6 class="m-b0">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
+                                        <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
+                                        <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
+										<div class="m-t10">
+											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button">For More Info</a>
+										</div>
+									</div>
+									<div class="sale">
+										<span class="site-button button-sm primary">For More Info</span>
+									</div>
+								</div>
+							</div>
+                        @endforeach
+						
+						</div>
+						
+        </div>
+		<div class="sale text-center">
+		<a href="/govtjob"><span class="site-button button-sm primary">For More Info</span></a>
+									</div>
+		</br>
+		 <!-- Our Gallery END -->
 		<!-- Testimonials blog -->
         <div class="section-full overlay-black-middle bg-img-fix content-inner-1" style="background-image:url('{{ asset('user/front_end/images/background/bg12.jpg')}}');">
             <div class="container">
                 <div class="section-head text-white text-center">
-                    <h2 class="h2">What Peolpe Are Saying</h2>
+                    <h2 class="h2">Success Stories</h2>
 					<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
                 </div>
                 <div class="section-content">
