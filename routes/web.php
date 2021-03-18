@@ -34,6 +34,8 @@ Route::get('/admin/adminindex',[App\Http\Controllers\AdminController::class,'adm
 Route::get('/admin/adminpages/privatejob',[App\Http\Controllers\AdminController::class,'privatejob'])->name('admin');
 Route::post('/admin/adminpages/privatejob',[App\Http\Controllers\AdminController::class,'privatejob_db'])->name('admin');
 Route::get('privatejob',[App\Http\Controllers\AdminController::class,'privatejobdetails'])->name('admin');
+Route::get('/',[App\Http\Controllers\AdminController::class,'privatejobs'])->name('admin');
+
 Route::get('/privatejob/{tab}',[App\Http\Controllers\AdminController::class,'privatejobdetailsdescribtion'])->name('admin');
 
 Route::match(['get','post'],'/admin/login',[App\Http\Controllers\AdminController::class,'login'])->name('admin');
@@ -41,6 +43,7 @@ Route::match(['get','post'],'/admin/login',[App\Http\Controllers\AdminController
 Route::get('/admin/adminpages/govtjob',[App\Http\Controllers\AdminController::class,'govtjob'])->name('admin');
 Route::post('/admin/adminpages/govtjob',[App\Http\Controllers\AdminController::class,'govtjob_db'])->name('admin');
 Route::get('govtjob',[App\Http\Controllers\AdminController::class,'govtjobdetails'])->name('admin');
+Route::get('/',[App\Http\Controllers\AdminController::class,'govtjobdetail'])->name('admin');
 
 Route::get('govtjob/{tab}',[App\Http\Controllers\AdminController::class,'jobdetailsdescribtion'])->name('admin');
 
