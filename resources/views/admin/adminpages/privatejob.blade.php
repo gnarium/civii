@@ -1,6 +1,8 @@
 @extends ('admin.adminlayouts.adminmain')
+
+<script src="https://cdn.ckeditor.com/4.15.1/standard/ckeditor.js"></script>
 <body>
-	<header class="header fixed-top clearfix">
+	<header class="header fixed-top clearfix" style="background-color:#FDC716">
 <!--logo start-->
 <div class="brand1">
     <a href="/admin/adminindex" class="logo">
@@ -73,7 +75,12 @@
                         <span>Add ISCODE </span>
                     </a>
                 </li>
-                
+                <li>
+                    <a href="#">
+                        <i class="fa fa-user"></i>
+                        <span>Login Page</span>
+                    </a>
+                </li>
             </ul>            </div>
         <!-- sidebar menu end-->
     </div>
@@ -131,10 +138,8 @@
                                     <div class="form-group ">
                                         <label for="ccomment" class="control-label col-lg-3">Enter Job Describtion (required)</label>
                                         <div class="col-lg-6">
-                                        <textarea id="compose-textarea" class="form-control" name="JobDescribtion" style="height: 300px"></textarea>
-                                        <script type="text/javascript">
-                                            CKEDITOR.replace('articleContent');
-                                        </script>
+                                        <textarea  class="ckeditor" name="JobDescribtion" style="width=400px" ></textarea>
+                                        
                                         </div>
                                     </div>
                                     <div class="form-group">
