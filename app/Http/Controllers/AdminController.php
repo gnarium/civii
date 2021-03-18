@@ -111,7 +111,22 @@ class AdminController extends Controller
     {
         $todoArr12 = DB::select('select * from govtjobs');
         return view('front_end/govtjob',['todoArr12'=>$todoArr12]);
+        
+
     }
+    public function govtjobdetail()
+    {
+        $todoArr13 = DB::select('select * from govtjobs');
+        return view('front_end/index',['todoArr13'=>$todoArr13]);
+        
+
+    }
+    public function privatejobs()
+    {
+        $todoArr110 = DB::select('select * from privatejobs');
+        return view('front_end/index',['todoArr110'=>$todoArr110]);
+    }
+    
     public function jobdetailsdescribtion($tab)
     {
         $todoArr14=DB::table('govtjobs')->select('describtion')->where('jobtitileurl',$tab)->first();
