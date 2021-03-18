@@ -1,6 +1,8 @@
 @extends ('admin.adminlayouts.adminmain')
 <body>
-	<header class="header fixed-top clearfix">
+    
+    <script src="https://cdn.ckeditor.com/4.15.1/standard/ckeditor.js"></script>
+	<header class="header fixed-top clearfix" style="background-color:#FDC716">
 <div class="brand1">
     <a href="/admin/adminindex" class="logo">
 	<p>Engineering Destination Admin Panel</p>
@@ -64,7 +66,12 @@
                         <span>Add ISCODE </span>
                     </a>
                 </li>
-                
+                <li>
+                    <a href="#">
+                        <i class="fa fa-user"></i>
+                        <span>Login Page</span>
+                    </a>
+                </li>
             </ul>   
         </div>
     </div>
@@ -119,13 +126,12 @@
                                         </div>
                                     </div>
                                     <div class="form-group ">
-                                        <label for="ccomment" class="control-label col-lg-3">Enter Job Describtion (required)</label>
+                                        <label for="ccomment" class=" col-lg-3">Enter Job Describtion (required)</label>
                                         <div class="col-lg-6" >
-                                        <textarea id="compose-textarea"  class="form-control" name="JobDescribtion" style="height: 300px"></textarea>
+                                            <textarea  class="ckeditor" name="JobDescribtion" ></textarea>
+                                        </div>
                                     </div>
-                                    <script type="text/javascript">
-                                            CKEDITOR.replace('articleContent');
-                                    </script>
+        
                                     </div>
                                     <div class="form-group">
                                         <div class="col-lg-offset-3 col-lg-6">
