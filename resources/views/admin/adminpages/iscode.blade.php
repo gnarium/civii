@@ -1,6 +1,6 @@
 @extends ('admin.adminlayouts.adminmain')
 <body>
-	<header class="header fixed-top clearfix">
+	<header class="header fixed-top clearfix"style="background-color:#FDC716">
 <!--logo start-->
 <div class="brand1">
     <a href="/admin/adminindex" class="logo">
@@ -68,7 +68,12 @@
                         <span>Add ISCODE </span>
                     </a>
                 </li>
-                
+                <li>
+                    <a href="#">
+                        <i class="fa fa-user"></i>
+                        <span>Login Page</span>
+                    </a>
+                </li>
             </ul>            </div>
     </div>
 </aside><section id="main-content">
