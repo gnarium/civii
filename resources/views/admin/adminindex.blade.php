@@ -1,6 +1,6 @@
 @extends ('admin.adminlayouts.adminmain')
-<body>
-	<header class="header fixed-top clearfix">
+<body >
+	<header class="header fixed-top clearfix" style="background-color:#FDC716">
 <!--logo start-->
 <div class="brand1">
     <a href="/admin/adminindex" class="logo">
@@ -24,9 +24,7 @@
                 <b class="caret"></b>
             </a>
             <ul class="dropdown-menu extended logout">
-                <li><a href="#"><i class=" fa fa-suitcase"></i>Profile</a></li>
-                <li><a href="#"><i class="fa fa-cog"></i> Settings</a></li>
-                <li><a href="#"><i class="fa fa-key"></i> Log Out</a></li>
+                <li><a href="/admin/login"><i class="fa fa-key"></i> Log Out</a></li>
             </ul>
         </li>
         <!-- user login dropdown end -->
@@ -81,7 +79,12 @@
                         <span>Add ISCODE </span>
                     </a>
                 </li>
-                
+                <li>
+                    <a href="#">
+                        <i class="fa fa-user"></i>
+                        <span>Login Page</span>
+                    </a>
+                </li>
             </ul>            </div>
         <!-- sidebar menu end-->
     </div>
