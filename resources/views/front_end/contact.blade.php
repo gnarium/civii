@@ -6,21 +6,20 @@
 				<div class="row d-flex justify-content-between">
 					<div class="dez-topbar-left">
 						<ul class="social-line text-center pull-right">
-							<li><a href="javascript:void(0);"> <span> AN ISO 9001:2015 Certified Youtube Channel </span> </a></li>
+							<li><a href="javascript:void(0);"> <span> AN ISO 9001:2015 Certified Youtube Channel</span> </a></li>
 						</ul>
 					</div>                        
 					<div class="dez-topbar-right">
 						<ul class="social-line text-center pull-right">
-							<li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-							<li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-							<li><a href="javascript:void(0);" class="fa fa-linkedin"></a></li>
-							<li><a href="javascript:void(0);" class="fa fa-google-plus"></a></li>
+							<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" class="fa fa-facebook"></a></li>
+							<li><a href="https://t.me/civilenggdestination" class="fa fa-telegram"></a></li>
+							<li><a href="https://www.linkedin.com/in/civilengineeringdestination-43255b1b6/" class="fa fa-linkedin"></a></li>
+							<li><a href="https://www.instagram.com/civilengineeringdestination" class="fa fa-instagram"></a></li>
 						</ul>
 					</div>
 				</div>
 			</div>
-		</div>
-		<!-- top bar END-->
+		</div><!-- top bar END-->
 		<div class="main-bar">
 			<div class="container header-contant-block">
 				<div class="row">
@@ -28,25 +27,25 @@
 						<div class="dez-logo "><a href="/"><img src="{{ asset('user/front_end/images/logooo.png')}}" width="193" height="89" alt=""></a></div>
 					</div>
 					<div class="col-md-8">
-						<ul class="contact-info clearfix">
-							<li>
-								<h6 class="text-primary"><i class="fa fa-phone"></i> Call Us</h6>
-								<span>+91 8899296385</span>
-							</li>
-							<li>
-								<h6 class="text-primary"><i class="fa fa-envelope-o"></i> Send us an Email</h6>
-								<span>Cedestination140@gmail.com</span>
-							</li>
-							<li>
-								<h6 class="text-primary"><i class="fa fa-clock-o"></i> Opening Time</h6>
-								<span>Mon -Sat: 7:00 - 17:00</span>
-							</li>
-							<li>
-							<a class="site-button m-r15 text-white text-center btn-block">  
-									<p class="m-a0">JOIN US ON YOUTUBE</p>
+						<ul class="contact-info clearfix" >
+							<li style="margin-left:100px;">
+								<a class="site-button m-r15 text-white text-center btn-block" href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" style="margin-top:-10px;">  
+									<p class="m-a0">Career Destination</p>
 									<!-- <p class="m-a0">+91 8899296385</p>   -->
 								</a>
+								
 							</li>
+							<li>
+							<a class="site-button text-white text-center " href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1"style="margin-left:10px;margin-top:-10px;" >  
+									<p class="m-a0">Tech Civil Destination</p>
+								</a>
+							</li>
+							<li>
+							<a class="site-button text-white text-center " href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1"style="margin-left:10px;margin-top:0px;" >  
+									<p class="m-a0">Civil Engineering Destination</p>
+								</a>
+							</li>
+
 						</ul>
 					</div>
 				</div>
@@ -206,11 +205,11 @@
                             </ul>
 							<div class="m-t20">
 								<ul class="dez-social-icon dez-social-icon-lg">
-									<li><a href="javascript:void(0);" class="fa fa-facebook bg-primary"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-twitter bg-primary"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-linkedin bg-primary"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-pinterest-p bg-primary"></a></li>
-									<li><a href="javascript:void(0);" class="fa fa-google-plus bg-primary"></a></li>
+									<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" class="fa fa-facebook bg-primary"></a></li>
+									<li><a href="https://t.me/civilenggdestination" class="fa fa-telegram bg-primary"></a></li>
+							<li><a href="https://www.linkedin.com/in/civilengineeringdestination-43255b1b6/" class="fa fa-linkedin bg-primary"></a></li>
+							<li><a href="https://www.instagram.com/civilengineeringdestination" class="fa fa-instagram bg-primary"></a></li>
+		
 								</ul>
 							</div>
                         </div>
