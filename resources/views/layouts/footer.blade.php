@@ -25,7 +25,7 @@
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
-						<div class="widget widget_getintuch">
+						<div class="widget widget_getintuch" style="margin-left:-35px">
 							<h4 class="m-b15 text-uppercase">Contact us</h4>
 							<div class="dez-separator bg-primary"></div>
 							<ul>
@@ -35,19 +35,21 @@
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
-						<div class="widget widget_getintuch">
-						<h4 class="m-b15 text-uppercase">Follow Us On</h4>
-							
-							<ul class="dez-social-icon dez-social-icon-lg">
-								<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" class="fa fa-facebook fb-btn"></a></li>
-								<li><a href="https://t.me/civilenggdestination" class="fa fa-telegram tw-btn"></a></li>
-								<li><a href="https://www.linkedin.com/in/civilengineeringdestination-43255b1b6/" class="fa fa-linkedin link-btn"></a></li>
-								<li><a href="https://www.instagram.com/civilengineeringdestination" class="fa fa-instagram pin-btn"></a></li>
-							
+						<div class="widget widget_services">
+							<h4 class="m-b15 text-uppercase">Follow Us On</h4>
+							<div class="dez-separator bg-primary"></div>
+							<ul>
+							<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" class="fa fa-facebook  ">&nbsp;</a>Facebook</li>
+							<li><a href="https://t.me/civilenggdestination" class="fa fa-telegram  ">&nbsp;</a>Telegram</li>
+							<li><a href="https://www.linkedin.com/in/civilengineeringdestination-43255b1b6/" class="fa fa-linkedin">&nbsp;</a>LinkedIn</li>
+							<li><a href="https://www.instagram.com/civilengineeringdestination" class="fa fa-instagram fa-10x ">&nbsp;</a>Instagram</li>
+							<li><a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" class="fa fa-youtube fa-10x ">&nbsp;</a>Career Destination</li>
+							<li><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" class="fa fa-youtube fa-10x ">&nbsp;</a>Tech Civil Destination</li>
+							<li><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1" class="fa fa-youtube fa-10x ">&nbsp;</a>Civil Engineering Destination</li>
 							</ul>
-							
 						</div>
 					</div>
+					
 					
 				</div>
 			</div>
@@ -57,7 +59,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 text-left"> <span>© Copyright 2021</span> </div>
-					<div class="col-lg-4 text-center"> <span> Designed & Developed <i class="fa fa-heart text-primary heart"></i> By Gnarium Iqnovatives Pvt. Ltd. </span> </div>
+					<div class="col-lg-4 text-center"> <span> Designed & Developed By Gnarium Iqnovatives Pvt. Ltd. </span> </div>
 					<div class="col-lg-4 text-right "> All Right Reserved | Engineering Destination </div>
 				</div>
 			</div>
