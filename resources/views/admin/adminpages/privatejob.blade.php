@@ -106,6 +106,13 @@
                             <form class="cmxform form-horizontal" method="post" action="/admin/adminpages/privatejob" novalidate="novalidate"  enctype="multipart/form-data">
                                 {{ csrf_field()}}
                                 <div class="form-group ">
+                                        <label for="ccomment" class="control-label col-lg-3">Enter Company Name (required)</label>
+                                        <div class="col-lg-6">
+                                            <input class="form-control " id="curl" type="url" name="Companyname">
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="form-group ">
                                     <label for="cname" class="control-label col-lg-3">Enter Job Name (required)</label>
                                         <div class="col-lg-6">
                                             <input class=" form-control" id="cname" name="Jobname" type="text" required="">
@@ -124,15 +131,9 @@
                                         </div>
                                     </div>
                                     <div class="form-group ">
-                                        <label for="ccomment" class="control-label col-lg-3">Enter Company Name (required)</label>
-                                        <div class="col-lg-6">
-                                            <input class="form-control " id="curl" type="url" name="Companyname">
-                                        </div>
-                                    </div>
-                                    <div class="form-group ">
                                         <label for="ccomment" class="control-label col-lg-3">Enter Last Date of Apply (required)</label>
                                         <div class="col-lg-6">
-                                            <input class="form-control " id="curl" type="date" name="Lastname">
+                                            <input class="form-control " id="curl" type="text" name="Lastname">
                                         </div>
                                     </div>
                                     <div class="form-group ">
