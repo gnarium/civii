@@ -28,22 +28,28 @@
 						<div class="dez-logo "><a href="/"><img src="{{ asset('user/front_end/images/logooo.png')}}" width="193" height="89" alt=""></a></div>
 					</div>
 					<div class="col-md-8">
-						<ul class="contact-info clearfix" >
-							<li style="margin-left:100px;">
-								<a class="site-button m-r15 text-white text-center btn-block" href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" style="margin-top:-10px;">  
-									<p class="m-a0">Career Destination</p>
+  						 
+					<ul class="contact-info clearfix" >
+  						
+					<li style="margin-left:100px;">
+						
+					<a class="site-button m-r15 text-white text-center btn-block" href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" style="margin-top:-10px;">  
+									<p class="m-a0">Follow Us On</p>   
+					<p class="m-a0">Career Destination</p>
 									<!-- <p class="m-a0">+91 8899296385</p>   -->
 								</a>
 								
 							</li>
 							<li>
 							<a class="site-button text-white text-center " href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1"style="margin-left:10px;margin-top:-10px;" >  
-									<p class="m-a0">Tech Civil Destination</p>
+							<p class="m-a0">Follow Us On</p>		
+							<p class="m-a0">Tech Civil Destination</p>
 								</a>
 							</li>
 							<li>
 							<a class="site-button text-white text-center " href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1"style="margin-left:10px;margin-top:0px;" >  
-									<p class="m-a0">Civil Engineering Destination</p>
+							<p class="m-a0">Follow Us On</p>		
+							<p class="m-a0">Civil Engineering Destination</p>
 								</a>
 							</li>
 
@@ -51,7 +57,7 @@
 					</div>
 				</div>
 			</div>
-		</div>			<!-- main header -->
+		</div>		<!-- main header -->
 		<div class="sticky-header main-bar-wraper navbar-expand-lg">
 			<div class="main-bar clearfix ">
 				<div class="slide-up">
