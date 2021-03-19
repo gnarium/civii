@@ -29,7 +29,7 @@
 </div>
 </header>
 
-<section id="container">
+<section id="container"style="background-color:#12151a;">
 <aside>
     <div id="sidebar" class="nav-collapse">
         <!-- sidebar menu start-->
