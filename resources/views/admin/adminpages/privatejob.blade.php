@@ -85,7 +85,7 @@
         <!-- sidebar menu end-->
     </div>
 </aside>
-<section id="main-content">
+<section id="main-content" style="background-color:#12151a;">
 	<section class="wrapper">
 		<div class="market-updates">
 			<div class="clearfix"> </div>
@@ -94,7 +94,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row" >
         @include('front_end.flash')
             <div class="col-lg-12">
                     <section class="panel">
