@@ -34,7 +34,6 @@ Route::get('/admin/adminindex',[App\Http\Controllers\AdminController::class,'adm
 Route::get('/admin/adminpages/privatejob',[App\Http\Controllers\AdminController::class,'privatejob'])->name('admin');
 Route::post('/admin/adminpages/privatejob',[App\Http\Controllers\AdminController::class,'privatejob_db'])->name('admin');
 Route::get('privatejob',[App\Http\Controllers\AdminController::class,'privatejobdetails'])->name('admin');
-Route::get('/',[App\Http\Controllers\AdminController::class,'privatejobs'])->name('admin');
 
 Route::get('/privatejob/{tab}',[App\Http\Controllers\AdminController::class,'privatejobdetailsdescribtion'])->name('admin');
 
