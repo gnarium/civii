@@ -145,12 +145,9 @@
                             <h2 class="h2 m-t0"> About Engineering <span class="text-primary">Destination </span></h2>
                             <div class="dez-separator bg-primary"></div>
                             <div class="clear"></div>
-                            <p style="text-align=justify;">ENGINEERING DESTINATION IS A PART OF CIVIL ENGINEERING DESTINATION OWNED BY Er. ANMOL DAINESH SINGH (A. D SINGH) GRADUTED B. TECH IN CIVIL ENGINEERING FROM CENTRAL GOVERNMENT UNIVERSITY. AFTER YEARS OF SERVICE AND EXPERIENCE IN BIG CONSTRUCTION COMPANYS AND GOVERNMENT ORGANIZATIONS I HAVE DECIDED TO WORK FOR THE IMPROVEMENT AND CAREER COUNCELLING OF ENGINEERING STUDENTS AND GRADUATES.
-								CIVIL ENGINEERING DESTINATION IS AN ISO 9001:2015 CERTIFIED CHANNEL.</p>
-                            <p class="m-b30" style="text-align:justify;">CIVIL ENGINEERING DESTINATION PROVIDES MOST AUTHENTIC AND LATEST JOB UPDATES FOR ALL ENGINEERING BRANCHES
-								WE ALSO AIM AT COUNCELLING AND MOTIVATING STUDENTS AND GRADUATES FOR GETTING THE BEST JOB AS PER THEIR REQUIREMENTS BY SPECIAL VIDEO LESSIONS, SPECIAL COURSES AND INTERNSHIP PROGRAMMES ORGANIZED WITH TOP INSITITUONS AND ORGANIZATIONS OF INDIA
-								TECH CIVIL DESTINATION IS ALSO A PART OF CIVIL ENGINEERING DESTINATION WHERE WE HELP STUDENTS THOSE WHO ARE PREPARING FOR COMPETATIVE GOVERNMENT EXAMS.</p>
-                            <div class="row">
+                            <p style="text-align=justify;">Engineering destination is a part of civil engineering destination owned by er. Anmol dainesh singh (a. D singh) graduated b. Tech in civil engineering from central government university. After years of service and experience in big construction companies and government organizations i have decided to work for the improvement and career counselling of engineering students and graduates. Civil engineering destination is an iso 9001:2015 certified channel.</p>
+                            <p class="m-b30" style="text-align:justify;">Civil engineering destination provides most authentic and latest job updates for all engineering branches we also aim at counselling and motivating students and graduates for getting the best job as per their requirements by special video lessons, special courses and internship programmes organized with top institutions and organizations of India tech civil destination is also a part of civil engineering destination where we help students those who are preparing for competitive government exams.A.D Singh has specializations in many engineering fields.In the world of construction an engineer has to master some of the main construction related works are as under</p>
+							<div class="row">
                                 <div class="col-md-6 col-lg-6 col-sm-6">
                                     <div class="icon-bx-wraper bx-style-1 p-a20 left m-b30">
                                         <div class="bg-primary icon-bx-xs m-b20 "> 
@@ -159,8 +156,8 @@
 											</span> 
 										</div>
                                         <div class="icon-content">
-                                            <h5 class="dez-tilte ">Construction</h5>
-                                            <p>Lorem ipsum dolor sit adipiscing sed diam nonummy end .</p>
+                                            <h5 class="dez-tilte " style="text-align:justify">Civil engineering</h5>
+                                            <p style="text-align:justify">Related to construction, planning and designing of all infrastructures, bridge and roads projects.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -172,8 +169,8 @@
 											</span> 
 										</div>
                                         <div class="icon-content">
-                                            <h5 class="dez-tilte ">Architecture</h5>
-                                            <p>Lorem ipsum dolor sit adipiscing sed diam nonummy end .</p>
+                                            <h5 class="dez-tilte" style="text-align:justify">Finishing engineer</h5>
+                                            <p style="text-align:justify">Designing and detailing of external and internal appearance of any construction project.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -187,8 +184,8 @@
 											</span> 
 										</div>
                                         <div class="icon-content">
-                                            <h5 class="dez-tilte ">Consulting</h5>
-                                            <p>Lorem ipsum dolor sit adipiscing sed diam nonummy end .</p>
+                                            <h5 class="dez-tilte" style="text-align:justify">Architecture</h5>
+                                            <p style="text-align:justify">Designing of landscape and planning of towns and maintenance of buildings.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -200,8 +197,8 @@
 											</span> 
 										</div>
                                         <div class="icon-content">
-                                            <h5 class="dez-tilte ">Mechanical</h5>
-                                            <p>Lorem ipsum dolor sit adipiscing sed diam nonummy end .</p>
+                                            <h5 class="dez-tilte" style="text-align:justify">Green building</h5>
+                                            <p style="text-align:justify">Building that reduces the negative impacts on environment using latest technologies.</p>
                                         </div>
                                     </div>
                                 </div>
