@@ -10,7 +10,7 @@
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
-						<div class="widget widget_services">
+						<div class="widget_services">
 							<h4 class="m-b15 text-uppercase">Useful Links</h4>
 							<div class="dez-separator bg-primary"></div>
 							<ul>
@@ -58,9 +58,8 @@
 		<div class="footer-bottom">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-4 text-left"> <span>© Copyright 2021</span> </div>
-					<div class="col-lg-4 text-center"> <span> Designed & Developed By Gnarium Iqnovatives Pvt. Ltd. </span> </div>
-					<div class="col-lg-4 text-right "> All Right Reserved | Engineering Destination </div>
+					<div class="col-lg-6 text-center"> <span> Designed & Developed By <a href="https://www.gnariumiqnovative.com/" target="_blank">Gnarium Iqnovatives Pvt. Ltd.</a> </span> </div>
+					<div class="col-lg-6 text-right "> All Right Reserved | Engineering Destination | 2021 </div>
 				</div>
 			</div>
 		</div>
