@@ -20,7 +20,7 @@ class Govtjobs extends Migration
             $table->string('eligibility');
             $table->string('companyname');
             $table->dateTime('lastdate');   
-            $table->longtext('describtion');
+            $table->mediumtext('describtion');
             $table->timestamps();
         });
  
