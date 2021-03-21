@@ -58,8 +58,8 @@
 		<div class="footer-bottom">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-6 text-left" style="margin-left:-5px"> <span> Design & Developed By<a href="https://www.gnariumiqnovative.com" target="_blank">Gnarium Iqnovatives Pvt.Ltd.</a></span></div>
-					<div class="col-lg-6 text-right "> All Right Reserved | Engineering Destination | 2021 </div>
+					<div class="col-lg-4 text-left" ><span style="font-size:14px;">Design & Develop By<a href="https://www.gnariumiqnovative.com" target="_blank">Gnarium Iqnovatives Pvt. Ltd.</a></span></div>
+					<div class="col-lg-8 text-right "> All Right Reserved | Engineering Destination | 2021 </div>
 				</div>
 			</div>
 		</div>
