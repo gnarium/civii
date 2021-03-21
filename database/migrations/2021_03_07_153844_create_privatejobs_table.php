@@ -20,7 +20,7 @@ class CreatePrivatejobsTable extends Migration
             $table->string('eligibility');
             $table->string('companyname');
             $table->string('lastdate');   
-            $table->longtext('describtion');
+            $table->mediumtext('describtion');
             $table->timestamps();
         });
     }
