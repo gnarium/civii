@@ -19,8 +19,8 @@ class CreatePrivatejobsTable extends Migration
             $table->string('branch');
             $table->string('eligibility');
             $table->string('companyname');
-            $table->dateTime('lastdate');   
-            $table->string('describtion');
+            $table->string('lastdate');   
+            $table->longtext('describtion');
             $table->timestamps();
         });
     }
