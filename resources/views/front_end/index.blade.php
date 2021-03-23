@@ -173,7 +173,6 @@
 			</div>	
 		</div>
        &nbsp;
-
 	   <div class="container">
                 <div class="text-black text-center" >
                     <h2 class="h2">Latest Jobs</h2>
@@ -389,7 +388,58 @@
                 </div>
             </div>
         </div>
+		<div class="section-full overlay-black-middle bg-img-fix content-inner-1" style="background-image:url('{{ asset('user/front_end/images/background/bg12.jpg')}}');">
+            <div class="container">
+                <div class="section-head text-white text-center">
+                    <h2 class="h2">Follow Us On</h2>
+					<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
+                </div>
+                <div class="section-content">
+                    <div class="testimonial-two owl-carousel owl-theme">
+                        <div class="item">
+                            <div class="testimonial-2 testimonial-bg">
+                                <div class="testimonial-text">
+                                    <p><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1
+"><img src="{{ asset('user/front_end/images/testimonials/join.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></a></p>
+                                </div>
+                                <div class="testimonial-detail clearfix">  </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial-2 testimonial-bg">
+                                <div class="testimonial-text">
+                                    <p><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1
+"><img src="{{ asset('user/front_end/images/testimonials/11.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></a></p>
+                                </div>
+                                <div class="testimonial-detail clearfix"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial-2 testimonial-bg">
+                                <div class="testimonial-text">
+                                    <p><a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1
+"><img src="{{ asset('user/front_end/images/testimonials/12.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></a></p>
+                                </div>
+                                <div class="testimonial-detail clearfix"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial-2 testimonial-bg">
+                                <div class="testimonial-text">
+                                    <p><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1
+"><img src="{{ asset('user/front_end/images/testimonials/13.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></p>
+                                </div>
+                                <div class="testimonial-detail clearfix">
+                                     </div>
+                            </div>
+                        </div>
+                        
+						                    </div>
+                </div>
+            </div>
+        </div>
 
+	   
 		<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-7 col-sm-12">
