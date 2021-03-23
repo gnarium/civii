@@ -21,6 +21,7 @@ class Govtjobs extends Migration
             $table->string('companyname');
             $table->dateTime('lastdate');   
             $table->mediumText('describtion');
+            $table->string('jobtitileurl')->nullable();
             $table->timestamps();
         });
  
