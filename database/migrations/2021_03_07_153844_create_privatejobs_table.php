@@ -21,6 +21,7 @@ class CreatePrivatejobsTable extends Migration
             $table->string('companyname');
             $table->string('lastdate');   
             $table->mediumText('describtion');
+            $table->string('jobtitileurl')->nullable();
             $table->timestamps();
         });
     }
