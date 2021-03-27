@@ -116,12 +116,16 @@ class AdminController extends Controller
     }
     public function govtjobdetail()
     {
-        $todoArr13 = DB::select('select * from govtjobs');
-        $todoArr110 = DB::select('select * from privatejobs');
+        $todoArr13 = DB::table('govtjobs')
+        ->whereBetween('id',[0,3])
+        ->get();
+        // $todoArr110 = DB::select("select * from privatejobs");
+        $todoArr110=DB::table('privatejobs')
+        ->whereBetween('id',[0,3])
+        ->get();
         return view('front_end/index',['todoArr13'=>$todoArr13,'todoArr110'=>$todoArr110]);
-        
-
     }
+    
     public function jobdetailsdescribtion($tab)
     {
         $todoArr14=DB::table('govtjobs')->select('describtion')->where('jobtitileurl',$tab)->first();
