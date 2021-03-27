@@ -197,7 +197,7 @@
                                         <h6 class="m-b0">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
                                         <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button">View More</a>
+											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>View More</a>
 										</div>
 									</div>
 									
@@ -225,7 +225,7 @@
                                         <h6 class="m-b0">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
                                         <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button">View More </a>
+											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>View More </a>
 										</div>
 										</div>
 								</div>
