@@ -162,6 +162,8 @@
   <span class="carousel-control-next-icon"></span>
 </a>
 </div>
+
+
 &nbsp;
 <div class="section-full bg-img-fix overlay-black-middle content-inner-1 about-uni" style="background-image:url({{ asset('user/front_end/images/background/bg2.jpg')}});">
             <div class="container" >
@@ -172,42 +174,51 @@
 				</div>
 			</div>	
 		</div>
-       &nbsp;
-	   <div class="container">
-                <div class="text-black text-center" >
-                    <h2 class="h2">Latest Jobs</h2>
-  						<h3>Government Job's</h3>
-					<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
-                </div><div class="row" id="masonry" >
+		
+<div class="section-full bg-white content-inner">
+            <!-- Product -->
+            <div class="container">
+				<div class="row">
+					<div class="col-lg-12 col-md-7 col-sm-12">
+						<div class="text-center m-b50">
+							<h2 class="m-t0">Latest  Job's</h2>
+							<h2 class="m-t0">Government  Job's</h2>
+							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
+						</div>
+						<div class="row" id="masonry">
                         @foreach($todoArr13 as $todo1)
-							<div class="col-md-12 col-lg-12 col-sm-12 m-b30 product-item card-container testimonial-two owl-carousel owl-theme" >
-								<div class="dez-box" style="border-radius:25px;border-color:yellow;">
-									<div class="dez-info p-a20"  >
+							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
+								<div class="dez-box ">
+									<div class="dez-info p-a20">
 										<h3 class="m-b0" style="text-align:center;"><span>{{$todo1->jobname}}</span></h3>
-                                    	<h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
+                                        <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
                                         <h6 class="m-b0">Designation:</h6><span>{{$todo1->jobname}}</span>
                                         <h6 class="m-b0">Branch:</h6><span>{{$todo1->branch}}</span>
                                         <h6 class="m-b0">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
                                         <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button">View More </a>
+											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button">View More</a>
 										</div>
 									</div>
+									
 								</div>
 							</div>
+							
                         @endforeach
-						
 						</div>
-				<div class="text-black text-center">
-                    	<h3>Private Job's</h3>
-					<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
-                </div>
-				<div class="row" id="masonry">
+						<div class="m-t10" style="text-align:center;">
+							<a href="/govtjob" class="site-button">View More Job's</a>
+						</div>
+						<div class="text-center m-b50">
+							<h2 class="m-t0">Private  Job's</h2>
+							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
+						</div>
+						<div class="row" id="masonry">
                         @foreach($todoArr110 as $todo1)
-							<div class="col-md-12 col-lg-12 col-sm-12 m-b30 product-item card-container testimonial-two owl-carousel owl-theme">
-								<div class="dez-box " style="border-radius:25px;border-color:yellow;">
+						<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
+								<div class="dez-box ">
 									<div class="dez-info p-a20">
-										<h3 class="m-b0"><span>{{$todo1->jobname}}</span></h3>
+										<h3 class="m-b0" style="text-align:center;"><span>{{$todo1->jobname}}</span></h3>
                                         <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
                                        	<h6 class="m-b0">Designation:</h6><span>{{$todo1->jobname}}</span>
                                         <h6 class="m-b0">Branch:</h6><span>{{$todo1->branch}}</span>
@@ -216,21 +227,20 @@
 										<div class="m-t10">
 											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button">View More </a>
 										</div>
-									</div>
-									<div class="sale">
-										<span class="site-button button-sm primary">View More </span>
-									</div>
+										</div>
 								</div>
 							</div>
                         @endforeach
-						
 						</div>
 						
+						<div class="m-t10" style="text-align:center;">
+							<a href="/govtjob" class="site-button">View More Job's</a>
+						</div>
+					</div>
+                </div>
+		   </div>
         </div>
-		</br>
-		
-       
-	   
+    
 	   
 	   
 	   
@@ -341,6 +351,7 @@
                 </div>
             </div>
         </div>
+		
 		<!-- Our Gallery END -->
 		<!-- Testimonials blog -->
         <div class="section-full overlay-black-middle bg-img-fix content-inner-1" style="background-image:url('{{ asset('user/front_end/images/background/bg12.jpg')}}');">
@@ -470,5 +481,4 @@
 					</div>
                 </div>
 		   </div>
-        <!-- Testimonials blog END -->
-		 </div>
+         </div>
