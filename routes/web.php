@@ -29,30 +29,20 @@ Route::get('contact',[App\Http\Controllers\AdminController::class,'contact'])->n
 Route::post('/front_end/contact',[App\Http\Controllers\AdminController::class,'contact_db'])->name('admin');
 
 
-Route::get('/admin/adminindex',[App\Http\Controllers\AdminController::class,'adminindex'])->name('admin');
-
-Route::get('/admin/adminpages/privatejob',[App\Http\Controllers\AdminController::class,'privatejob'])->name('admin');
-Route::post('/admin/adminpages/privatejob',[App\Http\Controllers\AdminController::class,'privatejob_db'])->name('admin');
 Route::get('privatejob',[App\Http\Controllers\AdminController::class,'privatejobdetails'])->name('admin');
 
 Route::get('/privatejob/{tab}',[App\Http\Controllers\AdminController::class,'privatejobdetailsdescribtion'])->name('admin');
 
 Route::match(['get','post'],'/admin/login',[App\Http\Controllers\AdminController::class,'login'])->name('admin');
 
-Route::get('/admin/adminpages/govtjob',[App\Http\Controllers\AdminController::class,'govtjob'])->name('admin');
-Route::post('/admin/adminpages/govtjob',[App\Http\Controllers\AdminController::class,'govtjob_db'])->name('admin');
 Route::get('govtjob',[App\Http\Controllers\AdminController::class,'govtjobdetails'])->name('admin');
 Route::get('/',[App\Http\Controllers\AdminController::class,'govtjobdetail'])->name('admin');
 
 Route::get('govtjob/{tab}',[App\Http\Controllers\AdminController::class,'jobdetailsdescribtion'])->name('admin');
 
 
-Route::get('/admin/adminpages/qa',[App\Http\Controllers\AdminController::class,'qa'])->name('admin');
-Route::post('/admin/adminpages/qa',[App\Http\Controllers\AdminController::class,'qa_db'])->name('admin');
 Route::get('/qa',[App\Http\Controllers\AdminController::class,'qas_enquiry'])->name('admin');
 
-Route::get('/admin/adminpages/iscode',[App\Http\Controllers\AdminController::class,'iscode'])->name('admin');
-Route::post('/admin/adminpages/iscode',[App\Http\Controllers\AdminController::class,'iscode_db'])->name('admin');
 Route::get('/iscode',[App\Http\Controllers\AdminController::class,'iscodes_enquiry'])->name('admin');
 
 Auth::routes();
@@ -60,3 +50,15 @@ Auth::routes();
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 
+Route::group(['namespace'=>'Admin','middleware'=>['auth'],],function(){
+    Route::get('/admin/adminpages/qa',[App\Http\Controllers\AdminController::class,'qa'])->name('admin');
+    Route::post('/admin/adminpages/qa',[App\Http\Controllers\AdminController::class,'qa_db'])->name('admin');
+    Route::get('/admin/adminpages/iscode',[App\Http\Controllers\AdminController::class,'iscode'])->name('admin');
+    Route::post('/admin/adminpages/iscode',[App\Http\Controllers\AdminController::class,'iscode_db'])->name('admin');
+    Route::get('/admin/adminpages/govtjob',[App\Http\Controllers\AdminController::class,'govtjob'])->name('admin');
+    Route::post('/admin/adminpages/govtjob',[App\Http\Controllers\AdminController::class,'govtjob_db'])->name('admin');
+    Route::get('/admin/adminindex',[App\Http\Controllers\AdminController::class,'adminindex'])->name('admin');
+    Route::get('/admin/adminpages/privatejob',[App\Http\Controllers\AdminController::class,'privatejob'])->name('admin');
+    Route::post('/admin/adminpages/privatejob',[App\Http\Controllers\AdminController::class,'privatejob_db'])->name('admin');
+
+});
