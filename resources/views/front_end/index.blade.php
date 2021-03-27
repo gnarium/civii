@@ -207,7 +207,7 @@
                         @endforeach
 						</div>
 						<div class="m-t10" style="text-align:center;">
-							<a href="/govtjob" class="site-button">View More Job's</a>
+							<a href="/govtjob" target="_blank" class="site-button">View More Job's</a>
 						</div>
 						<div class="text-center m-b50">
 							<h2 class="m-t0">Private  Job's</h2>
@@ -234,7 +234,7 @@
 						</div>
 						
 						<div class="m-t10" style="text-align:center;">
-							<a href="/privatejob" class="site-button">View More Job's</a>
+							<a href="/privatejob" target="_blank" class="site-button">View More Job's</a>
 						</div>
 					</div>
                 </div>
