@@ -185,10 +185,10 @@
 							<h2 class="m-t0">Government  Job's</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
-						<div class="row" id="masonry">
+						<div class="row" id="masonry" >
                         @foreach($todoArr13 as $todo1)
 							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
-								<div class="dez-box ">
+								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-info p-a20">
 										<h3 class="m-b0" style="text-align:center;"><span>{{$todo1->jobname}}</span></h3>
                                         <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
@@ -216,7 +216,7 @@
 						<div class="row" id="masonry">
                         @foreach($todoArr110 as $todo1)
 						<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
-								<div class="dez-box ">
+								<div class="dez-box " style="background-color:#FDC716">
 									<div class="dez-info p-a20">
 										<h3 class="m-b0" style="text-align:center;"><span>{{$todo1->jobname}}</span></h3>
                                         <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
@@ -455,7 +455,7 @@
                 </div>
             </div>
         </div>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	   
 		<div class="container">
 				<div class="row">
