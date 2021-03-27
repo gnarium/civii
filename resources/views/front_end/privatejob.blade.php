@@ -157,7 +157,7 @@
                                         <h6 class="m-b0">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
                                         <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/front_end/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button">For More Info</a>
+											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button">For More Info</a>
 										</div>
 									</div>
 								</div>
