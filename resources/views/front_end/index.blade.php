@@ -9,7 +9,7 @@
   {
 	.carousel-inner img {
     width: 100% !important;
-	height:60% !important;
+	height:50% !important;
   }
   	  
   }
@@ -147,7 +147,7 @@
 	<img src="{{ asset('user/front_end/images/main-slider/slide1.jpg')}}" alt="Los Angeles" width="1100" height="500">
   </div>
   <div class="carousel-item">
-	<img src="{{ asset('user/front_end/images/main-slider/slide7.jpg')}}" alt="Chicago" width="1100" height="500">
+	<img src="{{ asset('user/front_end/images/main-slider/slide6.jpg')}}" alt="Chicago" width="1100" height="500">
   </div>
   <div class="carousel-item">
 	<img src="{{ asset('user/front_end/images/main-slider/slide4.jpg')}}" alt="New York" width="1100" height="500">
@@ -410,42 +410,48 @@
                         <div class="item">
                             <div class="testimonial-2 testimonial-bg">
                                 <div class="testimonial-text">
-                                    <p><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1
-"><img src="{{ asset('user/front_end/images/testimonials/join.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></a></p>
+                                    <p>
+										<a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1">
+											<img src="{{ asset('user/front_end/images/testimonials/join.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></a>
+									</p>
                                 </div>
-                                <div class="testimonial-detail clearfix">  </div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="testimonial-2 testimonial-bg">
                                 <div class="testimonial-text">
-                                    <p><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1
-"><img src="{{ asset('user/front_end/images/testimonials/11.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></a></p>
+                                    <p>
+										<a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1">
+											<img src="{{ asset('user/front_end/images/testimonials/11.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
+										</a>
+									</p>
                                 </div>
-                                <div class="testimonial-detail clearfix"></div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="testimonial-2 testimonial-bg">
                                 <div class="testimonial-text">
-                                    <p><a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1
-"><img src="{{ asset('user/front_end/images/testimonials/12.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></a></p>
+                                    <p>
+										<a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1">
+											<img src="{{ asset('user/front_end/images/testimonials/12.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
+										</a>
+									</p>
                                 </div>
-                                <div class="testimonial-detail clearfix"></div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="testimonial-2 testimonial-bg">
                                 <div class="testimonial-text">
-                                    <p><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1
-"><img src="{{ asset('user/front_end/images/testimonials/13.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></p>
+                                    <p>
+										<a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1">
+											<img src="{{ asset('user/front_end/images/testimonials/13.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
+										</a>
+									</p>
                                 </div>
-                                <div class="testimonial-detail clearfix">
-                                     </div>
                             </div>
                         </div>
-                        
-						                    </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
