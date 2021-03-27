@@ -148,7 +148,7 @@
 						<div class="row" id="masonry">
                         @foreach($todoArr12 as $todo1)
 							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
-								<div class="dez-box ">
+								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-info p-a20">
 										<h3 class="m-b0" style="text-align:center;"><span>{{$todo1->jobname}}</span></h3>
                                         <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
@@ -157,7 +157,7 @@
                                         <h6 class="m-b0">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
                                         <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button">For More Info</a>
+											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>For More Info</a>
 										</div>
 									</div>
 								</div>
