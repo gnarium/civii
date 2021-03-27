@@ -395,6 +395,17 @@
                                     <strong class="testimonial-name">Satyarth Pandey</strong> <span class="testimonial-position">Student</span> </div>
                             </div>
                         </div>
+						<div class="item">
+                            <div class="testimonial-2 testimonial-bg">
+                                <div class="testimonial-text">
+                                    <p>Sir mujhe aj mail received hua hain ....I am selected for CSIR IMMT Bhubaneswar . thank you sir.</p>
+                                </div>
+                                <div class="testimonial-detail clearfix">
+                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/m.jpeg')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
+                                    <strong class="testimonial-name">Saurav Paul</strong> <span class="testimonial-position">Student</span> </div>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
