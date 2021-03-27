@@ -234,7 +234,7 @@
 						</div>
 						
 						<div class="m-t10" style="text-align:center;">
-							<a href="/govtjob" class="site-button">View More Job's</a>
+							<a href="/privatejob" class="site-button">View More Job's</a>
 						</div>
 					</div>
                 </div>
