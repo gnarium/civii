@@ -139,7 +139,7 @@
                 <div class="section-content">
                     <div class="row">
 						<div class="col-lg-5 m-b30 hidden-sm">
-                            <div class="dez-thu "><img src="{{ asset('user/front_end/images/about.jpeg')}}" alt=""></div>
+                            <div class="dez-thu "><img src="{{ asset('user/front_end/images/A D SIR.png')}}" alt=""></div>
                         </div>
                         <div class="col-lg-7">
                             <h2 class="h2 m-t0"> About Engineering <span class="text-primary">Destination </span></h2>
