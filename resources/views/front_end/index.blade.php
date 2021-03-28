@@ -380,7 +380,7 @@
                                     <p>My self Saltanat khan from Delhi. I get a next good opportunity in NCC Limited from your Channel. My duty start 10 March. I am so grateful for your support and kindness.I am saying 100 times Thankyou so much sir</p>
                                 </div>
                                 <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/Saltanatkhan.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
+                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/Saltanat.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
                                     <strong class="testimonial-name">Saltanat khan</strong> <span class="testimonial-position">Student</span> </div>
                             </div>
                         </div>
