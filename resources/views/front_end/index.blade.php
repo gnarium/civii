@@ -150,7 +150,7 @@
 	<img src="{{ asset('user/front_end/images/main-slider/slide6.jpg')}}" alt="Chicago" width="1100" height="500">
   </div>
   <div class="carousel-item">
-	<img src="{{ asset('user/front_end/images/main-slider/slide4.jpg')}}" alt="New York" width="1100" height="500">
+	<img src="{{ asset('user/front_end/images/main-slider/slide7.jpg')}}" alt="New York" width="1100" height="500">
   </div>
 </div>
 
@@ -265,7 +265,7 @@
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-slideshare"></i></div>
                             <div class="counter text-white m-b5 h2">20</div>
-                            <span>ISCODE</span> 
+                            <span>IS Codes</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b10">
@@ -306,7 +306,7 @@
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20"><span class="icon-cell"><i class="fa fa-leanpub text-primary" style="margin-top:25px;"></i></span>  </div>
 								<div class="icon-content">
-									<h5 class="dez-tilte text-uppercase">IS CODE</h5>
+									<h5 class="dez-tilte text-uppercase">IS CODES</h5>
 									<p>WE PROVIDE IS CODES FOR CIVIL ENGINEERING PROFESSIONALS AND STUDENTS FOR THEIR KNOWLEDGE AND UNDERSTANDING. </p>
 								</div>
 							</div>
