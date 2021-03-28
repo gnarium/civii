@@ -145,8 +145,7 @@
                         <h1 class="m-b20 m-t0">Job Describtion </h1>
                         <div class="dez-separator bg-primary"></div>
                         <p><strong>{!!$todoArr14->describtion!!}</strong></p>
-                        <a href="#" class="site-button "><span>Apply Now</span><i class="fa fa-angle-right m-l10"></i></a> </div>
-               		</div>
+                     </div>
             	</div>
             <!-- Career END -->
         </div>
