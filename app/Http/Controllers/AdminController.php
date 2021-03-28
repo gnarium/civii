@@ -17,7 +17,31 @@ class AdminController extends Controller
     {
         return view("admin.adminpages.enquiry");
     }
-        public function login(Request $request)
+    public function govtjobdetail()
+    {
+        $todoArr13 = DB::table('govtjobs')
+        ->whereBetween('id',[0,3])
+        ->get();
+        // $todoArr110 = DB::select("select * from privatejobs");
+        $todoArr110=DB::table('privatejobs')
+        ->whereBetween('id',[0,3])
+        ->get();
+        return view('front_end/index',['todoArr13'=>$todoArr13,'todoArr110'=>$todoArr110]);
+    }
+    
+    public function search(Request $request)
+    {
+        $search=$request->search;
+        if($search !=='')
+        {
+            $iscode =iscode::where('iscode','LIKE','%'. $search .'%')->get();
+                return view('/front_end/iscodedisplay')
+                ->with('iscode',$iscode); 
+
+        }
+        return back();
+    }
+    public function login(Request $request)
         {
             if($request->isMethod('post'))
             {
@@ -90,7 +114,13 @@ class AdminController extends Controller
         $contacts->subject=$req2->Subject;
         $contacts->msg=$req2->Msg;
         $contacts->save();
-        return redirect('/front_end/contact')->with('success','We Will Connect You as soon as possible!');
+        return redirect('/contact')->with('success','We Will Connect You as soon as possible!');
+    }
+    public function contactdisplay()
+    {
+        $todoArr111 = DB::select('select * from contacts');
+        return view('/admin/adminpages/contact',['todoArr111'=>$todoArr111]);
+        
     }
     public function govtjob_db(Request $req2)
     {
@@ -114,18 +144,6 @@ class AdminController extends Controller
         
 
     }
-    public function govtjobdetail()
-    {
-        $todoArr13 = DB::table('govtjobs')
-        ->whereBetween('id',[0,3])
-        ->get();
-        // $todoArr110 = DB::select("select * from privatejobs");
-        $todoArr110=DB::table('privatejobs')
-        ->whereBetween('id',[0,3])
-        ->get();
-        return view('front_end/index',['todoArr13'=>$todoArr13,'todoArr110'=>$todoArr110]);
-    }
-    
     public function jobdetailsdescribtion($tab)
     {
         $todoArr14=DB::table('govtjobs')->select('describtion')->where('jobtitileurl',$tab)->first();
