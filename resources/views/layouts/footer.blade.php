@@ -69,7 +69,6 @@
 <!-- JavaScript  files ========================================= -->
 <script src="{{ asset('user/front_end/js/combining.js')}}"></script><!-- COMBINING JS  -->
 <!-- REVOLUTION JS FILES -->
-<script src="{{ asset('user/front_end/plugins/revolution/revolution/js/jquery.themepunch.tools.min.js')}}"></script>
 <script src="{{ asset('user/front_end/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>
 <script src="{{ asset('user/front_end/js/rev.slider.js')}}"></script>
 <script>
