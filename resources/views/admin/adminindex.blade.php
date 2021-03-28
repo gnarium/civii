@@ -80,9 +80,9 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="/admin/adminpages/contact">
                         <i class="fa fa-user"></i>
-                        <span>Login Page</span>
+                        <span>Contact</span>
                     </a>
                 </li>
             </ul>            </div>
