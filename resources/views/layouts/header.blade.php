@@ -20,6 +20,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<!-- STYLESHEETS -->
+    <link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/css/plugins.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/fontawesome/css/font-awesome.min.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/themify/themify-icons.css')}}">
+	
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/css/style.min.css')}}">
 	<link class="skin" rel="stylesheet" type="text/css" href="{{ asset('user/front_end/css/skin/skin-1.css')}}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/css/templete.min.css')}}">
