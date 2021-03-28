@@ -145,7 +145,7 @@
                     <div class="col-lg-8">
                         <div class="p-a30 bg-gray clearfix m-b30 ">
 							<h2>Send Message Us</h2>
-							<form method="post"  action="/front_end/contact">
+							<form method="post"  action="/contact">
 							{{ csrf_field()}}
 							    <div class="row">
                                     <div class="col-md-6">
