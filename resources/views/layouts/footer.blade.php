@@ -5,7 +5,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
 						<div class="widget widget_about">
 							<div class="logo-footer"><img src="{{ asset('user/front_end/images/logooo.png')}}" alt=""></div>
-							<p class="m-tb20">Dear candidate, we are not a recruiter/job consultant. We only post the available and relevant jobs from the internet, we are not involved directly or indirectly in the recruitment process at any stage.</p>
+							<p class="m-tb20" style="text-align:justify;">Dear candidate, we are not a recruiter/job consultant. We only post the available and relevant jobs from the internet, we are not involved directly or indirectly in the recruitment process at any stage.</p>
 								
 						</div>
 					</div>
@@ -19,7 +19,7 @@
 								<li><a href="/privatejob">Private Job's</a></li>
 								<li><a href="/privacy">Privacy & Policy</a></li>
 								<li><a href="/contact">Contact</a></li>
-								<li><a href="/iscode">IS CODES</a></li>
+								<li><a href="/iscode">IS Codes</a></li>
 								<li><a href="/qa">QA/QC Reports</a></li>
 							</ul>
 						</div>
