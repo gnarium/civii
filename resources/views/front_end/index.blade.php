@@ -15,7 +15,6 @@
   }
   
   </style>
-<div class="page-wraper">
 	<!-- header -->
 	<header class="site-header header-style-4 dark">
 		<!-- top bar -->
@@ -264,14 +263,14 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-slideshare"></i></div>
-                            <div class="counter text-white m-b5 h2">100</div>
+                            <div class="counter text-white m-b5 h2">20</div>
                             <span>IS Codes</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b10">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-home"></i></div>
-                            <div class="counter text-white m-b5 h2">10</div>
+                            <div class="counter text-white m-b5 h2">20</div>
                             <span>QA/QC Testing</span> 
 						</div>
                     </div>
@@ -371,7 +370,7 @@
 			</p>
                                 </div>
                                 <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/1.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
+                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/Abhishek sinha.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
                                     <strong class="testimonial-name">Abhishek Sinha</strong> <span class="testimonial-position">Student</span> </div>
                             </div>
                         </div>
@@ -381,7 +380,7 @@
                                     <p>My self Saltanat khan from Delhi. I get a next good opportunity in NCC Limited from your Channel. My duty start 10 March. I am so grateful for your support and kindness.I am saying 100 times Thankyou so much sir</p>
                                 </div>
                                 <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/2.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
+                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/Saltanat khan.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
                                     <strong class="testimonial-name">Saltanat khan</strong> <span class="testimonial-position">Student</span> </div>
                             </div>
                         </div>
@@ -391,7 +390,7 @@
                                     <p>Respected sir,With due regards I would like to inform you that I have been selected as an GAT in HPCL because of the notification posted by you on your channel.Thanks a lot sir this kind of hard work definately pays off.Attaching my award letter for your reference.</p>
                                 </div>
                                 <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/3.png')}}" width="100" style="margin-top:-15px" height="100" alt=""></div>
+                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/Satyarth pandey.png')}}" width="100" style="margin-top:-15px" height="100" alt=""></div>
                                     <strong class="testimonial-name">Satyarth Pandey</strong> <span class="testimonial-position">Student</span> </div>
                             </div>
                         </div>
@@ -423,7 +422,7 @@
                                 <div class="testimonial-text">
                                     <p>
 										<a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/join.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></a>
+											<img src="{{ asset('user/front_end/images/testimonials/isocertifiedchannel.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></a>
 									</p>
                                 </div>
                             </div>
@@ -433,7 +432,7 @@
                                 <div class="testimonial-text">
                                     <p>
 										<a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/11.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
+											<img src="{{ asset('user/front_end/images/testimonials/career destination youtubechannel.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
 										</a>
 									</p>
                                 </div>
@@ -444,7 +443,7 @@
                                 <div class="testimonial-text">
                                     <p>
 										<a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/12.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
+											<img src="{{ asset('user/front_end/images/testimonials/civil engineering destination youtubechannel.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
 										</a>
 									</p>
                                 </div>
@@ -455,7 +454,7 @@
                                 <div class="testimonial-text">
                                     <p>
 										<a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/13.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
+											<img src="{{ asset('user/front_end/images/testimonials/tech civil destination youtubechannel.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
 										</a>
 									</p>
                                 </div>
