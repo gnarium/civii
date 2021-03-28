@@ -1,6 +1,6 @@
 @extends ('admin.adminlayouts.adminmain')
 
-<script src="https://cdn.ckeditor.com/4.15.1/standard/ckeditor.js"></script>
+<script src="https://cdn.ckeditor.com/4.15.1/full/ckeditor.js"></script>
 <body>
 	<header class="header fixed-top clearfix" style="background-color:#FDC716">
 <!--logo start-->
