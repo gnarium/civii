@@ -380,7 +380,7 @@
                                     <p>My self Saltanat khan from Delhi. I get a next good opportunity in NCC Limited from your Channel. My duty start 10 March. I am so grateful for your support and kindness.I am saying 100 times Thankyou so much sir</p>
                                 </div>
                                 <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/Saltanat.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
+                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/Saltanat khan.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
                                     <strong class="testimonial-name">Saltanat khan</strong> <span class="testimonial-position">Student</span> </div>
                             </div>
                         </div>
@@ -477,19 +477,19 @@
 						</div>
 						<div class="row" id="masonry">
                 			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 1-1.png')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 1-1.png')}}" style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 1_1-min.jpg')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 1_1-min.jpg')}}" style="height:250px" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/gallery/Certificate 2-1.png')}}" target="_blank"><img src="{{ asset('user/front_end/images/gallery/Certificate 2-1.png')}}" style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/gallery/Certificate 2_1-min.jpg')}}" target="_blank"><img src="{{ asset('user/front_end/images/gallery/Certificate 2_1-min.jpg')}}" style="height:250px" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 3-1.png')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 3-1.png')}}"  style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 3_1-min.jpg')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 3_1-min.jpg')}}"  style="height:250px" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/ISO certificate-1.png')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/ISO certificate-1.png')}}"style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/ISO certificate_1-min.jpg')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/ISO certificate_1-min.jpg')}}"style="height:250px" alt=""></a>
 									</div>
 							</div>
                  		</div>
