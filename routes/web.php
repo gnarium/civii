@@ -23,10 +23,11 @@ Route::view('/privacy','front_end/privacy');
 Route::view('/disclaimer','front_end/disclaimer');
 
 
+Route::get('search',[App\Http\Controllers\AdminController::class,'search'])->name('search');
 
 
 Route::get('contact',[App\Http\Controllers\AdminController::class,'contact'])->name('admin');
-Route::post('/front_end/contact',[App\Http\Controllers\AdminController::class,'contact_db'])->name('admin');
+Route::post('contact',[App\Http\Controllers\AdminController::class,'contact_db'])->name('admin');
 
 
 Route::get('privatejob',[App\Http\Controllers\AdminController::class,'privatejobdetails'])->name('admin');
@@ -60,5 +61,5 @@ Route::group(['namespace'=>'Admin','middleware'=>['auth'],],function(){
     Route::get('/admin/adminindex',[App\Http\Controllers\AdminController::class,'adminindex'])->name('admin');
     Route::get('/admin/adminpages/privatejob',[App\Http\Controllers\AdminController::class,'privatejob'])->name('admin');
     Route::post('/admin/adminpages/privatejob',[App\Http\Controllers\AdminController::class,'privatejob_db'])->name('admin');
-
+    Route::get('/admin/adminpages/contact',[App\Http\Controllers\AdminController::class,'contactdisplay'])->name('admin');
 });
