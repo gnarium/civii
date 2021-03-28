@@ -78,5 +78,4 @@ jQuery(document).ready(function() {
 	dz_rev_slider_1();
 });	/*ready*/
 </script>
-<div id="loading-area"></div>
 
