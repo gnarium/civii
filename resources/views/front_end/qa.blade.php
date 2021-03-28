@@ -159,17 +159,7 @@
     <div>
 	<div class="container">
     <div class="row">
-        <form class="col-md-6 py-2">
-            <div class="input-group">
-                <input type="text" class="form-control typeahead border-primary" name="query" id="query" placeholder="Please Enter Details Here" data-provide="typeahead" autocomplete="off">
-                <div class="input-group-append">
-                    <button type="submit" class="btn btn-outline-primary">
-                        <i class="fa fa-search"></i>
-                    </button>
-                </div>
             </div>
-        </form>
-    </div>
 </div>   
 
       <table class="table container">
