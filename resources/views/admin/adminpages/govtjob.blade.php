@@ -1,7 +1,7 @@
 @extends ('admin.adminlayouts.adminmain')
 <body>
-    
-    <script src="https://cdn.ckeditor.com/4.15.1/full/ckeditor.js"></script>
+
+<script src="https://cdn.ckeditor.com/4.16.0/full/ckeditor.js"></script>
 	<header class="header fixed-top clearfix" style="background-color:#FDC716">
 <div class="brand1">
     <a href="/admin/adminindex" class="logo">
@@ -67,9 +67,9 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="/admin/adminpages/contact">
                         <i class="fa fa-user"></i>
-                        <span>Login Page</span>
+                        <span>Contact</span>
                     </a>
                 </li>
             </ul>   
@@ -129,7 +129,8 @@
                                     <div class="form-group ">
                                         <label for="ccomment" class=" col-lg-3">Enter Job Describtion (required)</label>
                                         <div class="col-lg-6" >
-                                            <textarea  class="ckeditor" name="JobDescribtion" ></textarea>
+                                            <textarea class="ckeditor" name="JobDescribtion" ></textarea>
+                                            
                                         </div>
                                     </div>
         
