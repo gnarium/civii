@@ -159,16 +159,13 @@
  <div class="panel panel-default">
  <div class="container">
     <div class="row">
-        <form class="col-md-6 py-2">
-            <div class="input-group">
-                <input type="text" class="form-control typeahead border-primary" name="query" id="query" placeholder="Please Enter Details Here" data-provide="typeahead" autocomplete="off">
-                <div class="input-group-append">
-                    <button type="submit" class="btn btn-outline-primary">
-                        <i class="fa fa-search"></i>
-                    </button>
-                </div>
-            </div>
-        </form>
+	<form class="form-inline my-2 my-lg-0 mx-auto" style="width: 100%;" action="{{route('search')}}">
+        @csrf
+        <input class="form-control search" type="search" placeholder="Search " aria-label="Search" name="search" style="width: 80%;">
+        <button type="submit" class="btn btn-success my-2 my-sm-0 search-button" href="" style="border: 0px solid red;">
+        <i class="fa fa-search"></i>
+        </button>
+      </form>
     </div>
 </div>   
 <div class="container">
