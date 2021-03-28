@@ -264,14 +264,14 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-slideshare"></i></div>
-                            <div class="counter text-white m-b5 h2">20</div>
+                            <div class="counter text-white m-b5 h2">100</div>
                             <span>IS Codes</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b10">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-home"></i></div>
-                            <div class="counter text-white m-b5 h2">20</div>
+                            <div class="counter text-white m-b5 h2">10</div>
                             <span>QA/QC Testing</span> 
 						</div>
                     </div>
