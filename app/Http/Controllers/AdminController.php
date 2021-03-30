@@ -23,7 +23,7 @@ class AdminController extends Controller
         ->whereBetween('id',[5,8])
         ->get();
          $todoArr110=DB::table('privatejobs')
-        ->whereBetween('id',[3501,5000])
+        ->whereBetween('id',[5001,10000])
         ->get();
         //$todoArr110 = DB::select("select * from privatejobs");
        
