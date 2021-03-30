@@ -12,6 +12,9 @@
 	<meta property="og:image" content="" />
 	<meta name="format-detection" content="telephone=no">
 	
+	<link rel="canonical" href="https://engineeringdestination.com"/>
+	<link rel="canonical" href="https://www.engineeringdestination.com"/>
+	<link rel="canonical" href="http://www.engineeringdestination.com"/>
 	<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 	
