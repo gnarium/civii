@@ -24,7 +24,7 @@ class AdminController extends Controller
         ->get();
         // $todoArr110 = DB::select("select * from privatejobs");
         $todoArr110=DB::table('privatejobs')
-        ->whereBetween('id',[44,100])
+        ->whereBetween('id',[100,500])
         ->get();
         return view('front_end/index',['todoArr13'=>$todoArr13,'todoArr110'=>$todoArr110]);
     }
