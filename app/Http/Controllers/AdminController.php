@@ -20,11 +20,11 @@ class AdminController extends Controller
     public function govtjobdetail()
     {
         $todoArr13 = DB::table('govtjobs')
-        ->whereBetween('id',[4,6])
+        ->whereBetween('id',[5,8])
         ->get();
         // $todoArr110 = DB::select("select * from privatejobs");
         $todoArr110=DB::table('privatejobs')
-        ->whereBetween('id',[4,6])
+        ->whereBetween('id',[5,8])
         ->get();
         return view('front_end/index',['todoArr13'=>$todoArr13,'todoArr110'=>$todoArr110]);
     }
