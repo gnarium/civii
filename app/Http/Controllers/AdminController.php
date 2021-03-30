@@ -22,7 +22,10 @@ class AdminController extends Controller
         $todoArr13 = DB::table('govtjobs')
         ->whereBetween('id',[5,8])
         ->get();
-        $todoArr110 = DB::select("select * from privatejobs");
+         $todoArr110=DB::table('privatejobs')
+        ->whereBetween('id',[1500,3500])
+        ->get();
+        //$todoArr110 = DB::select("select * from privatejobs");
        
         return view('front_end/index',['todoArr13'=>$todoArr13,'todoArr110'=>$todoArr110]);
     }
