@@ -72,3 +72,6 @@
 <script src="{{ asset('user/front_end/js/combining.js')}}"></script><!-- COMBINING JS  -->
 <!-- REVOLUTION JS FILES -->
 <script src="{{ asset('user/front_end/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>
+
+<div id="loading-area"></div>
+
