@@ -74,6 +74,7 @@ class AdminController extends Controller
     $privatejobs->branch=$req2->Branch;
     $privatejobs->eligibility=$req2->Eligibility;
     $privatejobs->companyname=$req2->Companyname;
+    $privatejobs->jobtitle=$req2->Jobtitle;
     $privatejobs->lastdate=$req2->Lastname;
     $privatejobs->describtion=$req2->JobDescribtion;
     $jobtitilurl=$req2->Jobname;
@@ -130,6 +131,7 @@ class AdminController extends Controller
         $govtjobs->branch=$req2->Branch;
         $govtjobs->eligibility=$req2->Eligibility;
         $govtjobs->companyname=$req2->Companyname;
+        $govtjobs->jobtitle=$req2->Jobtitle;
         $govtjobs->lastdate=$req2->Lastdate;
         $govtjobs->describtion=$req2->JobDescribtion;
         $jobtitilurl=$req2->Jobname;
