@@ -16,10 +16,11 @@ class Govtjobs extends Migration
         Schema::create('govtjobs', function (Blueprint $table) {
             $table->increments('id');
             $table->string('jobname');
+            $table->string('jobtitle');
             $table->string('branch');
             $table->string('eligibility');
             $table->string('companyname');
-            $table->dateTime('lastdate');   
+            $table->date('lastdate');   
             $table->mediumText('describtion');
             $table->string('jobtitileurl')->nullable();
             $table->timestamps();
