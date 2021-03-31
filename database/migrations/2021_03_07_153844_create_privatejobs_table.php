@@ -16,6 +16,7 @@ class CreatePrivatejobsTable extends Migration
         Schema::create('privatejobs', function (Blueprint $table) {
             $table->id();
             $table->string('jobname');
+            $table->string('jobtitle');
             $table->string('branch');
             $table->string('eligibility');
             $table->string('companyname');
