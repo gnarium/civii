@@ -189,7 +189,7 @@
 							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
 								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-info p-a20">
-										<h3 class="m-b0" style="text-align:center;"><span>{{$todo1->jobname}}</span></h3>
+										<h3 class="m-b0" style="text-align:center;"><span>{{$todo1->jobtitle}}</span></h3>
                                         <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
                                         <h6 class="m-b0">Designation:</h6><span>{{$todo1->jobname}}</span>
                                         <h6 class="m-b0">Branch:</h6><span>{{$todo1->branch}}</span>
@@ -217,7 +217,7 @@
 						<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
 								<div class="dez-box " style="background-color:#FDC716">
 									<div class="dez-info p-a20">
-										<h3 class="m-b0" style="text-align:center;"><span>{{$todo1->jobname}}</span></h3>
+										<h3 class="m-b0" style="text-align:center;"><span>{{$todo1->jobtitle}}</span></h3>
                                         <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
                                        	<h6 class="m-b0">Designation:</h6><span>{{$todo1->jobname}}</span>
                                         <h6 class="m-b0">Branch:</h6><span>{{$todo1->branch}}</span>
@@ -263,14 +263,14 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-slideshare"></i></div>
-                            <div class="counter text-white m-b5 h2">20</div>
+                            <div class="counter text-white m-b5 h2">100</div>
                             <span>IS Codes</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b10">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-home"></i></div>
-                            <div class="counter text-white m-b5 h2">20</div>
+                            <div class="counter text-white m-b5 h2">10</div>
                             <span>QA/QC Testing</span> 
 						</div>
                     </div>
