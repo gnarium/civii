@@ -152,11 +152,8 @@
 										<h4 class="m-b0"><span>{{$todo1->jobtitle}}</span></h4>
 										&nbsp;
                                         <p class="m-b0"><b>Company Name:</b><span>{{$todo1->companyname}}</span></p>
-                                       &nbsp;
                                        <p class="m-b0"><b>Designation:</b><span>{{$todo1->jobname}}</span></p>
-                                       &nbsp;
                                        <p class="m-b0" ><b>Branch:</b><span id="done">{{$todo1->branch}}</span></p>
-                                       &nbsp;
                                        <p class="m-b0" ><b>Eligibility:</b><span>{{$todo1->eligibility}}</span></p>
                                        
                                        <p class="m-b0"><b>Last Date:</b><span>{{$todo1->lastdate}}</span></p>
