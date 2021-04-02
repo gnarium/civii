@@ -149,7 +149,7 @@
 							<div class="col-md-6 col-lg-6 col-sm-12 m-b30 product-item card-container">
 								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-info p-a20" style="margin-left:-10px;">
-										<h6 class="m-b0"><span>{{$todo1->jobtitle}}</span></h6>
+										<p class="m-b0"><span>{{$todo1->jobtitle}}</span></p>
 										<br/>
                                         <p class="m-b0"><b>Company Name:</b><span>{{$todo1->companyname}}</span></p>
                                        <p class="m-b0"><b>Designation:</b><span>{{$todo1->jobname}}</span></p>
