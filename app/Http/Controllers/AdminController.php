@@ -19,16 +19,18 @@ class AdminController extends Controller
     }
     public function govtjobdetail()
     {
-        $todoArr13 = DB::table('govtjobs')
-        ->orderBy('jobname','desc')
-        ->latest()
-        ->limit(3)
-        ->get();
-         $todoArr110=DB::table('privatejobs')
-         ->orderBy('jobname','desc')
-        ->latest()
-        ->limit(3)
-         ->get();
+//         $todoArr13 = DB::table('govtjobs')
+//         ->orderBy('jobname','desc')
+//         ->latest()
+//         ->limit(3)
+//         ->get();
+        $todoArr13 = govtjob::orderBy('id', 'desc')->take(3)->get();
+        $todoArr110 = privatejob::orderBy('id', 'desc')->take(3)->get();
+//          $todoArr110=DB::table('privatejobs')
+//          ->orderBy('jobname','desc')
+//         ->latest()
+//         ->limit(3)
+//          ->get();
 //         $todoArr110 = DB::select("select * from privatejobs");
        
         return view('front_end/index',['todoArr13'=>$todoArr13,'todoArr110'=>$todoArr110]);
