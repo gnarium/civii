@@ -150,7 +150,7 @@
 								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-info p-a20" style="margin-left:-10px;">
 										<h6 class="m-b0"><span>{{$todo1->jobtitle}}</span></h6>
-										&nbsp;
+										<br/>
                                         <p class="m-b0"><b>Company Name:</b><span>{{$todo1->companyname}}</span></p>
                                        <p class="m-b0"><b>Designation:</b><span>{{$todo1->jobname}}</span></p>
                                        <p class="m-b0" ><b>Branch:</b><span id="done">{{$todo1->branch}}</span></p>
