@@ -1,14 +1,4 @@
 @extends('layouts.main')
-<style>
-	@media only screen  and (max-width:992px)
-		{
-			#done
-				{
-					font-size:7px;
-				}
-		}
-	</style>
-
 <header class="site-header header-style-4 dark">
 		<!-- top bar -->
 		<div class="top-bar">
@@ -159,12 +149,17 @@
 							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
 								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-info p-a20" style="margin-left:-10px;">
-										<h5 class="m-b0" style="text-align:left;"><span>{{$todo1->jobtitle}}</span></h5>
-                                        <h6 class="m-b0" style="text-align:justify;">Company Name:</h6><span>{{$todo1->companyname}}</span>
-                                        <h6 class="m-b0" style="text-align:justify;">Designation:</h6><span>{{$todo1->jobname}}</span>
-                                        <h6 class="m-b0" style="text-align:justify;">Branch:</h6><span id="done">{{$todo1->branch}}</span>
-                                        <h6 class="m-b0" style="text-align:justify;">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
-                                        <h6 class="m-b0" style="text-align:justify;">Last Date:</h6><span>{{$todo1->lastdate}}</span>
+										<h4 class="m-b0"><span>{{$todo1->jobtitle}}</span></h4>
+										&nbsp;
+                                        <p class="m-b0"><b>Company Name:</b><span>{{$todo1->companyname}}</span></p>
+                                        &nbsp;
+										<p class="m-b0"><b>Designation:</b><span>{{$todo1->jobname}}</span></p>
+                                        &nbsp;
+										<p class="m-b0" ><b>Branch:</b><span id="done">{{$todo1->branch}}</span></p>
+                                        &nbsp;
+										<p class="m-b0"><b>Eligibility:</b><span>{{$todo1->eligibility}}</span></p>
+                                        &nbsp;
+										<p class="m-b0"><b>Last Date:</b><span>{{$todo1->lastdate}}</span></p>
 										<div class="m-t10">
 											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>For More Info</a>
 										</div>
