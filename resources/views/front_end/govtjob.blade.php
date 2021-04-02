@@ -1,4 +1,13 @@
 @extends('layouts.main')
+<style>
+	@media only screen  and (max-width:992px)
+		{
+			#done
+				{
+					font-size:9px;
+				}
+		}
+	</style>
 
 <header class="site-header header-style-4 dark">
 		<!-- top bar -->
@@ -153,7 +162,7 @@
 										<h5 class="m-b0" style="text-align:left;"><span>{{$todo1->jobtitle}}</span></h5>
                                         <h6 class="m-b0" style="text-align:justify;">Company Name:</h6><span>{{$todo1->companyname}}</span>
                                         <h6 class="m-b0" style="text-align:justify;">Designation:</h6><span>{{$todo1->jobname}}</span>
-                                        <h6 class="m-b0" style="text-align:justify;">Branch:</h6><span>{{$todo1->branch}}</span>
+                                        <h6 class="m-b0" style="text-align:justify;">Branch:</h6><span id="done">{{$todo1->branch}}</span>
                                         <h6 class="m-b0" style="text-align:justify;">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
                                         <h6 class="m-b0" style="text-align:justify;">Last Date:</h6><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
