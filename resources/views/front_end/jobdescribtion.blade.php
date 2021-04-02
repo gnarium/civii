@@ -139,9 +139,9 @@
         <div class="content-area">
             <!-- Career -->
             <div class="container">
-                <div class="row" style="text:align:justify;">
+                <div class="row" >
 				    <!-- Left part start -->
-                    <div class="col-lg-12 col-md-7 m-b30">
+                    <div class="col-lg-12 col-md-7 m-b30" style="text:align:justify;">
                         <h1 class="m-b20 m-t0">Job Describtion </h1>
                         <div class="dez-separator bg-primary"></div>
                         <p><strong>{!!$todoArr14->describtion!!}</strong></p>
