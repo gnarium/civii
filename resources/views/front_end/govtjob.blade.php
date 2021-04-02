@@ -4,7 +4,7 @@
 		{
 			#done
 				{
-					font-size:9px;
+					font-size:7px;
 				}
 		}
 	</style>
