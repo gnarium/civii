@@ -115,7 +115,7 @@
                                 <div class="form-group ">
                                         <label for="ccomment" class="control-label col-lg-3">Enter Company Name (required)</label>
                                         <div class="col-lg-6">
-                                            <input class="form-control " id="curl" type="url" name="Companyname">
+                                            <input class="form-control " id="curl" type="url" name="Companyname" required="">
                                         </div>
                                     </div>
                                     
@@ -134,7 +134,7 @@
                                     <div class="form-group ">
                                         <label for="curl" class="control-label col-lg-3">Enter Eligibility (optional)</label>
                                         <div class="col-lg-6">
-                                            <input class="form-control " id="curl" type="url" name="Eligibility">
+                                            <input class="form-control " id="curl" type="url" name="Eligibility" required="">
                                         </div>
                                     </div>
                                     <div class="form-group ">
@@ -146,7 +146,7 @@
                                     <div class="form-group ">
                                         <label for="ccomment" class="control-label col-lg-3">Enter Job Describtion (required)</label>
                                         <div class="col-lg-6">
-                                        <textarea  class="ckeditor" name="JobDescribtion" style="width=400px" ></textarea>
+                                        <textarea  class="ckeditor" name="JobDescribtion" style="width=400px" required=""></textarea>
                                         
                                         </div>
                                     </div>
