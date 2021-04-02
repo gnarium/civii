@@ -25,7 +25,9 @@ class AdminController extends Controller
         ->limit(3)
         ->get();
          $todoArr110=DB::table('privatejobs')
-         ->whereBetween('id',[0,3])
+         ->orderBy('jobname','desc')
+        ->latest()
+        ->limit(3)
          ->get();
 //         $todoArr110 = DB::select("select * from privatejobs");
        
