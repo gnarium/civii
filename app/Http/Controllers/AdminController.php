@@ -20,7 +20,9 @@ class AdminController extends Controller
     public function govtjobdetail()
     {
         $todoArr13 = DB::table('govtjobs')
-        ->whereBetween('id',[1,4])
+        ->orderBy('jobname','desc')
+        ->latest()
+        ->limit(3)
         ->get();
          $todoArr110=DB::table('privatejobs')
          ->whereBetween('id',[0,3])
