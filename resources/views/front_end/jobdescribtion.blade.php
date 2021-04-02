@@ -129,7 +129,7 @@
         <div class="breadcrumb-row">
             <div class="container">
                 <ul class="list-inline">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="/">Home</a></li>
                     <li>Job Details</li>
                 </ul>
             </div>
@@ -139,7 +139,7 @@
         <div class="content-area">
             <!-- Career -->
             <div class="container">
-                <div class="row">
+                <div class="row" style="text:align:justify;">
 				    <!-- Left part start -->
                     <div class="col-lg-12 col-md-7 m-b30">
                         <h1 class="m-b20 m-t0">Job Describtion </h1>
