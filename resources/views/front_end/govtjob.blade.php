@@ -158,7 +158,7 @@
                         @foreach($todoArr12 as $todo1)
 							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
 								<div class="dez-box "style="background-color:#FDC716">
-									<div class="dez-info p-a20">
+									<div class="dez-info p-a20" style="margin-left:-10px;">
 										<h5 class="m-b0" style="text-align:left;"><span>{{$todo1->jobtitle}}</span></h5>
                                         <h6 class="m-b0" style="text-align:justify;">Company Name:</h6><span>{{$todo1->companyname}}</span>
                                         <h6 class="m-b0" style="text-align:justify;">Designation:</h6><span>{{$todo1->jobname}}</span>
