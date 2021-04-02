@@ -149,14 +149,12 @@
 							<div class="col-md-6 col-lg-4 col-sm-12 m-b30 product-item card-container">
 								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-info p-a20" style="margin-left:-10px;">
-										<p class="m-b0"><b><span>{{$todo1->jobtitle}}</span></b></p>
-										<br/>
-                                        <p class="m-b0"><b>Company Name:</b><span>{{$todo1->companyname}}</span></p>
-                                       <p class="m-b0"><b>Designation:</b><span>{{$todo1->jobname}}</span></p>
-                                       <p class="m-b0" ><b>Branch:</b><span id="done">{{$todo1->branch}}</span></p>
-                                       <p class="m-b0" ><b>Eligibility:</b><span>{{$todo1->eligibility}}</span></p>
-                                       
-                                       <p class="m-b0"><b>Last Date:</b><span>{{$todo1->lastdate}}</span></p>
+										<h3 class="m-b0" style="text-align:center;"><span>{{$todo1->jobtitle}}</span></h3>
+                                        <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
+                                        <h6 class="m-b0">Designation:</h6><span>{{$todo1->jobname}}</span>
+                                        <h6 class="m-b0">Branch:</h6><span>{{$todo1->branch}}</span>
+                                        <h6 class="m-b0">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
+                                        <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
 											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>For More Info</a>
 										</div>
