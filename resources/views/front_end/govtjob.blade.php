@@ -151,11 +151,11 @@
 								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-info p-a20">
 										<h5 class="m-b0" style="text-align:left;"><span>{{$todo1->jobtitle}}</span></h5>
-                                        <h6 class="m-b0" style="text-align:justify;">Company Name:</h6><span>{{$todo1->companyname}}</span>
-                                        <h6 class="m-b0" style="text-align:justify;">Designation:</h6><span>{{$todo1->jobname}}</span>
-                                        <h6 class="m-b0" style="text-align:justify;">Branch:</h6><span>{{$todo1->branch}}</span>
-                                        <h6 class="m-b0" style="text-align:justify;">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
-                                        <h6 class="m-b0" style="text-align:justify;">Last Date:</h6><span>{{$todo1->lastdate}}</span>
+                                        <h6 class="m-b0" style="text-align:justify;">Company Name:</h6><p><span>{{$todo1->companyname}}</span></p>
+                                        <h6 class="m-b0" style="text-align:justify;">Designation:</h6><p><span>{{$todo1->jobname}}</span></p>
+                                        <h6 class="m-b0" style="text-align:justify;">Branch:</h6><p><span>{{$todo1->branch}}</span></p>
+                                        <h6 class="m-b0" style="text-align:justify;">Eligibility:</h6><p><span>{{$todo1->eligibility}}</span></p>
+                                        <h6 class="m-b0" style="text-align:justify;">Last Date:</h6><p><span>{{$todo1->lastdate}}</span></p>
 										<div class="m-t10">
 											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>For More Info</a>
 										</div>
