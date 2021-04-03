@@ -1,4 +1,4 @@
 user-agent:*
 Disallow: /admin/login
 
-sitemap: https://www.engineeringdestinatin.com/sitemap_index.xml
+sitemap: https://www.engineeringdestinatin.com/sitemap.xml
