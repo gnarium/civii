@@ -132,7 +132,7 @@
                                         </div>
                                     </div>
                                     <div class="form-group ">
-                                        <label for="curl" class="control-label col-lg-3">Enter Eligibility (optional)</label>
+                                        <label for="curl" class="control-label col-lg-3">Enter Eligibility (required)</label>
                                         <div class="col-lg-6">
                                             <input class="form-control " id="curl" type="url" name="Eligibility" required="">
                                         </div>
