@@ -83,7 +83,7 @@ class AdminController extends Controller
     $privatejobs->jobtitle=$req2->Jobtitle;
     $privatejobs->lastdate=$req2->Lastname;
     $privatejobs->describtion=$req2->JobDescribtion;
-    $jobtitilurl=$req2->Jobname;
+    $jobtitilurl=$req2->Jobtitle;
     $job_url =  str_replace ( ' ','-',$jobtitilurl);
     $privatejobs->jobtitileurl =$jobtitilurl;
     $privatejobs->save();
@@ -140,7 +140,7 @@ class AdminController extends Controller
         $govtjobs->jobtitle=$req2->Jobtitle;
         $govtjobs->lastdate=$req2->Lastdate;
         $govtjobs->describtion=$req2->JobDescribtion;
-        $jobtitilurl=$req2->Jobname;
+        $jobtitilurl=$req2->Jobtitle;
         $job_url =  str_replace ( ' ','-',$jobtitilurl);
         $govtjobs->jobtitileurl =$jobtitilurl;
         $govtjobs->save();
