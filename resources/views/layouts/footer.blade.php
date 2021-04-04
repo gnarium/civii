@@ -25,7 +25,7 @@
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
-						<div class="widget widget_getintuch" style="margin-left:-5px">
+						<div class="widget widget_getintuch" style="margin-left:-8px">
 							<h4 class="m-b15 text-uppercase">Contact us</h4>
 							<div class="dez-separator bg-primary"></div>
 							<ul>
