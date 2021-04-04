@@ -91,7 +91,8 @@ class AdminController extends Controller
  }
     public function privatejobdetails()
     {
-        $todoArr122 = DB::select('select * from privatejobs');
+//         $todoArr122 = DB::select('select * from privatejobs');
+        $todoArr122 = privatejob::orderBy('id', 'desc')->get();
         return view('front_end/privatejob',['todoArr122'=>$todoArr122]);
     
     }
@@ -148,7 +149,8 @@ class AdminController extends Controller
     }
     public function govtjobdetails()
     {
-        $todoArr12 = DB::select('select * from govtjobs');
+//         $todoArr12 = DB::select('select * from govtjobs');
+        $todoArr12 = govtjob::orderBy('id', 'desc')->get();
         return view('front_end/govtjob',['todoArr12'=>$todoArr12]);
         
 
