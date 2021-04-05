@@ -12,6 +12,8 @@
 	<meta property="og:image" content="" />
 	<meta name="format-detection" content="telephone=no">
 	<meta name="google-site-verification" content="ucTRTXLEo1IKrfkR8YoZtee9XpyNdwghNzkuH1hpZcU" />
+
+	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
 	<link rel="icon" href="{{ asset('user/front_end/images/fav.ico')}}" type="image/x-icon" />
 	
@@ -36,9 +38,23 @@
 	</style>
 	
 	<!-- Revolution Slider Css -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/layers.css')}}">
+    <link rel="stychildren()lesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/layers.css')}}">
 	
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/settings.css')}}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/navigation.css')}}">
-	
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	<script> 
+		
+		$(document).load(function() {
+            $("body").children().css({
+                "display": "none",
+    		});
+			$("footer").children().css({
+				"display": "none"
+			});
+		});
+		
+	</script>
 </head>
