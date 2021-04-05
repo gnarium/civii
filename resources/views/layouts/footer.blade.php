@@ -1,4 +1,4 @@
-	<footer class="site-footer">
+<footer class="site-footer">
 		<div class="footer-top">
 			<div class="container">
 				<div class="row">
@@ -73,5 +73,4 @@
 <!-- REVOLUTION JS FILES -->
 <script src="{{ asset('user/front_end/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>
 
-<div id="loading-area"></div>
-
+<!-- <div id="loading-area"></div> -->
