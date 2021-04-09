@@ -12,12 +12,6 @@
 	<link rel="canonical" href="https://engineeringdestination.com"/>
 	<link rel="canonical" href="http://www.engineeringdestination.com"/>
 	<link rel="icon" href="{{ asset('user/front_end/images/fav.ico')}}" type="image/x-icon" />
-	<script>
-  		window.dataLayer = window.dataLayer || [];
-  		function gtag(){dataLayer.push(arguments);}
-  		gtag('js', new Date());
-  		gtag('config', 'G-R6MCW7DRNV');
-	</script>
 	
 	<title>Engineering Destination</title>
 	
