@@ -10,7 +10,13 @@
 	<meta property="og:image" content="" />
 	<meta name="format-detection" content="telephone=no">
 	<meta name="google-site-verification" content="ucTRTXLEo1IKrfkR8YoZtee9XpyNdwghNzkuH1hpZcU" />
-
+    <script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+  		gtag('config', 'G-R6MCW7DRNV');
+	</script>
+	
 	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
 	<link rel="icon" href="{{ asset('user/front_end/images/fav.ico')}}" type="image/x-icon" />
@@ -306,28 +312,28 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-building-o"></i></div>
-                            <div class="counter text-white m-b5 h2">100</div>
+                            <div class=" text-white m-b5 h2">100</div>
                             <span>Government Job</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-group"></i></div>
-                            <div class="counter text-white m-b5 h2">100</div>
+                            <div class=" text-white m-b5 h2">100</div>
                             <span>Private Job</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-slideshare"></i></div>
-                            <div class="counter text-white m-b5 h2">100</div>
+                            <div class="text-white m-b5 h2">100</div>
                             <span>IS Codes</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b10">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-home"></i></div>
-                            <div class="counter text-white m-b5 h2">10</div>
+                            <div class=" text-white m-b5 h2">10</div>
                             <span>QA/QC Testing</span> 
 						</div>
                     </div>
