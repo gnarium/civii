@@ -16,6 +16,7 @@
   		gtag('js', new Date());
   		gtag('config', 'G-R6MCW7DRNV');
 	</script>
+	<link rel="icon" href="{{ asset('user/front_end/images/favicon.ico')}}" type="image/x-icon" style="height:300px" />
 	
 	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
