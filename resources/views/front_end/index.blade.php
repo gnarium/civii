@@ -19,7 +19,7 @@
 	
 	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
-	<link rel="icon" href="{{ asset('user/front_end/images/engineeringdestination_favicon.png')}}" type="image/x-icon" sizes="16x16"" />
+	<link rel="icon" href="{{ asset('user/front_end/images/engineeringdestination_favicon.png')}}" type="image/x-icon" sizes="32x32"" />
 	
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 	
