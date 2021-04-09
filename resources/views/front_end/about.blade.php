@@ -214,7 +214,7 @@
 							<p class="m-b30" style="text-align:justify;">A.D Singh has specializations in many engineering fields.In the world of construction an engineer has to master some of the main construction related works are as under</p>
 							<div class="row">
                                 <div class="col-md-6 col-lg-6 col-sm-6">
-                                    <div class="icon-bx-wraper bx-style-1 p-a20 left m-b30">
+                                    <div class="icon-bx-wraper bx-style-1 p-a20 left m-b30" style="height: 150px;">
                                         <div class="bg-primary icon-bx-xs m-b20 "> 
 											<span class="icon-cell">
 												<i class="fa fa-building-o"></i>
@@ -227,7 +227,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-6 col-sm-6">
-                                    <div class="icon-bx-wraper bx-style-1 p-a20 left m-b30">
+                                    <div class="icon-bx-wraper bx-style-1 p-a20 left m-b30" style="height: 150px;">
                                         <div class="bg-primary icon-bx-xs m-b20"> 
 											<span class="icon-cell">
 												<i class="fa fa-user"></i>
@@ -242,7 +242,7 @@
 							</div>
 							<div class="row"> 
                                 <div class="col-md-6 col-lg-6 col-sm-6">
-                                    <div class="icon-bx-wraper bx-style-1 p-a20 left m-b30">
+                                    <div class="icon-bx-wraper bx-style-1 p-a20 left m-b30" style="height: 150px;">
                                         <div class="bg-primary icon-bx-xs m-b20"> 
 											<span class="icon-cell">
 												<i class="fa fa-truck "></i>
@@ -255,7 +255,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-6 col-sm-6">
-                                    <div class="icon-bx-wraper bx-style-1 p-a20 left m-b10">
+                                    <div class="icon-bx-wraper bx-style-1 p-a20 left m-b10" style="height: 150px;">
                                         <div class="bg-primary icon-bx-xs m-b20 "> 
 											<span class="icon-cell">
 												<i class="fa fa-book"></i>
