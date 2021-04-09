@@ -10,13 +10,16 @@
 	<meta property="og:image" content="" />
 	<meta name="format-detection" content="telephone=no">
 	<meta name="google-site-verification" content="ucTRTXLEo1IKrfkR8YoZtee9XpyNdwghNzkuH1hpZcU" />
-    <script>
-  		window.dataLayer = window.dataLayer || [];
-  		function gtag(){dataLayer.push(arguments);}
-  		gtag('js', new Date());
-  		gtag('config', 'G-R6MCW7DRNV');
-	</script>
-	
+    	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R6MCW7DRNV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R6MCW7DRNV');
+</script>
+
 	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
 	<link rel="icon" href="{{ asset('user/front_end/images/engineeringdestination_favicon.png')}}" type="image/png" sizes="32x32" />
