@@ -10,7 +10,8 @@
 	<meta property="og:image" content="" />
 	<meta name="format-detection" content="telephone=no">
 	<meta name="google-site-verification" content="ucTRTXLEo1IKrfkR8YoZtee9XpyNdwghNzkuH1hpZcU" />
-
+    <link rel="icon" href="{{ asset('user/front_end/images/favicon.ico')}}" type="image/x-icon" />
+	
 	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
 	<link rel="icon" href="{{ asset('user/front_end/images/fav.ico')}}" type="image/x-icon" />
