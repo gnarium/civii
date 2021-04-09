@@ -40,7 +40,13 @@
 	
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/settings.css')}}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/navigation.css')}}">
-
+    <script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+  		gtag('config', 'G-R6MCW7DRNV');
+	</script>
+	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 	<script> 
@@ -255,16 +261,10 @@
                                     <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="fa fa-envelope"></i></a> </div>
                                     <div class="icon-content">
                                         <h6 class="text-uppercase m-tb0 dez-tilte">Email:</h6>
-                                        <p>Cedestination140@gmail.com</p>
+                                        <p>engineeringdestination140@gmail.com<b style="text-align:left;"><br/>Note:</b>  We do not provide job , please do not send your cv or any other document on this email.This is for informative purpose only.</p>
                                     </div>
                                 </li>
-                                <li class="icon-bx-wraper left">
-                                    <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="fa fa-phone"></i></a> </div>
-                                    <div class="icon-content">
-                                        <h6 class="text-uppercase m-tb0 dez-tilte">PHONE</h6>
-                                        <p>+91 8899296385</p>
-                                    </div>
-                                </li>
+                                
                             </ul>
 							<div class="m-t20">
 								<ul class="dez-social-icon dez-social-icon-lg">
