@@ -16,6 +16,12 @@
 	<link rel="icon" href="{{ asset('user/front_end/images/fav.ico')}}" type="image/x-icon" />
 	
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+  		gtag('config', 'G-R6MCW7DRNV');
+	</script>
 	
 	<title>Engineering Destination</title>
 	
