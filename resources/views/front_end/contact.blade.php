@@ -258,7 +258,7 @@
                                     <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="fa fa-map-marker"></i></a> </div>
                                     <div class="icon-content">
                                         <h6 class="text-uppercase m-tb0 dez-tilte">Address:</h6>
-                                        <p>ALAMBAGH LUCKNOW 226005</p>
+                                        <p>Alambagh Lucknow 226005</p>
                                     </div>
                                 </li>
                                 <li class="icon-bx-wraper left  m-b30">
