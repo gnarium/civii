@@ -265,7 +265,7 @@
                                     <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="fa fa-envelope"></i></a> </div>
                                     <div class="icon-content">
                                         <h6 class="text-uppercase m-tb0 dez-tilte">Email:</h6>
-                                        <p style="font-size:24px;">engineeringdestination140@gmail.com<b style="text-align:left;"><br/>Note:</b>  We do not provide job , please do not send your cv or any other document on this email.This is for informative purpose only.</p>
+                                        <p style="font-size:18px;">engineeringdestination140@gmail.com<b style="text-align:left;"><br/>Note:</b>  We do not provide job , please do not send your cv or any other document on this email.This is for informative purpose only.</p>
                                     </div>
                                 </li>
                                 
