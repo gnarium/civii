@@ -150,9 +150,9 @@
 							<li> <a href="/about">About</a>
 								
 							</li>
-							<li> <a href="/govtjob">Government Job's</a>
+							<li> <a href="/govtjob">Government Jobs</a>
 									</li>
-							<li> <a href="/privatejob">Private Job's</a>
+							<li> <a href="/privatejob">Private Jobs</a>
 								
 							</li>
 							<li> <a href="/iscode">IS CODE</a>
