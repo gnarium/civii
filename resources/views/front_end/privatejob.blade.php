@@ -204,7 +204,7 @@
 				<div class="row">
 					<div class="col-lg-12 col-md-7 col-sm-12">
 						<div class="text-center m-b50">
-							<h2 class="m-t0">Private Job's</h2>
+							<h2 class="m-t0">Private Jobs</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
 						<div class="row" id="masonry">
