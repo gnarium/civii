@@ -30,7 +30,7 @@
 							<div class="dez-separator bg-primary"></div>
 							<ul>
 								<li><i class="fa fa-map-marker"></i><strong>address</strong> ALAMBAGH LUCKNOW 226005</li>
-								<li><i class="fa fa-envelope"></i><strong>Email</strong>engineeringdestination140@gmail.com<b style="text-align:left;"><br/>Note:</b>  We do not provide job , please do not send your cv or any other document on this email.This is for informative purpose only.</li>
+								<li><i class="fa fa-envelope"></i><strong>Email</strong>engineeringdestination140@gmail.com<b style="text-align:left;"><br/>Note:</b>  We do not provide jobs , Kindly do not email your cv or any other documents on this email.The website is for information purpose only.</li>
 							</ul>
 						</div>
 					</div>
