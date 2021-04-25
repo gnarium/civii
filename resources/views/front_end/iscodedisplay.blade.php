@@ -118,9 +118,9 @@
 								
 							</li>
 							
-							<li> <a href="/govtjob">Government Jobs</a>
+							<li> <a href="/govtjob">Government Job's</a>
 									</li>
-							<li> <a href="/privatejob">Private Jobs</a>
+							<li> <a href="/privatejob">Private Job's</a>
 								
 							</li><li> <a href="/iscode">IS CODE</a>
 								
