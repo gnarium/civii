@@ -246,8 +246,8 @@
 				<div class="row">
 					<div class="col-lg-12 col-md-7 col-sm-12">
 						<div class="text-center m-b50">
-							<h2 class="m-t0">Latest  Job's</h2>
-							<h2 class="m-t0">Government  Job's</h2>
+							<h2 class="m-t0">Latest  Jobs</h2>
+							<h2 class="m-t0">Government  Jobs</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
 						<div class="row" id="masonry" >
@@ -275,7 +275,7 @@
 							<a href="/govtjob" target="_blank" class="site-button">View More Job's</a>
 						</div>
 						<div class="text-center m-b50">
-							<h2 class="m-t0">Private  Job's</h2>
+							<h2 class="m-t0">Private  Jobs</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
 						<div class="row" id="masonry">
@@ -299,7 +299,7 @@
 						</div>
 						
 						<div class="m-t10" style="text-align:center;">
-							<a href="/privatejob" target="_blank" class="site-button">View More Job's</a>
+							<a href="/privatejob" target="_blank" class="site-button">View More Jobs</a>
 						</div>
 					</div>
                 </div>
@@ -316,14 +316,14 @@
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-building-o"></i></div>
                             <div class=" text-white m-b5 h2">100</div>
-                            <span>Government Job</span> 
+                            <span>Government Jobs</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                         <div class="p-a30 text-white text-center border-3">
                             <div class="icon-lg m-b20"><i class="fa fa-group"></i></div>
                             <div class=" text-white m-b5 h2">100</div>
-                            <span>Private Job</span> 
+                            <span>Private Jobs</span> 
 						</div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
@@ -351,7 +351,7 @@
                 <div class="section-content">
                     <div class="row">
                         <div class="col-lg-12 text-center section-head">
-                            <h2 class="h2">OUR SPECIALIZATIONS</h2>
+                            <h2 class="h2">OUR EXPERTISE</h2>
 							<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
                             <div class="clear"></div>
                             <p class="m-b0">ENGINEERING DESTINATION IS THE MOST TRUSTED PLATFORM FOR ALL ENGINEERING STUDENTS AND PROFESSIONALS FROM ALL OVER INDIA.</p>
@@ -380,8 +380,8 @@
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-desktop text-primary" aria-hidden="true" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
-									<h5 class="dez-tilte text-uppercase">ONLINE COURSE</h5>
-									<p>WE ALSO ORGAINZE FREE TRAINING COURSESE FOR IMPROVEMENT OF KNOWLEDGE AND MODERN CHANGES RELATED TO CONSTRUCTIONS </p>
+									<h5 class="dez-tilte text-uppercase">ONLINE COURSES</h5>
+									<p>WE ALSO ORGANISE FREE TRAINING COURSES FOR BOOSTING YOUR KNOWLEDGE AND MODERN CHANGES RELATED TO CONSTRUCTIONS </p>
 								</div>
 							</div>
 						</div>
@@ -538,7 +538,7 @@
 					<div class="col-lg-12 col-md-7 col-sm-12">
 						<br/>
 						<div class="text-center m-b50">
-							<h2 class="m-t0">Award's  & Achievements</h2>
+							<h2 class="m-t0">Awards  & Achievements</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
 						<div class="row" id="masonry">
