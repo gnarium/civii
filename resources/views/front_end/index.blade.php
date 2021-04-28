@@ -282,8 +282,19 @@
                         @endforeach
 						</div>
 						<div class="m-t10" style="text-align:center;">
-							<a href="/govtjob" target="_blank" class="site-button">View More Job's</a>
+							<a href="/govtjob" target="_blank" class="site-button">View More Jobs</a>
 						</div>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="1194634110"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 						<div class="text-center m-b50">
 							<h2 class="m-t0">Private  Jobs</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
