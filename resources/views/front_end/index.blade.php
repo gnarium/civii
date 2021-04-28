@@ -252,7 +252,15 @@
 				</div>
 			</div>	
 		</div>
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+		
+<div class="section-full bg-white content-inner">
+            <!-- Product -->
+            <div class="container">
+				<div class="row">
+					<div class="col-lg-12 col-md-7 col-sm-12">
+						<div class="text-center m-b50">
+							<h2 class="m-t0">Latest  Jobs</h2>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -263,13 +271,6 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<div class="section-full bg-white content-inner">
-            <!-- Product -->
-            <div class="container">
-				<div class="row">
-					<div class="col-lg-12 col-md-7 col-sm-12">
-						<div class="text-center m-b50">
-							<h2 class="m-t0">Latest  Jobs</h2>
 							<h2 class="m-t0">Government  Jobs</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
