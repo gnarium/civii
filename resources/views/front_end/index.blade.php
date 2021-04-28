@@ -196,18 +196,7 @@
 		<!-- main header END -->
 	</header>
 
-	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="1194634110"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
+	
 
 <div id="demo" class="carousel slide" data-ride="carousel">
 
@@ -242,6 +231,18 @@
 
 
 &nbsp;
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="1194634110"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div class="section-full bg-img-fix overlay-black-middle content-inner-1 about-uni" style="background-image:url({{ asset('user/front_end/images/background/bg2.jpg')}});">
             <div class="container" >
 				<div class="row text-white" style="background-color:white">	
