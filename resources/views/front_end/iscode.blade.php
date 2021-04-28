@@ -196,19 +196,17 @@
                 </ul>
             </div>
         </div>
-     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
      crossorigin="anonymous"></script>
-<!-- engineering destination display ads -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
      data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="6283309266"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-ad-slot="1194634110"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-        
+</script>    
 		<div class="content-area">
         <div class="container">
                 <div class="row">
@@ -272,3 +270,14 @@
 </section>
 
     </div>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="1194634110"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
