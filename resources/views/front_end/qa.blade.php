@@ -155,7 +155,7 @@
 								
 							</li>
 
-							<li> <a href="/front_end/qa">QA/QC TESTING</a>
+							<li> <a href="/qa">QA/QC TESTING</a>
 								
 							</li>
 							
