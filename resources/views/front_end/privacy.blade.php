@@ -218,9 +218,9 @@ This Privacy Policy applies only to our online activities and is valid for visit
 						    <li>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</li>
                             <li>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</li>
                             <li> When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.</li>
-                            <li>THE CHANNEL DOES NOT GUARENTEE ANY CHANGES MADE BY JOB GIVING ORGANIZATION FOR ANY UPDATES, CANCELLATION, OR UPDATES AFTER THE PUBLISHING DATE OF NOTIFICATION.</li>
-                            <li>COPYING THE CONTENT OF THIS CHANNEL OR WEBSITE IS STRICTLY PROHIBITED.</li>
-                            <li>ANY MISUSE OR MISGUIDENCE SHALL BE IMMEDIATELY REPORTED TO THE OWNER OF THE WEBSITE.</li>
+                            <li>The channel does not guarantee any changes made by job giving organization for any updates, cancellation, or updates after the publishing date of notification.</li>
+                            <li>Copying the content of this channel or website is strictly prohibited.</li>
+                            <li>Any misuse or misguidence shall be immediately reported to the owner of the website.</li>
                         </ul>
                         <h3>How we use your information</h3>
                         <p>We use the information we collect in various ways, including to:</p> 
