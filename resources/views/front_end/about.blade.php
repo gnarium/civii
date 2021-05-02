@@ -225,7 +225,7 @@
 										</div>
                                         <div class="icon-content">
                                             <h5 class="dez-tilte " style="text-align:justify">Civil engineering</h5>
-                                            <p style="text-align:justify">Related to construction, planning and designing of all infrastructures, bridge and roads projects.</p>
+                                            <p >Related to construction, planning and designing of all infrastructures, bridge and roads projects.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -238,7 +238,7 @@
 										</div>
                                         <div class="icon-content">
                                             <h5 class="dez-tilte" style="text-align:justify">Finishing engineer</h5>
-                                            <p style="text-align:justify">Designing and detailing of external and internal appearance of any construction project.</p>
+                                            <p >Designing and detailing of external and internal appearance of any construction project.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -253,7 +253,7 @@
 										</div>
                                         <div class="icon-content">
                                             <h5 class="dez-tilte" style="text-align:justify">Architecture</h5>
-                                            <p style="text-align:justify">Designing of landscape and planning of towns and maintenance of buildings.</p>
+                                            <p >Designing of landscape and planning of towns and maintenance of buildings.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -266,7 +266,7 @@
 										</div>
                                         <div class="icon-content">
                                             <h5 class="dez-tilte" style="text-align:justify">Green building</h5>
-                                            <p style="text-align:justify">Building that reduces the negative impacts on environment using latest technologies.</p>
+                                            <p >Building that reduces the negative impacts on environment using latest technologies.</p>
                                         </div>
                                     </div>
                                 </div>
