@@ -5,7 +5,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
 						<div class="widget widget_about">
 							<div class="logo-footer"><img src="{{ asset('user/front_end/images/logooo.png')}}" alt=""></div>
-							<p class="m-tb20" style="text-align:justify;">Dear candidate, we are not a recruiter/job consultant. We only post the available and relevant jobs from the internet, we are not involved directly or indirectly in the recruitment process at any stage.</p>
+							<p class="m-tb20" style="text-align:justify;">Dear candidate, we are not a recruiter or job consultant. We only post the available and relevant jobs from the internet, we are not involved directly or indirectly in the recruitment process at any stage.</p>
 								
 						</div>
 					</div>
@@ -29,7 +29,7 @@
 							<h4 class="m-b15 text-uppercase">Contact us</h4>
 							<div class="dez-separator bg-primary"></div>
 							<ul>
-								<li><i class="fa fa-map-marker"></i><strong>address</strong> ALAMBAGH LUCKNOW 226005</li>
+								<li><i class="fa fa-map-marker"></i><strong>address</strong> Alambagh, Lucknow-226005</li>
 								<li><i class="fa fa-envelope"></i><strong>E-mail</strong>engineeringdestination140@gmail.com<b style="text-align:left;"><br/>Note:</b>  We do not provide jobs , Kindly do not email your cv or any other documents . The website is for information purpose only.</li>
 							</ul>
 						</div>
