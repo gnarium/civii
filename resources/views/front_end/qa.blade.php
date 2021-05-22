@@ -222,10 +222,8 @@
  <div class="panel panel-default">
     <div>
 	<div class="container">
-    <div class="row">
-            </div>
-</div>   
-
+        <div class="row">
+            <div class="col-lg-9">
       <table class="table container">
         <thead>
           <tr>
@@ -242,29 +240,10 @@
        </tbody>
         @endforeach
     </table>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- iscodeh -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="2944286320"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- iscodeh -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="2944286320"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    
+    </div>
+    </div>
+</div>   
+
     </div>
   </div>
 </div>
