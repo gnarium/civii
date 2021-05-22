@@ -266,7 +266,7 @@
         @endforeach
     </table>
     </div>
-    <div class="col-lg-3">
+    <div class="col-lg-3" style=height:'500px'>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- iscodeh -->
 <ins class="adsbygoogle"
