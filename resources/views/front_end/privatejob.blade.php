@@ -218,6 +218,17 @@
 							<h2 class="m-t0">Private Jobs</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- iscodev -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="9829258878"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 						<div class="row" id="masonry">
                         @foreach($todoArr122 as $todo1)
 							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
@@ -239,7 +250,17 @@
 							</div>
                         @endforeach
 						</div>
-						
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- iscodev -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="9829258878"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 					</div>
                 </div>
 		   </div>
