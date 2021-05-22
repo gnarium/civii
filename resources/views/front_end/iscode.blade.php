@@ -245,7 +245,7 @@
 </div>   
 <div class="container">
 <div class="row">
-<div class="col-lg-6">
+<div class="col-lg-9">
       <table class="table container" >
         <thead>
           <tr>
