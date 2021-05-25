@@ -16,16 +16,7 @@
 	<link rel="icon" href="{{ asset('user/front_end/images/fav.ico')}}" type="image/x-icon" />
 	
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R6MCW7DRNV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-R6MCW7DRNV');
-</script>
-<title>Engineering Destination</title>
+	<title>Engineering Destination</title>
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
@@ -197,18 +188,6 @@
             </div>
         </div>
     </div>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="1194634110"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
         <div class="section-full bg-white content-inner">
             <!-- Product -->
             <div class="container">
@@ -218,17 +197,7 @@
 							<h2 class="m-t0">Private Jobs</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- iscodev -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="9829258878"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+    
 						<div class="row" id="masonry">
                         @foreach($todoArr122 as $todo1)
 							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
@@ -250,30 +219,9 @@
 							</div>
                         @endforeach
 						</div>
-						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- iscodev -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="9829258878"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-					</div>
+						</div>
                 </div>
 		   </div>
         </div>
     </div>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="1194634110"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+  
