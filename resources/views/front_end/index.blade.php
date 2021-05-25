@@ -10,15 +10,9 @@
 	<meta property="og:image" content="" />
 	<meta name="format-detection" content="telephone=no">
 	<meta name="google-site-verification" content="ucTRTXLEo1IKrfkR8YoZtee9XpyNdwghNzkuH1hpZcU" />
-    	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R6MCW7DRNV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKNSJHM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-  gtag('config', 'G-R6MCW7DRNV');
-</script>
 
 	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
