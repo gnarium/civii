@@ -10,15 +10,6 @@
 	<meta property="og:image" content="" />
 	<meta name="format-detection" content="telephone=no">
 	<meta name="google-site-verification" content="ucTRTXLEo1IKrfkR8YoZtee9XpyNdwghNzkuH1hpZcU" />
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R6MCW7DRNV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-R6MCW7DRNV');
-</script>
 	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
 	<link rel="icon" href="{{ asset('user/front_end/images/fav.ico')}}" type="image/x-icon" />
@@ -223,7 +214,7 @@
     
 	<div class="container">
         <div class="row">
-            <div class="col-lg-9">
+            <div class="col-lg-12">
       <table class="table container">
         <thead>
           <tr>
@@ -240,19 +231,6 @@
        </tbody>
         @endforeach
     </table>
-    </div>
-    <div class="col-lg-3">
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- iscodev -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="9829258878"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
     </div>
 </div>   
