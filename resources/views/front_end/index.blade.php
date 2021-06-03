@@ -204,13 +204,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- The slideshow -->
 <div class="carousel-inner">
   <div class="carousel-item active">
-	<img src="{{ asset('user/front_end/images/main-slider/slide1.jpg')}}" alt="Los Angeles" width="1100" height="500">
+	<img src="{{ asset('user/front_end/images/main-slider/slide1.webp')}}" alt="Los Angeles" width="1100" height="500">
   </div>
   <div class="carousel-item">
-	<img src="{{ asset('user/front_end/images/main-slider/slide6.jpg')}}" alt="Chicago" width="1100" height="500">
+	<img src="{{ asset('user/front_end/images/main-slider/slide6.webp')}}" alt="Chicago" width="1100" height="500">
   </div>
   <div class="carousel-item">
-	<img src="{{ asset('user/front_end/images/main-slider/slide7.jpg')}}" alt="New York" width="1100" height="500">
+	<img src="{{ asset('user/front_end/images/main-slider/slide7.webp')}}" alt="New York" width="1100" height="500">
   </div>
 </div>
 
