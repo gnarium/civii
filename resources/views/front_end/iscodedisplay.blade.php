@@ -11,9 +11,9 @@
 	<meta name="format-detection" content="telephone=no">
 	<link rel="canonical" href="https://engineeringdestination.com"/>
 	<link rel="canonical" href="http://www.engineeringdestination.com"/>
-	<link rel="icon" href="{{ asset('user/front_end/images/fav.ico')}}" type="image/x-icon" />
 	
 	<title>Engineering Destination</title>
+	<link rel="icon" href="{{ asset('user/front_end/images/Engineering Destination Favicon .webp')}}" type="image/x-icon" />
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
