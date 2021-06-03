@@ -429,7 +429,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</p>
                                 </div>
                                 <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/Abhishek sinha.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
+                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/3.webp')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
                                     <strong class="testimonial-name">Abhishek Sinha</strong> <span class="testimonial-position">Student</span> </div>
                             </div>
                         </div>
@@ -439,7 +439,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <p>My self Saltanat khan from Delhi. I get a next good opportunity in NCC Limited from your Channel. My duty start 10 March. I am so grateful for your support and kindness.I am saying 100 times Thankyou so much sir</p>
                                 </div>
                                 <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/Saltanat.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
+                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/2.webp')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
                                     <strong class="testimonial-name">Saltanat khan</strong> <span class="testimonial-position">Student</span> </div>
                             </div>
                         </div>
@@ -449,7 +449,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <p>Respected sir,With due regards I would like to inform you that I have been selected as an GAT in HPCL because of the notification posted by you on your channel.Thanks a lot sir this kind of hard work definately pays off.Attaching my award letter for your reference.</p>
                                 </div>
                                 <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/Satyarth pandey.png')}}" width="100" style="margin-top:-15px" height="100" alt=""></div>
+                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/1.webp')}}" width="100" style="margin-top:-15px" height="100" alt=""></div>
                                     <strong class="testimonial-name">Satyarth Pandey</strong> <span class="testimonial-position">Student</span> </div>
                             </div>
                         </div>
@@ -459,7 +459,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <p>Sir mujhe aj mail received hua hain ....I am selected for CSIR IMMT Bhubaneswar . thank you sir.</p>
                                 </div>
                                 <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/m.jpeg')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
+                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/5.jpeg')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
                                     <strong class="testimonial-name">Saurav Paul</strong> <span class="testimonial-position">Student</span> </div>
                             </div>
                         </div>
@@ -481,7 +481,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="testimonial-text">
                                     <p>
 										<a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/isocertifiedchannel.png')}}" width="100" height="100" style="margin-top:-15px" alt=""></a>
+											<img src="{{ asset('user/front_end/images/testimonials/An ISO Certified Youtube Channel.webp')}}" width="100" height="100" style="margin-top:-15px" alt=""></a>
 									</p>
                                 </div>
                             </div>
@@ -491,7 +491,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="testimonial-text">
                                     <p>
 										<a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/career destination youtubechannel.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
+											<img src="{{ asset('user/front_end/images/testimonials/Join Us On Career Destination.webp')}}" width="100" height="100" style="margin-top:-15px" alt="">
 										</a>
 									</p>
                                 </div>
@@ -502,7 +502,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="testimonial-text">
                                     <p>
 										<a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/civil engineering destination youtubechannel.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
+											<img src="{{ asset('user/front_end/images/testimonials/Join Us On Civil Engineering Destination.webp')}}" width="100" height="100" style="margin-top:-15px" alt="">
 										</a>
 									</p>
                                 </div>
@@ -513,7 +513,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="testimonial-text">
                                     <p>
 										<a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/tech civil destination youtubechannel.png')}}" width="100" height="100" style="margin-top:-15px" alt="">
+											<img src="{{ asset('user/front_end/images/testimonials/Join Us On Tech Civil Destination.webp')}}" width="100" height="100" style="margin-top:-15px" alt="">
 										</a>
 									</p>
                                 </div>
