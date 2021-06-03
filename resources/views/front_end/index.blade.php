@@ -151,7 +151,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="slide-up">
 					<div class="container clearfix bg-primary">
 					
-						<!-- website logo --><div class="dez-logo mostion"><a href="/"><img src="{{ asset('user/front_end/images/logooo.png')}}" width="193" height="89" alt=""></a></div>
+						<!-- website logo --><div class="dez-logo mostion"><a href="/"><img src="{{ asset('user/front_end/images/logooo.webp')}}" width="193" height="89" alt=""></a></div>
 							
 						<!-- nav toggle button -->
 						<button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
