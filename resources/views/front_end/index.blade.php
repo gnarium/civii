@@ -102,7 +102,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="container header-contant-block">
 				<div class="row">
 					<div class="col-md-4">
-						<div class="dez-logo "><a href="/"><img src="{{ asset('user/front_end/images/logooo.png')}}" width="193" height="89" alt=""></a></div>
+						<div class="dez-logo "><a href="/"><img src="{{ asset('user/front_end/images/logooo.webp')}}" width="193" height="89" alt=""></a></div>
 					</div>
 					<div class="col-md-8">
   						 
