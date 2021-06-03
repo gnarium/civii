@@ -201,6 +201,18 @@
 					<div class="col-lg-12 col-md-7 col-sm-12">
 						<div class="text-center m-b50">
 							<h2 class="m-t0">Government  Jobs</h2>
+                                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- job -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="9829258878"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
 						<div class="row" id="masonry">
