@@ -241,8 +241,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-12 col-md-7 col-sm-12">
 						<div class="text-center m-b50">
 							<h2 class="m-t0">Latest  Jobs</h2>
-                   
+                                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+                                     crossorigin="anonymous"></script>
+                                    <ins class="adsbygoogle"
+                                     style="display:block; text-align:center;"
+                                     data-ad-layout="in-article"
+                                     data-ad-format="fluid"
+                                     data-ad-client="ca-pub-3775391448345901"
+                                     data-ad-slot="1194634110"></ins>
+                                    <script>
+                                     (adsbygoogle = window.adsbygoogle || []).push({});
+                                    </script>
+
 							<h2 class="m-t0">Government  Jobs</h2>
+                                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+                                         crossorigin="anonymous"></script>
+                                        <ins class="adsbygoogle"
+                                         style="display:block; text-align:center;"
+                                         data-ad-layout="in-article"
+                                         data-ad-format="fluid"
+                                         data-ad-client="ca-pub-3775391448345901"
+                                         data-ad-slot="1194634110"></ins>
+                                        <script>
+                                         (adsbygoogle = window.adsbygoogle || []).push({});
+                                        </script>
+                            
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
 						<div class="row" id="masonry" >
@@ -272,6 +295,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                    
 						<div class="text-center m-b50">
 							<h2 class="m-t0">Private  Jobs</h2>
+                                                                     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+                                 crossorigin="anonymous"></script>
+                            <ins class="adsbygoogle"
+                                 style="display:block; text-align:center;"
+                                 data-ad-layout="in-article"
+                                 data-ad-format="fluid"
+                                 data-ad-client="ca-pub-3775391448345901"
+                                 data-ad-slot="1194634110"></ins>
+                            <script>
+                                 (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
 						<div class="row" id="masonry">
