@@ -15,10 +15,10 @@
     <script data-ad-client="ca-pub-3775391448345901" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
-	<link rel="icon" href="{{ asset('user/front_end/images/favicon.ico')}}" type="image/x-icon"  style="height: 300px;"/>
+	<link rel="icon" href="{{ asset('user/front_end/images/Engineering Destination Favicon .webp')}}" type="image/x-icon"  style="height: 300px;"/>
 	
-	<link rel="shortcut icon" type="image/x-icon" href="{{ asset('user/front_end/images/favicon.ico')}}"  />
-	
+	<link rel="shortcut icon" type="image/x-icon" href="{{ asset('user/front_end/images/Engineering Destination Favicon .webp')}}"  />
+		
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 	
 	<title>Engineering Destination</title>
