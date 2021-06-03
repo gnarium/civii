@@ -16,9 +16,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
-	<link rel="icon" href="{{ asset('user/front_end/images/engineeringdestination_favicon.png')}}" type="image/png" sizes="32x32" />
+	<link rel="icon" href="{{ asset('user/front_end/images/Engineering Destination Favicon .webp')}}" type="image/x-icon" />
 	
-	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+	<link rel="shortcut icon" type="image/x-icon" href="images/Engineering Destination Favicon .webp" />
 	
 	<title>Engineering Destination</title>
 	
@@ -228,7 +228,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container" >
 				<div class="row text-white" style="background-color:white">	
 					<div class="col-lg-12 col-md-8">
-						<h2 class="m-a0"style="text-align:center"><img src="{{ asset('user/front_end/images/tagline.png')}}" ></h2>
+						<h2 class="m-a0"style="text-align:center"><img src="{{ asset('user/front_end/images/tagline.webp')}}" ></h2>
 					</div>	
 				</div>
 			</div>	
