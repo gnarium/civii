@@ -13,10 +13,9 @@
 
 	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
-	<link rel="icon" href="{{ asset('user/front_end/images/fav.ico')}}" type="image/x-icon" />
+	<link rel="icon" href="{{ asset('user/front_end/images/Engineering Destination Favicon .webp')}}" type="image/x-icon" />
 	
-	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
-	<title>Engineering Destination</title>
+    <title>Engineering Destination</title>
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
