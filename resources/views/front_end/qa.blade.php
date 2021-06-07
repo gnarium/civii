@@ -10,7 +10,7 @@
 	<meta property="og:image" content="" />
 	<meta name="format-detection" content="telephone=no">
 	<meta name="google-site-verification" content="ucTRTXLEo1IKrfkR8YoZtee9XpyNdwghNzkuH1hpZcU" />
-	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
+	
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
