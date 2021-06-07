@@ -21,7 +21,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
-	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
+	
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
 	<link rel="icon" href="{{ asset('user/front_end/images/Engineering Destination Favicon .webp')}}" type="image/x-icon" />
 	
@@ -51,20 +51,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/settings.css')}}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/navigation.css')}}">
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-	<script> 
-		
-		$(document).load(function() {
-            $("body").children().css({
-                "display": "none"
-    		});
-			$("footer").children().css({
-				"display": "none"
-			});
-		});
-		
-	</script>
+	
 <div id="loading-area"></div>
 <style>
   /* Make the image fully responsive */
@@ -603,3 +590,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
 		   </div>
          </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	<script> 
+		
+		$(document).load(function() {
+            $("body").children().css({
+                "display": "none"
+    		});
+			$("footer").children().css({
+				"display": "none"
+			});
+		});
+		
+	</script>
