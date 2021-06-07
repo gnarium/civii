@@ -22,7 +22,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="shortcut icon" type="image/x-icon" href="images/Engineering Destination Favicon .webp" />
 	
 	
-	<script src="{{ asset('user/front_end/js/combining.js')}}"></script>
+	
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
 	<link rel="icon" href="{{ asset('user/front_end/images/Engineering Destination Favicon .webp')}}" type="image/x-icon" />
 	
