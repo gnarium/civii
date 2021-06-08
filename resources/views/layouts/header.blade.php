@@ -45,20 +45,7 @@
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/settings.css')}}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/navigation.css')}}">
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-	<script> 
-		
-		$(document).load(function() {
-            $("body").children().css({
-                "display": "none",
-    		});
-			$("footer").children().css({
-				"display": "none"
-			});
-		});
-		
-	</script>
+	
 </head>
 <body>
 	<header class="site-header header-style-4 dark">
