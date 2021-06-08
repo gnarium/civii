@@ -72,5 +72,18 @@
 <script src="{{ asset('user/front_end/js/combining.js')}}"></script><!-- COMBINING JS  -->
 <!-- REVOLUTION JS FILES -->
 <script src="{{ asset('user/front_end/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
+	<script> 
+		
+		$(document).load(function() {
+            $("body").children().css({
+                "display": "none",
+    		});
+			$("footer").children().css({
+				"display": "none"
+			});
+		});
+		
+	</script>
 <!-- <div id="loading-area"></div> -->
