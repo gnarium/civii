@@ -315,64 +315,38 @@
                 </div>
             </div>
         </div>
-		<div class="section-full overlay-black-middle bg-img-fix content-inner-1" style="background-image:url('{{ asset('user/front_end/images/background/bg12.jpg')}}');">
-            <div class="container">
-                <div class="section-head text-white text-center">
-                    <h2 class="h2">Follow Us On</h2>
-					<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
+		<div class="container">
+				<div class="row">
+					<div class="col-lg-12 col-md-7 col-sm-12">
+						<br/>
+						<div class="text-center m-b50">
+							<h2 class="m-t0">Follow Us On</h2>
+							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
+						</div>
+						<div class="row" id="masonry">
+                			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/An ISO Certified Youtube Channel.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/An ISO Certified Youtube Channel.webp')}}" style="height:250px" alt=""></a>
+									</div>
+							</div>
+							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
+									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/Join Us On Career Destination.webp')}}" target="_blank"><img src="{{ asset('user/front_end/images/Join Us On Career Destination.webp')}}" style="height:250px" alt=""></a>
+									</div>
+							</div>
+							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Join Us On Civil Engineering Destination.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Civil Engineering Destination.webp')}}"  style="height:250px" alt=""></a>
+									</div>
+							</div>
+							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Join Us On Tech Civil Destination.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Tech Civil Destination.webp')}}"style="height:250px" alt=""></a>
+									</div>
+							</div>
+                 		</div>
+						
+					</div>
                 </div>
-                <div class="section-content">
-                    <div class="testimonial-two owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="testimonial-2 testimonial-bg">
-                                <div class="testimonial-text">
-                                    <p>
-										<a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/An ISO Certified Youtube Channel.webp')}}" width="100" height="100" style="margin-top:-15px" alt=""></a>
-									</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-2 testimonial-bg">
-                                <div class="testimonial-text">
-                                    <p>
-										<a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/Join Us On Career Destination.webp')}}" width="100" height="100" style="margin-top:-15px" alt="">
-										</a>
-									</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-2 testimonial-bg">
-                                <div class="testimonial-text">
-                                    <p>
-										<a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/Join Us On Civil Engineering Destination.webp')}}" width="100" height="100" style="margin-top:-15px" alt="">
-										</a>
-									</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-2 testimonial-bg">
-                                <div class="testimonial-text">
-                                    <p>
-										<a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1">
-											<img src="{{ asset('user/front_end/images/testimonials/Join Us On Tech Civil Destination.webp')}}" width="100" height="100" style="margin-top:-15px" alt="">
-										</a>
-									</p>
-                                </div>
-                            </div>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	   
+		   </div>
+         </div>
+        
 		<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-7 col-sm-12">
