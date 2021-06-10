@@ -299,19 +299,19 @@
 						</div>
 						<div class="row" id="masonry">
                 			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/An ISO Certified Youtube Channel.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/An ISO Certified Youtube Channel.webp')}}" style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" target="_blank"> <img src="{{ asset('user/front_end/images/An ISO Certified Youtube Channel.webp')}}" style="height:250px" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/Join Us On Career Destination.webp')}}" target="_blank"><img src="{{ asset('user/front_end/images/Join Us On Career Destination.webp')}}" style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "> <a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" target="_blank"><img src="{{ asset('user/front_end/images/Join Us On Career Destination.webp')}}" style="height:250px" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Join Us On Civil Engineering Destination.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Civil Engineering Destination.webp')}}"  style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Civil Engineering Destination.webp')}}"  style="height:250px" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Join Us On Tech Civil Destination.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Tech Civil Destination.webp')}}"style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Tech Civil Destination.webp')}}"style="height:250px" alt=""></a>
 									</div>
 							</div>
                  		</div>
