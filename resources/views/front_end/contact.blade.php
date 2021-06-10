@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('content)
+@section('content')
    <div class="page-content">
         <!-- inner page banner -->
         <div class="dez-bnr-inr overlay-black-middle" style="background-image:url('{{ asset('user/front_end/images/background/bg4.jpg')}}');">
