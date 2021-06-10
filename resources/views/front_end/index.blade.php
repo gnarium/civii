@@ -265,7 +265,7 @@
 							<h2 class="m-t0">Success Stories</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
-						<div class="row" id="masonry">
+						<div class="row" id="masonry" style="border-radius:25px 25px 25px 25px">
                 			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
 									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" style="height:250px" alt=""></a>
 									</div>
