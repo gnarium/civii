@@ -256,65 +256,39 @@
                 </div>
             </div>
         </div>
-		
-		<!-- Our Gallery END -->
-		<!-- Testimonials blog -->
-        <div class="section-full overlay-black-middle bg-img-fix content-inner-1" style="background-image:url('{{ asset('user/front_end/images/background/bg12.jpg')}}');">
-            <div class="container">
-                <div class="section-head text-white text-center">
-                    <h2 class="h2">Success Stories</h2>
-					<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
+
+        <div class="container">
+				<div class="row">
+					<div class="col-lg-12 col-md-7 col-sm-12">
+						<br/>
+						<div class="text-center m-b50">
+							<h2 class="m-t0">Success Stories</h2>
+							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
+						</div>
+						<div class="row" id="masonry">
+                			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" style="height:250px" alt=""></a>
+									</div>
+							</div>
+							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
+									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/Hnet.com-image (2).webp')}}" target="_blank"><img src="{{ asset('user/front_end/images/Hnet.com-image (2).webp')}}" style="height:250px" alt=""></a>
+									</div>
+							</div>
+							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (3).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (3).webp')}}"  style="height:250px" alt=""></a>
+									</div>
+							</div>
+							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image.webp')}}"style="height:250px" alt=""></a>
+									</div>
+							</div>
+                 		</div>
+						
+					</div>
                 </div>
-                <div class="section-content">
-                    <div class="testimonial-two owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="testimonial-2 testimonial-bg">
-                                <div class="testimonial-text">
-                                    <p>Dear Sir,
-               Myself Abhishek Sinha,I have mailed you before to inform you about my interview in Laxmi civil engineering services Pvt Ltd & you wish me well.Sir I have joined in LCESPL at chindwara, Madhya Pradesh at construction project of STP.I want to thank you from deep of my heart to make all this video's and helping students like us to get a job at this though time.
-			 
-			</p>
-                                </div>
-                                <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/3.webp')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
-                                    <strong class="testimonial-name">Abhishek Sinha</strong> <span class="testimonial-position">Student</span> </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-2 testimonial-bg">
-                                <div class="testimonial-text">
-                                    <p>My self Saltanat khan from Delhi. I get a next good opportunity in NCC Limited from your Channel. My duty start 10 March. I am so grateful for your support and kindness.I am saying 100 times Thankyou so much sir</p>
-                                </div>
-                                <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/2.webp')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
-                                    <strong class="testimonial-name">Saltanat khan</strong> <span class="testimonial-position">Student</span> </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-2 testimonial-bg">
-                                <div class="testimonial-text">
-                                    <p>Respected sir,With due regards I would like to inform you that I have been selected as an GAT in HPCL because of the notification posted by you on your channel.Thanks a lot sir this kind of hard work definately pays off.Attaching my award letter for your reference.</p>
-                                </div>
-                                <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/1.webp')}}" width="100" style="margin-top:-15px" height="100" alt=""></div>
-                                    <strong class="testimonial-name">Satyarth Pandey</strong> <span class="testimonial-position">Student</span> </div>
-                            </div>
-                        </div>
-						<div class="item">
-                            <div class="testimonial-2 testimonial-bg">
-                                <div class="testimonial-text">
-                                    <p>Sir mujhe aj mail received hua hain ....I am selected for CSIR IMMT Bhubaneswar . thank you sir.</p>
-                                </div>
-                                <div class="testimonial-detail clearfix">
-                                    <div class="testimonial-pic quote-left radius shadow"><img src="{{ asset('user/front_end/images/testimonials/5.webp')}}" width="100" height="100" style="margin-top:-15px" alt=""></div>
-                                    <strong class="testimonial-name">Saurav Paul</strong> <span class="testimonial-position">Student</span> </div>
-                            </div>
-                        </div>
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
+		   </div>
+         </div>
+        
 		<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-7 col-sm-12">
