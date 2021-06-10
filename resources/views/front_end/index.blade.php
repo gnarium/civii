@@ -266,20 +266,20 @@
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
 						<div class="row" id="masonry" >
-                			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container" style="border-radius:25px 25px 25px 25px">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" style="height:250px" alt=""></a>
+                			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container" >
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" style="height:300px" alt=""></a>
 									</div>
 							</div>
-							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container" style="border-radius:25px 25px 25px 25px">
-									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/Hnet.com-image (2).webp')}}" target="_blank"><img src="{{ asset('user/front_end/images/Hnet.com-image (2).webp')}}" style="height:250px" alt=""></a>
-									</div>
-							</div>
-							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (3).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (3).webp')}}"  style="height:250px" alt=""></a>
+							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container" >
+									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/Hnet.com-image (2).webp')}}" target="_blank"><img src="{{ asset('user/front_end/images/Hnet.com-image (2).webp')}}" style="height:300px" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image.webp')}}"style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (3).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (3).webp')}}"  style="height:300px" alt=""></a>
+									</div>
+							</div>
+							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image.webp')}}"style="height:300px" alt=""></a>
 									</div>
 							</div>
                  		</div>
