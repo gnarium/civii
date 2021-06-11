@@ -36,7 +36,7 @@
 </div>
 
 
-<div class="section-full bg-img-fix overlay-black-middle content-inner-1 about-uni" style="background-image:url({{ asset('user/front_end/images/background/bg2.jpg')}});">
+<div class="section-full bg-img-fix overlay-black-middle content-inner-1 about-uni" style="background-image:url({{ asset('user/front_end/images/bg2.jpg')}});">
             <div class="container" >
 				<div class="row text-white" style="background-color:white">	
 					<div class="col-lg-12 col-md-8">
@@ -149,7 +149,7 @@
 		   </div>
         </div>
 	   
-	   <div class="section-full text-white bg-img-fix content-inner overlay-black-middle" style="background-image:url('{{ asset('user/front_end/images/background/bg6.jpg')}}');">
+	   <div class="section-full text-white bg-img-fix content-inner overlay-black-middle" style="background-image:url('{{ asset('user/front_end/images/bg6.jpg')}}');">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
@@ -267,19 +267,19 @@
 						</div>
 						<div class="row" id="masonry" >
                 			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container" >
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" style="height:300px;" class = "img-circle" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/5.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/5.webp')}}" style="height:300px;" class = "img-circle" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container" >
-									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/Hnet.com-image (2).webp')}}" target="_blank"><img src="{{ asset('user/front_end/images/Hnet.com-image (2).webp')}}" style="height:300px;border-raduis:25%;" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/6.webp')}}" target="_blank"><img src="{{ asset('user/front_end/images/6.webp')}}" style="height:300px;border-raduis:25%;" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (3).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (3).webp')}}"  style="height:300px;border-raduis:25%;" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/7.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/7.webp')}}"  style="height:300px;border-raduis:25%;" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image.webp')}}"style="height:300px;border-raduis:25%;" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/8.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/8.webp')}}"style="height:300px;border-raduis:25%;" alt=""></a>
 									</div>
 							</div>
                  		</div>
