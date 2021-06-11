@@ -279,7 +279,7 @@
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/8.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/8.webp')}}"style="height:300px;border-raduis:25%;" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/9.webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/9.webp')}}"style="height:300px;border-raduis:25%;" alt=""></a>
 									</div>
 							</div>
                  		</div>
