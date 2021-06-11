@@ -56,7 +56,7 @@
   {
 	.carousel-inner img {
     width: 100% !important;
-	height:50% !important;
+	height:60% !important;
   }
   	  
   }
