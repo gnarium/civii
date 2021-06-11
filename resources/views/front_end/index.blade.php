@@ -267,7 +267,7 @@
 						</div>
 						<div class="row" id="masonry" >
                 			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container" >
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" style="height:250px;border-raduis:25%;" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" target="_blank"> <img src="{{ asset('user/front_end/images/Hnet.com-image (1).webp')}}" style="height:250px;" class = "img-circle" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container" >
