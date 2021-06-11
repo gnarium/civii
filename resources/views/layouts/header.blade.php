@@ -46,6 +46,22 @@
 	<link rel="stylesheet" type="text/css" href="{{ asset('user/front_end/plugins/revolution/revolution/css/navigation.css')}}">
 
 	
+	<style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  @media only screen and (max-width:992px) 
+  {
+	.carousel-inner img {
+    width: 100% !important;
+	height:50% !important;
+  }
+  	  
+  }
+  
+  </style>
 </head>
 <body>
 	<header class="site-header header-style-4 dark">
