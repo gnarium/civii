@@ -314,6 +314,7 @@
 									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Tech Civil Destination.webp')}}"style="height:300px" alt=""></a>
 									</div>
 							</div>
+                            
                  		</div>
 						
 					</div>
