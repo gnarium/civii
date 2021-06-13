@@ -120,12 +120,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                 </div>
                             </div>
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- About 3 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,6 +132,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
       
+                        </div>
+                    </div>
+                </div>
+            </div>
+             
         </div>
        
 		    </div>
