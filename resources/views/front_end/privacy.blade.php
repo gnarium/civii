@@ -113,14 +113,7 @@ If you make a request, we have one month to respond to you. If you would like to
 						<h2 class="m-b20 m-t0">Children's Information</h2>
 						<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.Engineering Destination does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
 						</ul>
-                        
-						</div> 
-                    <!-- Left part start END -->
-                    <!-- Right part start -->
-                                        <!-- Right part start END -->
-                </div>
-            </div>
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Privacy 3 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,6 +124,13 @@ If you make a request, we have one month to respond to you. If you would like to
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+						</div> 
+                    <!-- Left part start END -->
+                    <!-- Right part start -->
+                                        <!-- Right part start END -->
+                </div>
+            </div>
+           
             <!-- Career END -->
         </div>
         <!-- contact area END -->
