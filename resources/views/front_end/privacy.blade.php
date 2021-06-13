@@ -33,6 +33,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <!-- Left part start -->
                     <div class="col-lg-12 col-md-7">
                         <h1 class="m-b20 m-t0">Privacy Policy for Engineering Destination</h1>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Privacy 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="4566393134"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
                         <p style="text-align:justify;">At Engineering Destination, accessible from www.engineeringdestination.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Engineering Destination and how we use it.
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Engineering Destination. This policy is not applicable to any information collected offline or via channels other than this website.</p>
@@ -48,6 +59,17 @@ This Privacy Policy applies only to our online activities and is valid for visit
                             <li>Copying the content of this channel or website is strictly prohibited.</li>
                             <li>Any misuse or misguidence shall be immediately reported to the owner of the website.</li>
                         </ul>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Privacy 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="8720232890"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
                         <h3>How we use your information</h3>
                         <p>We use the information we collect in various ways, including to:</p> 
                         <ul class="list-check-circle primary">
@@ -98,6 +120,17 @@ If you make a request, we have one month to respond to you. If you would like to
                                         <!-- Right part start END -->
                 </div>
             </div>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Privacy 3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="6094069556"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
             <!-- Career END -->
         </div>
         <!-- contact area END -->
