@@ -68,6 +68,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
                         @endforeach
                         
+                        
+
+						</div>
+						</div>
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Private 2 -->
 <ins class="adsbygoogle"
@@ -79,9 +83,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-						</div>
-						</div>
                 </div>
 		   </div>
         </div>
