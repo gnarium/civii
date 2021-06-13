@@ -71,7 +71,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
 	<div class="container">
         <div class="row">
-            <div class="col-lg-9">
+            <div class="col-lg-12">
                 <table class="table container">
                     <thead>
                         <tr>
@@ -89,19 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     @endforeach
                 </table>
             </div>
-            <div class="col-lg-3>
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                <!-- QA QC 4 -->
-                    <ins class="adsbygoogle"
-                                 style="display:block"
-                                 data-ad-client="ca-pub-3775391448345901"
-                                 data-ad-slot="2537967925"
-                                 data-ad-format="auto"
-                                 data-full-width-responsive="true"></ins>
-                            <script>
-                                 (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                </div>
+            
     </div>
 </div>   
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
