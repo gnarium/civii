@@ -69,9 +69,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <h1 class="m-b20 m-t0">TESTIMONIALS DISCLAIMER</h1>
                         <div class="dez-separator bg-primary"></div>
                         <p>The Site may contain testimonials by users of our products and/or services. These testimonials reflect the real-life experiences and opinions of such users. However the experiences are personal to those particular users and may not necessarily be representative of all users of our products and/or services We do not claim, and you should not assume that all users will have the same experiences. Your individual results may vary.</p>
-        
-        				</div>
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Disclaimer 2 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -82,6 +80,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+        				</div>
+                        
                     <!-- Left part start END -->
                     <!-- Right part start -->
                                     </div>
