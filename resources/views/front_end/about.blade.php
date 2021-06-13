@@ -33,9 +33,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="col-lg-5 m-b30 hidden-sm">
                             <div class="dez-thu "><img src="{{ asset('user/front_end/images/A D SIR.png')}}" alt=""></div>
                         </div>
-                        
-                        <div class="col-lg-7">
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- About 1 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -46,6 +44,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+                        <div class="col-lg-7">
+                            
                             <h2 class="h2 m-t0"> About  <span class="text-primary">Engineering Destination </span></h2>
                             <div class="dez-separator bg-primary"></div>
                             <div class="clear"></div>
@@ -119,7 +119,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                 </div>
                             </div>
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- About 3 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,11 +136,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
       
 		    </div>
         @endsection
