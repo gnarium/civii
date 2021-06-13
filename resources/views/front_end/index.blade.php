@@ -293,7 +293,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </div>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        
+
+        <div class="container">
+				<div class="row">
+					<div class="col-lg-12 col-md-7 col-sm-12">
+						<br/>
+						<div class="text-center m-b50">
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home 4 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -304,12 +311,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-        <div class="container">
-				<div class="row">
-					<div class="col-lg-12 col-md-7 col-sm-12">
-						<br/>
-						<div class="text-center m-b50">
 							<h2 class="m-t0">Success Stories</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
