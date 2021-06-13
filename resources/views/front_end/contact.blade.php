@@ -33,9 +33,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
                     <!-- Left part start -->
                     <div class="col-lg-8">
-                        <div class="p-a30 bg-gray clearfix m-b30 ">
-							<h2>Send Message Us</h2>
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Contact 1 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -46,6 +44,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+                        <div class="p-a30 bg-gray clearfix m-b30 ">
+							<h2>Send Message Us</h2>
+                            
 							<form method="post"  action="/contact">
 							{{ csrf_field()}}
 							    <div class="row">
