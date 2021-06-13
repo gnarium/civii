@@ -91,23 +91,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="col-lg-3>
             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- QA QC 4 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="2537967925"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-            </div>
+                <!-- QA QC 4 -->
+                    <ins class="adsbygoogle"
+                                 style="display:block"
+                                 data-ad-client="ca-pub-3775391448345901"
+                                 data-ad-slot="2537967925"
+                                 data-ad-format="auto"
+                                 data-full-width-responsive="true"></ins>
+                            <script>
+                                 (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                </div>
     </div>
 </div>   
-
-    </div>
-  </div>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- QA QC 3 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,6 +116,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+    </div>
+  </div>
+  
 </section>
 </section>
     
