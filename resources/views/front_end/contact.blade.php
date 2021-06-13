@@ -117,7 +117,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</ul>
 							</div>
                         </div>
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        
+
+                    </div>
+                    <!-- right part END -->
+                </div>
+                
+            </div>
+        </div>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Contact 3 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,12 +136,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-                    </div>
-                    <!-- right part END -->
-                </div>
-            </div>
-        </div>
         <!-- contact area  END -->
     </div>
 @endsection
