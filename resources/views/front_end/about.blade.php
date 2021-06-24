@@ -42,11 +42,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
                     <div class="row">
-						<div class="col-lg-5 m-b30 hidden-sm">
+						<div class="col-lg-3 m-b30 hidden-sm">
                             <div class="dez-thu "><img src="{{ asset('user/front_end/images/A D SIR.png')}}" alt=""></div>
                         </div>
                         
-                        <div class="col-lg-7">
+                        <div class="col-lg-6">
                             
                             <h2 class="h2 m-t0"> About  <span class="text-primary">Engineering Destination </span></h2>
                             <div class="dez-separator bg-primary"></div>
