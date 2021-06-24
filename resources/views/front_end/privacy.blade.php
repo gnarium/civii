@@ -31,22 +31,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container">
                 <div class="row">
                     <!-- Left part start -->
-                    <div class="col-lg-12 col-md-7">
+                    <div class="col-lg-8 col-md-7">
                         <h1 class="m-b20 m-t0">Privacy Policy for Engineering Destination</h1>
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Privacy 1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="4566393134"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+                        <!-- Privacy 1 -->
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-3775391448345901"
+                             data-ad-slot="4566393134"
+                             data-ad-format="auto"
+                             data-full-width-responsive="true"></ins>
+                        <script>
+                             (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
                         <p style="text-align:justify;">At Engineering Destination, accessible from www.engineeringdestination.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Engineering Destination and how we use it.
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Engineering Destination. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+                        If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+                        This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Engineering Destination. This policy is not applicable to any information collected offline or via channels other than this website.</p>
 						<div class="dez-separator bg-primary"></div>
 						<h2 class="m-b20 m-t0">Consent</h2>
 						<p style="text-align:justify;">By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
@@ -60,16 +60,16 @@ This Privacy Policy applies only to our online activities and is valid for visit
                             <li>Any misuse or misguidence shall be immediately reported to the owner of the website.</li>
                         </ul>
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Privacy 2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="8720232890"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+                        <!-- Privacy 2 -->
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-3775391448345901"
+                             data-ad-slot="8720232890"
+                             data-ad-format="auto"
+                             data-full-width-responsive="true"></ins>
+                        <script>
+                             (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
                         <h3>How we use your information</h3>
                         <p>We use the information we collect in various ways, including to:</p> 
                         <ul class="list-check-circle primary">
@@ -95,10 +95,10 @@ This Privacy Policy applies only to our online activities and is valid for visit
 						<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
 						<h2 class="m-b20 m-t0">CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
 						<p style="text-align:justify;">Under the CCPA, among other rights, California consumers have the right to:
-Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
-Request that a business delete any personal data about the consumer that a business has collected.
-Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+                        Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
+                        Request that a business delete any personal data about the consumer that a business has collected.
+                        Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+                        If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
 						<h2 class="m-b20 m-t0">GDPR Data Protection Rights</h2>
 						<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
 						<ul class="list-check-circle primary">
@@ -114,16 +114,74 @@ If you make a request, we have one month to respond to you. If you would like to
 						<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.Engineering Destination does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
 						</ul>
                          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Privacy 3 -->
+                        <!-- Privacy 3 -->
+                        <ins class="adsbygoogle"
+                         style="display:block"
+                         data-ad-client="ca-pub-3775391448345901"
+                         data-ad-slot="6094069556"
+                         data-ad-format="auto"
+                         data-full-width-responsive="true"></ins>
+                        <script>
+                         (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                        <div class="col-lg-4>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Privacy 4 -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="6094069556"
+     data-ad-slot="5662872448"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Privacy 4 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="5662872448"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Privacy 4 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="5662872448"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Privacy 4 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="5662872448"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Privacy 4 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="5662872448"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+                        </div>
 						</div> 
                     <!-- Left part start END -->
                     <!-- Right part start -->
