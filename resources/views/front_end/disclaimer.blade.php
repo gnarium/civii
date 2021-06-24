@@ -80,11 +80,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                              (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
         				</div>
-                        
-                    <!-- Left part start END -->
-                    <!-- Right part start -->
-                                    </div>
-             <div class="col-lg-3">
+                            <div class="col-lg-3">
             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Disclaimer 4 -->
 <ins class="adsbygoogle"
@@ -109,7 +105,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </script>
 
             </div>
-           
+                      
+                    <!-- Left part start END -->
+                    <!-- Right part start -->
+                                    </div>
+             
             </div>
             <!-- Career END -->
         </div>
