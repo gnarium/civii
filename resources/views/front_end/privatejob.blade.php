@@ -32,18 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-12 col-md-7 col-sm-12">
 						<div class="text-center m-b50">
 							<h2 class="m-t0">Private Jobs</h2>
-                           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                                <!-- private 1 -->
-                                <ins class="adsbygoogle"
-                                     style="display:block"
-                                     data-ad-client="ca-pub-3775391448345901"
-                                     data-ad-slot="5930418023"
-                                     data-ad-format="auto"
-                                     data-full-width-responsive="true"></ins>
-                                <script>
-                                     (adsbygoogle = window.adsbygoogle || []).push({});
-                                </script>
-							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
+                           <div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
                         <div class="row" id="masonry">
                         @foreach($todoArr122 as $todo1)
