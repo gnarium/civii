@@ -45,20 +45,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </script>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
-                        <div class="col-lg-3">
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                            <!-- Private 3 -->
-                            <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-3775391448345901"
-                            data-ad-slot="9091777725"
-                            data-ad-format="auto"
-                            data-full-width-responsive="true"></ins>
-                            <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                        </div>
-						<div class="row" id="masonry">
+                        <div class="row" id="masonry">
                         @foreach($todoArr122 as $todo1)
 							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
 								<div class="dez-box "style="background-color:#FDC716">
@@ -78,12 +65,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 							</div>
                         @endforeach
-                        
-                        
-
+                        </div>
 						</div>
-						</div>
-                        
+                        <div class="col-lg-3">
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- Private 3 -->
+                            <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-3775391448345901"
+                            data-ad-slot="9091777725"
+                            data-ad-format="auto"
+                            data-full-width-responsive="true"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
+						
                 </div>
                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Private 2 -->
