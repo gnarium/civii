@@ -30,7 +30,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- Product -->
             <div class="container">
 				<div class="row">
-					<div class="col-lg-9 col-md-7 col-sm-12">
+					<div class="col-lg-10 col-md-7 col-sm-12">
 						<div class="text-center m-b50">
 							<h2 class="m-t0">Government  Jobs</h2>
                                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -68,7 +68,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						
 					</div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-2">
                     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <!-- GOV 3 -->
                         <ins class="adsbygoogle"
