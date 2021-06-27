@@ -31,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container">
                 <div class="row">
                     <!-- Left part start -->
-                    <div class="col-lg-8 col-md-7">
+                    <div class="col-lg-9 col-md-7">
                         <h1 class="m-b20 m-t0">Privacy Policy for Engineering Destination</h1>
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <!-- Privacy 1 -->
@@ -110,9 +110,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						   <li>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</li>
 						   <li> The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</li>
                            <li> If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</li>
+                           </ul>
 						<h2 class="m-b20 m-t0">Children's Information</h2>
 						<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.Engineering Destination does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
-						</ul>
                          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <!-- Privacy 3 -->
                         <ins class="adsbygoogle"
@@ -124,46 +124,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <script>
                          (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
-                       </div> 
-                    <!-- Left part start END -->
-                    <!-- Right part start -->
-                                        <!-- Right part start END -->
+                       </div>
+                       <div class="col-lg-3>
+                       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- Privacy 4 -->
+                        <ins class="adsbygoogle"
+                        style="display:block"
+                        data-ad-client="ca-pub-3775391448345901"
+                        data-ad-slot="5662872448"
+                        data-ad-format="auto"
+                        data-full-width-responsive="true"></ins><script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                       </div>
                 </div>
-                <div class="col-lg-4>
-              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Privacy 4 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="5662872448"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Privacy 4 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="5662872448"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Privacy 4 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="5662872448"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
+                
                         </div>
 						
             </div>
@@ -171,5 +146,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- Career END -->
         </div>
         <!-- contact area END -->
-    </div>
+    
     @endsection
