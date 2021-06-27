@@ -31,30 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container">
                 <div class="row">
                     <!-- Left part start -->
-                    <div class="col-lg-3>
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                            <!-- Privacy 4 -->
-                            <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-3775391448345901"
-                            data-ad-slot="5662872448"
-                            data-ad-format="auto"
-                            data-full-width-responsive="true"></ins><script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                            <!-- Privacy 4 -->
-                            <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-3775391448345901"
-                            data-ad-slot="5662872448"
-                            data-ad-format="auto"
-                            data-full-width-responsive="true"></ins><script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                       </div>
-                        
-                    <div class="col-lg-9 col-md-7">
+                    <div class="col-lg-8 col-md-7">
                         <h1 class="m-b20 m-t0">Privacy Policy for Engineering Destination</h1>
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <!-- Privacy 1 -->
@@ -149,12 +126,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                          (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
                        
-                </div>
+                <div class="col-lg-4 col-md-5>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- Privacy 4 -->
+                            <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-3775391448345901"
+                            data-ad-slot="5662872448"
+                            data-ad-format="auto"
+                            data-full-width-responsive="true"></ins><script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- Privacy 4 -->
+                            <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-3775391448345901"
+                            data-ad-slot="5662872448"
+                            data-ad-format="auto"
+                            data-full-width-responsive="true"></ins><script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                       </div>
+                        
+                    
                 
                         </div>
 						
             </div>
-           
+           </div>
             <!-- Career END -->
         </div>
         <!-- contact area END -->
