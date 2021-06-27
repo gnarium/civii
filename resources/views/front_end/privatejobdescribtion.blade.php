@@ -83,6 +83,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- Job Disc Private 3 -->
+                            <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-3775391448345901"
+                            data-ad-slot="2592790315"
+                            data-ad-format="auto"
+                            data-full-width-responsive="true"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- Job Disc Private 3 -->
+                            <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-3775391448345901"
+                            data-ad-slot="2592790315"
+                            data-ad-format="auto"
+                            data-full-width-responsive="true"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
                </div>
             </div>
             <!-- Career END -->
