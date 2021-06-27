@@ -166,6 +166,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        </div>
                         
                 
+                        
+                    
+                
+                        </div>
+                        
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <!-- Privacy 3 -->
                         <ins class="adsbygoogle"
@@ -178,9 +183,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                          (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
                        
-                    
-                
-                        </div>
 						
             </div>
            </div>
