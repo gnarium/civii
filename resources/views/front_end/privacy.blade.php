@@ -113,7 +113,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            </ul>
 						<h2 class="m-b20 m-t0">Children's Information</h2>
 						<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.Engineering Destination does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
-                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        </div>
+                        <div class="col-lg-3>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- Privacy 4 -->
+                            <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-3775391448345901"
+                            data-ad-slot="5662872448"
+                            data-ad-format="auto"
+                            data-full-width-responsive="true"></ins><script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- Privacy 4 -->
+                            <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-3775391448345901"
+                            data-ad-slot="5662872448"
+                            data-ad-format="auto"
+                            data-full-width-responsive="true"></ins><script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                       </div>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                         <!-- Privacy 3 -->
                         <ins class="adsbygoogle"
                          style="display:block"
@@ -124,29 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <script>
                          (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
-                       </div>
-                       <div class="col-lg-3>
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                            <!-- Privacy 4 -->
-                            <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-3775391448345901"
-                            data-ad-slot="5662872448"
-                            data-ad-format="auto"
-                            data-full-width-responsive="true"></ins><script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                            <!-- Privacy 4 -->
-                            <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-3775391448345901"
-                            data-ad-slot="5662872448"
-                            data-ad-format="auto"
-                            data-full-width-responsive="true"></ins><script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                       </div>
+                       
                 </div>
                 
                         </div>
