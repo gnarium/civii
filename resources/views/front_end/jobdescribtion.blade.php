@@ -33,33 +33,74 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container">
                 <div class="row" >
 				    <!-- Left part start -->
-                    <div class="col-lg-12 col-md-7 m-b30" style="text:align:justify;">
+                    <div class="col-lg-9 col-md-7 m-b30" style="text:align:justify;">
                         <h1 class="m-b20 m-t0">Job Describtion </h1>
                         <div class="dez-separator bg-primary"></div>
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Job Disc 1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="8916701684"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-                        <p><strong>{!!$todoArr14->describtion!!}</strong></p>
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Job Disc 2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3775391448345901"
-     data-ad-slot="5704268889"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
+                            <!-- Job Disc 1 -->
+                            <ins class="adsbygoogle"
+                                 style="display:block"
+                                 data-ad-client="ca-pub-3775391448345901"
+                                 data-ad-slot="8916701684"
+                                 data-ad-format="auto"
+                                 data-full-width-responsive="true"></ins>
+                            <script>
+                                 (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                                                    <p><strong>{!!$todoArr14->describtion!!}</strong></p>
+                                                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <!-- Job Disc 2 -->
+                            <ins class="adsbygoogle"
+                                 style="display:block"
+                                 data-ad-client="ca-pub-3775391448345901"
+                                 data-ad-slot="5704268889"
+                                 data-ad-format="auto"
+                                 data-full-width-responsive="true"></ins>
+                            <script>
+                                 (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                     </div>
+                     <div class="col-lg-3">
+                              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                <!-- Gov Job Disc 3 -->
+                                <ins class="adsbygoogle"style="display:block"
+                                data-ad-client="ca-pub-3775391448345901"
+                                data-ad-slot="3714300297"
+                                data-ad-format="auto"
+                                data-full-width-responsive="true"></ins>
+                                <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                                </script>
+                                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                <!-- Gov Job Disc 3 -->
+                                <ins class="adsbygoogle"style="display:block"
+                                data-ad-client="ca-pub-3775391448345901"
+                                data-ad-slot="3714300297"
+                                data-ad-format="auto"
+                                data-full-width-responsive="true"></ins>
+                                <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                                </script>
+                                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                <!-- Gov Job Disc 3 -->
+                                <ins class="adsbygoogle"style="display:block"
+                                data-ad-client="ca-pub-3775391448345901"
+                                data-ad-slot="3714300297"
+                                data-ad-format="auto"
+                                data-full-width-responsive="true"></ins>
+                                <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                                </script>
+                                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                <!-- Gov Job Disc 3 -->
+                                <ins class="adsbygoogle"style="display:block"
+                                data-ad-client="ca-pub-3775391448345901"
+                                data-ad-slot="3714300297"
+                                data-ad-format="auto"
+                                data-full-width-responsive="true"></ins>
+                                <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                                </script>
                      </div>
             	</div>
             <!-- Career END -->
