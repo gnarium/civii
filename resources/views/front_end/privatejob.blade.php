@@ -25,8 +25,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </div>
+    
         <div class="section-full bg-white content-inner">
-                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                           
+            <!-- Product -->
+            <div class="container">
+             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <!-- private 1 -->
                 <ins class="adsbygoogle"
                      style="display:block"
@@ -38,8 +42,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      (adsbygoogle = window.adsbygoogle || []).push({});
                 </script>
 
-            <!-- Product -->
-            <div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-7 col-sm-12">
 						<div class="text-center m-b50">
