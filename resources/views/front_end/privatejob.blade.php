@@ -48,7 +48,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
                         <div class="row" id="masonry">
                         @foreach($todoArr122 as $todo1)
-							<div class="col-md-6 col-lg-6 col-sm-6 m-b30 product-item card-container">
+							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
 								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-thum-bx  dez-img-effect "> 
 									</div>
