@@ -150,7 +150,8 @@ class AdminController extends Controller
     public function govtjobdetails()
     {
 //         $todoArr12 = DB::select('select * from govtjobs');
-        $todoArr12 = govtjob::orderBy('id', 'desc')->get();
+        //odoArr12 = govtjob::orderBy('id', 'desc')->get();
+        $todoArr12 = govtjob::orderBy('id', 'desc')->pagination(6);
         return view('front_end/govtjob',['todoArr12'=>$todoArr12]);
         
 
