@@ -92,7 +92,9 @@ class AdminController extends Controller
     public function privatejobdetails()
     {
 //         $todoArr122 = DB::select('select * from privatejobs');
-        $todoArr122 = privatejob::orderBy('id', 'desc')->get();
+        //$todoArr122 = privatejob::orderBy('id', 'desc')->get();
+        $todoArr12 = govtjob::orderBy('id', 'desc')->paginate(6);
+        
         return view('front_end/privatejob',['todoArr122'=>$todoArr122]);
     
     }
