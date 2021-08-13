@@ -43,7 +43,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </script>
 
 				<div class="row">
-					<div class="col-lg-10 col-md-7 col-sm-12">
+					<div class="col-lg-8 col-md-7 col-sm-12">
 						<div class="text-center m-b50">
 							<h2 class="m-t0">Private Jobs</h2>
                            <div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
@@ -71,6 +71,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         
                         @endforeach
                         
+                        <div class="col-lg-2   text-center">
+                            
+                            {{ $todoArr122->links()}}
+                        </div>
                         </div>
 						</div>
                         <div class="col-lg-2">
@@ -102,10 +106,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 
                 
-                        <div class="cal-lg-12   text-center">
-                            
-                            {{ $todoArr122->links()}}
-                        </div>
                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <!-- Private 2 -->
                 <ins class="adsbygoogle"
