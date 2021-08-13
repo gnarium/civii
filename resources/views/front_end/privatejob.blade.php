@@ -66,6 +66,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</div>
 									</div>
 								</div>
+                                {{ $todoArr122->links()}}
+                        
 							</div>
                         @endforeach
                         
@@ -101,8 +103,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                 
                         <div class="cal-sm-12   text-center">
-                            {{ $todoArr122->links()}}
-                        
+                            
                         </div>
                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <!-- Private 2 -->
