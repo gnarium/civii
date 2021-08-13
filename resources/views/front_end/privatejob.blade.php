@@ -68,10 +68,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
                                 
 							</div>
-                            {{ $todoArr122->links()}}
                         
                         @endforeach
                         
+                            {{ $todoArr122->links()}}
                         </div>
 						</div>
                         <div class="col-lg-2">
