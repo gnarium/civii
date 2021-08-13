@@ -71,10 +71,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         
                         @endforeach
                         
-                        <div class="col-lg-2   text-center">
-                            
-                            {{ $todoArr122->links()}}
-                        </div>
                         </div>
 						</div>
                         <div class="col-lg-2">
@@ -104,7 +100,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         
                 </div>
-                
+                <div class="col-lg-12   text-center">
+                            
+                            {{ $todoArr122->links()}}
+                        </div>
+                        
                 
                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <!-- Private 2 -->
