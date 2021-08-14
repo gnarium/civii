@@ -100,6 +100,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         
                 </div>
+                <div class="container">
                 <div class="row">
                     <div class="col-lg-12 mb-4  text-center">
                             
@@ -108,6 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
                 </div>
                 
+                </div>
                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <!-- Private 2 -->
                 <ins class="adsbygoogle"
