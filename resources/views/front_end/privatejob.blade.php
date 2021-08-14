@@ -1,6 +1,7 @@
 @extends('layouts.main')
 @section('content')
 <!-- Google Tag Manager (noscript) -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKNSJHM"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
