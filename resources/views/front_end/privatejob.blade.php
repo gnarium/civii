@@ -70,10 +70,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
                         
                         @endforeach
-                        <div class="col-sm-12 mb-4  text-center">
-                            
-                            {{ $todoArr122->links()}}
-                        </div>
+                        {{ $todoArr122->links()}}
+
+                        
                 
                         </div>
 						</div>
