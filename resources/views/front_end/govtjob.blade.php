@@ -65,7 +65,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 							</div>
                         @endforeach
-                        <div class="cal-sm-12 text-center">
+                        <div class="col-sm-10 mx-auto text-center">
                         {{ $todoArr12->links()}}
                         </div>
                         
