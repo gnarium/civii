@@ -107,7 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <h4 class="m-b0">Eligibility:</h4><span>{{$todo1->eligibility}}</span>
                                         <h4 class="m-b0">Last Date:</h4><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>View More</a>
+											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" rel="noopener noreferrer" target="_blank" style=background-color:white;color:black>View More</a>
 										</div>
 									</div>
 									
@@ -117,7 +117,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         @endforeach
 						</div>
 						<div class="m-t10" style="text-align:center;">
-							<a href="/govtjob" target="_blank" class="site-button">View More Jobs</a>
+							<a href="/govtjob" rel="noopener noreferrer" target="_blank" class="site-button">View More Jobs</a>
 						</div>
                    
 						<div class="text-center m-b50">
@@ -148,7 +148,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <h4 class="m-b0">Eligibility:</h4><span>{{$todo1->eligibility}}</span>
                                         <h4 class="m-b0">Last Date:</h4><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>View More </a>
+											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button" rel="noopener noreferrer" target="_blank" style=background-color:white;color:black>View More </a>
 										</div>
 										</div>
 								</div>
@@ -157,7 +157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						
 						<div class="m-t10" style="text-align:center;">
-							<a href="/privatejob" target="_blank" class="site-button">View More Jobs</a>
+							<a href="/privatejob" rel="noopener noreferrer" target="_blank" class="site-button">View More Jobs</a>
 						</div>
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home 4 -->
@@ -316,19 +316,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<div class="row" id="masonry" >
                 			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container" >
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/5.webp')}}" rel="noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/5.webp')}}" style="height:300px;" class = "img-circle" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/5.webp')}}" rel="noopener noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/5.webp')}}" style="height:300px;" class = "img-circle" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container" >
-									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/6.webp')}}" rel="noreferrer" target="_blank"><img src="{{ asset('user/front_end/images/6.webp')}}" style="height:300px;border-raduis:25%;" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/6.webp')}}" rel="noopener noreferrer" target="_blank"><img src="{{ asset('user/front_end/images/6.webp')}}" style="height:300px;border-raduis:25%;" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/7.webp')}}" rel="noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/7.webp')}}"  style="height:300px;border-raduis:25%;" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/7.webp')}}" rel="noopener noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/7.webp')}}"  style="height:300px;border-raduis:25%;" alt=""></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/9.webp')}}" rel="noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/9.webp')}}"style="height:300px;border-raduis:25%;" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/9.webp')}}" rel="noopener noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/9.webp')}}"style="height:300px;border-raduis:25%;" alt=""></a>
 									</div>
 							</div>
                  		</div>
@@ -370,19 +370,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<div class="row" id="masonry">
                 			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" rel="noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/An ISO Certified Youtube Channel.webp')}}" style="height:300px" alt="An ISO Certified Youtube Channel"></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" rel="noopener noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/An ISO Certified Youtube Channel.webp')}}" style="height:300px" alt="An ISO Certified Youtube Channel"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "> <a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" rel="noreferrer" target="_blank"><img src="{{ asset('user/front_end/images/Join Us On Career Destination.webp')}}" style="height:300px" alt="Join Us On Career Destination"></a>
+									<div class="dez-thum-bx  dez-img-effect "> <a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1"rel="noopener noreferrer" target="_blank"><img src="{{ asset('user/front_end/images/Join Us On Career Destination.webp')}}" style="height:300px" alt="Join Us On Career Destination"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" rel="noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Civil Engineering Destination.webp')}}"  style="height:300px" alt="Join Us On Civil Engineering Destination"></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" rel="noopener noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Civil Engineering Destination.webp')}}"  style="height:300px" alt="Join Us On Civil Engineering Destination"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1" rel="noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Tech Civil Destination.webp')}}"style="height:300px" alt="Join Us On Tech Civil Destination"></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1" rel="noopener noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Tech Civil Destination.webp')}}"style="height:300px" alt="Join Us On Tech Civil Destination"></a>
 									</div>
 							</div>
                             
@@ -414,19 +414,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<div class="row" id="masonry">
                 			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 1_1-min.jpg')}}" rel="noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 1_1-min.jpg')}}" style="height:250px" alt="Certificate 1_1-min"></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 1_1-min.jpg')}}" rel="noopener noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 1_1-min.jpg')}}" style="height:250px" alt="Certificate 1_1-min"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/gallery/Certificate 2_1-min.jpg')}}" rel="noreferrer" target="_blank"><img src="{{ asset('user/front_end/images/gallery/Certificate 2_1-min.jpg')}}" style="height:250px" alt="Certificate 2_1-min"></a>
+									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/gallery/Certificate 2_1-min.jpg')}}" rel="noopener noreferrer" target="_blank"><img src="{{ asset('user/front_end/images/gallery/Certificate 2_1-min.jpg')}}" style="height:250px" alt="Certificate 2_1-min"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 3_1-min.jpg')}}" rel="noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 3_1-min.jpg')}}"  style="height:250px" alt="Certificate 3_1-min"></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 3_1-min.jpg')}}" rel="noopener noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 3_1-min.jpg')}}"  style="height:250px" alt="Certificate 3_1-min"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/ISO certificate_1-min.jpg')}}" rel="noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/ISO certificate_1-min.jpg')}}"style="height:250px" alt="ISO certificate_1-min"></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/ISO certificate_1-min.jpg')}}" rel="noopener noreferrer" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/ISO certificate_1-min.jpg')}}"style="height:250px" alt="ISO certificate_1-min"></a>
 									</div>
 							</div>
                  		</div>
