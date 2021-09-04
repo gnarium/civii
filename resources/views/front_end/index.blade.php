@@ -101,11 +101,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-info p-a20">
 										<h3 class="m-b0" style="text-align:left;"><span>{{$todo1->jobtitle}}</span></h3>
-                                        <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
-                                        <h6 class="m-b0">Designation:</h6><span>{{$todo1->jobname}}</span>
-                                        <h6 class="m-b0">Branch:</h6><span>{{$todo1->branch}}</span>
-                                        <h6 class="m-b0">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
-                                        <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
+                                        <h4 class="m-b0">Company Name:</h4><span>{{$todo1->companyname}}</span>
+                                        <h4 class="m-b0">Designation:</h4><span>{{$todo1->jobname}}</span>
+                                        <h4 class="m-b0">Branch:</h4><span>{{$todo1->branch}}</span>
+                                        <h4 class="m-b0">Eligibility:</h4><span>{{$todo1->eligibility}}</span>
+                                        <h4 class="m-b0">Last Date:</h4><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
 											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>View More</a>
 										</div>
@@ -142,11 +142,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="dez-box " style="background-color:#FDC716">
 									<div class="dez-info p-a20">
 										<h3 class="m-b0" style="text-align:left;"><span>{{$todo1->jobtitle}}</span></h3>
-                                        <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
-                                       	<h6 class="m-b0">Designation:</h6><span>{{$todo1->jobname}}</span>
-                                        <h6 class="m-b0">Branch:</h6><span>{{$todo1->branch}}</span>
-                                        <h6 class="m-b0">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
-                                        <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
+                                        <h4 class="m-b0">Company Name:</h4><span>{{$todo1->companyname}}</span>
+                                       	<h4 class="m-b0">Designation:</h4><span>{{$todo1->jobname}}</span>
+                                        <h4 class="m-b0">Branch:</h4><span>{{$todo1->branch}}</span>
+                                        <h4 class="m-b0">Eligibility:</h4><span>{{$todo1->eligibility}}</span>
+                                        <h4 class="m-b0">Last Date:</h4><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
 											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>View More </a>
 										</div>
@@ -239,7 +239,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20"> <span class="icon-cell"><i class="fa fa-graduation-cap text-primary" style="margin-top:25px;"></i></span>  </div>
 								<div class="icon-content">
-									<h6 class="dez-tilte text-uppercase">TRAINING</h6>
+									<h4 class="dez-tilte text-uppercase">TRAINING</h4>
 									<p>ALL FREE CERTIFICATE WEBINARS/TRAININGS UPDATES ARE PROVIDED FOR ALL ENGINEERING STUDENTS/GRADUATES.</p>
 								</div>
 							</div>
@@ -248,7 +248,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20"><span class="icon-cell"><i class="fa fa-leanpub text-primary" style="margin-top:25px;"></i></span>  </div>
 								<div class="icon-content">
-									<h6 class="dez-tilte text-uppercase">IS CODES</h6>
+									<h4 class="dez-tilte text-uppercase">IS CODES</h4>
 									<p>WE PROVIDE IS CODES FOR CIVIL ENGINEERING PROFESSIONALS AND STUDENTS FOR THEIR KNOWLEDGE AND UNDERSTANDING. </p>
 								</div>
 							</div>
@@ -257,7 +257,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-desktop text-primary" aria-hidden="true" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
-									<h6 class="dez-tilte text-uppercase">ONLINE COURSES</h6>
+									<h4 class="dez-tilte text-uppercase">ONLINE COURSES</h4>
 									<p>WE ALSO ORGANISE FREE TRAINING COURSES FOR BOOSTING YOUR KNOWLEDGE AND MODERN CHANGES RELATED TO CONSTRUCTIONS </p>
 								</div>
 							</div>
@@ -266,7 +266,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-building text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
-									<h6 class="dez-tilte text-uppercase">JOB UPDATES</h6>
+									<h4 class="dez-tilte text-uppercase">JOB UPDATES</h4>
 									<p>WE PROVIDE MOST TRUSTED JOB UPDATES FOR BOTH PRIVATE AND GOVERNMENT ORGANIZATIONS FROM ALL OVER INDIA.</p>
 								</div>
 							</div>
@@ -275,7 +275,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-flag text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
-									<h6 class="dez-tilte text-uppercase">QA/QC Reports</h6>
+									<h4 class="dez-tilte text-uppercase">QA/QC Reports</h4>
 									<p>WE PROVIDE ALL LAB TEST REPORT FORMATS FOR EASE AND COMFORT FOR ALL USERS </p>
 								</div>
 							</div>
@@ -284,7 +284,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b10 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-area-chart text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
-									<h6 class="dez-tilte text-uppercase">CURRENT AFFAIRS</h6>
+									<h4 class="dez-tilte text-uppercase">CURRENT AFFAIRS</h4>
 									<p>ALL CURRENT AFFAIRS RELATED TO CONSTRUCTION AND CIVIL ENGINEERING ARE BEING UPDATED TIME TO TIME.</p>
 								</div>
 							</div>
