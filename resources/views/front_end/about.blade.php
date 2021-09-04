@@ -43,7 +43,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </script>
                     <div class="row">
 						<div class="col-lg-3 m-b30 hidden-sm">
-                            <div class="dez-thu "><img src="{{ asset('user/front_end/images/A D SIR.png')}}" alt=""></div>
+                            <div class="dez-thu "><img src="{{ asset('user/front_end/images/A D SIR.png')}}" alt="A D SIR" width="auto" height="auto"></div>
                         </div>
                         
                         <div class="col-lg-6">
