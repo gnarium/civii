@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
 						<div class="widget widget_about">
-							<div class="logo-footer"><img src="{{ asset('user/front_end/images/logooo.png')}}" alt=""></div>
+							<div class="logo-footer"><img src="{{ asset('user/front_end/images/logooo.png')}}" alt="Engineering Destination" width="auto" height="auto"></div>
 							<p class="m-tb20" style="text-align:justify;">Dear candidate, we are not a recruiter or job consultant. We only post the available and relevant jobs from the internet, we are not involved directly or indirectly in the recruitment process at any stage.</p>
 								
 						</div>
@@ -39,13 +39,13 @@
 							<h4 class="m-b15 text-uppercase">Follow Us On</h4>
 							<div class="dez-separator bg-primary"></div>
 							<ul>
-							<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" class="fa fa-facebook  ">&nbsp;</a>Facebook</li>
-							<li><a href="https://t.me/civilenggdestination" class="fa fa-telegram  ">&nbsp;</a>Telegram</li>
+							<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" class="fa fa-facebook">&nbsp;</a>Facebook</li>
+							<li><a href="https://t.me/civilenggdestination" class="fa fa-telegram">&nbsp;</a>Telegram</li>
 							<li><a href="https://www.linkedin.com/in/civilengineeringdestination-43255b1b6/" class="fa fa-linkedin">&nbsp;</a>LinkedIn</li>
-							<li><a href="https://www.instagram.com/civilengineeringdestination" class="fa fa-instagram fa-10x ">&nbsp;</a>Instagram</li>
-							<li><a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" class="fa fa-youtube fa-10x ">&nbsp;</a>Career Destination</li>
-							<li><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" class="fa fa-youtube fa-10x ">&nbsp;</a>Tech Civil Destination</li>
-							<li><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1" class="fa fa-youtube fa-10x ">&nbsp;</a>Civil Engineering Destination</li>
+							<li><a href="https://www.instagram.com/civilengineeringdestination" class="fa fa-instagram fa-10x">&nbsp;</a>Instagram</li>
+							<li><a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" class="fa fa-youtube fa-10x">&nbsp;</a>Career Destination</li>
+							<li><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" class="fa fa-youtube fa-10x">&nbsp;</a>Tech Civil Destination</li>
+							<li><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1" class="fa fa-youtube fa-10x">&nbsp;</a>Civil Engineering Destination</li>
 							</ul>
 						</div>
 					</div>
