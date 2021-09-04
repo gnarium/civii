@@ -44,7 +44,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container" >
 				<div class="row text-white" style="background-color:white">	
 					<div class="col-lg-12 col-md-8">
-						<h2 class="m-a0"style="text-align:center"><img src="{{ asset('user/front_end/images/tagline.webp')}}" ></h2>
+						<h2 class="m-a0"style="text-align:center"><img src="{{ asset('user/front_end/images/tagline.webp')}}" alt="Complete Solution for Every Engineer" width="auto" height="auto"></h2>
 					</div>	
 				</div>
 			</div>	
@@ -239,7 +239,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20"> <span class="icon-cell"><i class="fa fa-graduation-cap text-primary" style="margin-top:25px;"></i></span>  </div>
 								<div class="icon-content">
-									<h5 class="dez-tilte text-uppercase">TRAINING</h5>
+									<h6 class="dez-tilte text-uppercase">TRAINING</h6>
 									<p>ALL FREE CERTIFICATE WEBINARS/TRAININGS UPDATES ARE PROVIDED FOR ALL ENGINEERING STUDENTS/GRADUATES.</p>
 								</div>
 							</div>
@@ -248,7 +248,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20"><span class="icon-cell"><i class="fa fa-leanpub text-primary" style="margin-top:25px;"></i></span>  </div>
 								<div class="icon-content">
-									<h5 class="dez-tilte text-uppercase">IS CODES</h5>
+									<h6 class="dez-tilte text-uppercase">IS CODES</h6>
 									<p>WE PROVIDE IS CODES FOR CIVIL ENGINEERING PROFESSIONALS AND STUDENTS FOR THEIR KNOWLEDGE AND UNDERSTANDING. </p>
 								</div>
 							</div>
@@ -257,7 +257,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-desktop text-primary" aria-hidden="true" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
-									<h5 class="dez-tilte text-uppercase">ONLINE COURSES</h5>
+									<h6 class="dez-tilte text-uppercase">ONLINE COURSES</h6>
 									<p>WE ALSO ORGANISE FREE TRAINING COURSES FOR BOOSTING YOUR KNOWLEDGE AND MODERN CHANGES RELATED TO CONSTRUCTIONS </p>
 								</div>
 							</div>
@@ -266,7 +266,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-building text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
-									<h5 class="dez-tilte text-uppercase">JOB UPDATES</h5>
+									<h6 class="dez-tilte text-uppercase">JOB UPDATES</h6>
 									<p>WE PROVIDE MOST TRUSTED JOB UPDATES FOR BOTH PRIVATE AND GOVERNMENT ORGANIZATIONS FROM ALL OVER INDIA.</p>
 								</div>
 							</div>
@@ -275,7 +275,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b40 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-flag text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
-									<h5 class="dez-tilte text-uppercase">QA/QC Reports</h5>
+									<h6 class="dez-tilte text-uppercase">QA/QC Reports</h6>
 									<p>WE PROVIDE ALL LAB TEST REPORT FORMATS FOR EASE AND COMFORT FOR ALL USERS </p>
 								</div>
 							</div>
@@ -284,7 +284,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="icon-bx-wraper center m-b10 m-lr15">
 								<div class="icon-bx-lg bg-secondary m-b20">  <span class="icon-cell"><i class="fa fa-area-chart text-primary" style="margin-top:25px;"></i></span> </div>
 								<div class="icon-content">
-									<h5 class="dez-tilte text-uppercase">CURRENT AFFAIRS</h5>
+									<h6 class="dez-tilte text-uppercase">CURRENT AFFAIRS</h6>
 									<p>ALL CURRENT AFFAIRS RELATED TO CONSTRUCTION AND CIVIL ENGINEERING ARE BEING UPDATED TIME TO TIME.</p>
 								</div>
 							</div>
@@ -370,19 +370,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<div class="row" id="masonry">
                 			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" target="_blank"> <img src="{{ asset('user/front_end/images/An ISO Certified Youtube Channel.webp')}}" style="height:300px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" target="_blank"> <img src="{{ asset('user/front_end/images/An ISO Certified Youtube Channel.webp')}}" style="height:300px" alt="An ISO Certified Youtube Channel"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "> <a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" target="_blank"><img src="{{ asset('user/front_end/images/Join Us On Career Destination.webp')}}" style="height:300px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "> <a href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1" target="_blank"><img src="{{ asset('user/front_end/images/Join Us On Career Destination.webp')}}" style="height:300px" alt="Join Us On Career Destination"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Civil Engineering Destination.webp')}}"  style="height:300px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Civil Engineering Destination.webp')}}"  style="height:300px" alt="Join Us On Civil Engineering Destination"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Tech Civil Destination.webp')}}"style="height:300px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1" target="_blank"> <img src="{{ asset('user/front_end/images/Join Us On Tech Civil Destination.webp')}}"style="height:300px" alt="Join Us On Tech Civil Destination"></a>
 									</div>
 							</div>
                             
@@ -414,19 +414,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<div class="row" id="masonry">
                 			<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 1_1-min.jpg')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 1_1-min.jpg')}}" style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 1_1-min.jpg')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 1_1-min.jpg')}}" style="height:250px" alt="Certificate 1_1-min"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/gallery/Certificate 2_1-min.jpg')}}" target="_blank"><img src="{{ asset('user/front_end/images/gallery/Certificate 2_1-min.jpg')}}" style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "> <a href="{{ asset('user/front_end/images/gallery/Certificate 2_1-min.jpg')}}" target="_blank"><img src="{{ asset('user/front_end/images/gallery/Certificate 2_1-min.jpg')}}" style="height:250px" alt="Certificate 2_1-min"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 3_1-min.jpg')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 3_1-min.jpg')}}"  style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/Certificate 3_1-min.jpg')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/Certificate 3_1-min.jpg')}}"  style="height:250px" alt="Certificate 3_1-min"></a>
 									</div>
 							</div>
 							<div class="col-md-6 col-lg-3 col-sm-6 m-b30 product-item card-container">
-									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/ISO certificate_1-min.jpg')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/ISO certificate_1-min.jpg')}}"style="height:250px" alt=""></a>
+									<div class="dez-thum-bx  dez-img-effect "><a href="{{ asset('user/front_end/images/gallery/ISO certificate_1-min.jpg')}}" target="_blank"> <img src="{{ asset('user/front_end/images/gallery/ISO certificate_1-min.jpg')}}"style="height:250px" alt="ISO certificate_1-min"></a>
 									</div>
 							</div>
                  		</div>
