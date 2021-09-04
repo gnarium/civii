@@ -56,11 +56,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 									<div class="dez-info p-a20 ">
 										<h3 class="m-b0" style="text-align:left;"><span>{{$todo1->jobtitle}}</span></h3>
-                                        <h6 class="m-b0">Company Name:</h6><span>{{$todo1->companyname}}</span>
-                                        <h6 class="m-b0">Designation:</h6><span>{{$todo1->jobname}}</span>
-                                        <h6 class="m-b0">Branch:</h6><span>{{$todo1->branch}}</span>
-                                        <h6 class="m-b0">Eligibility:</h6><span>{{$todo1->eligibility}}</span>
-                                        <h6 class="m-b0">Last Date:</h6><span>{{$todo1->lastdate}}</span>
+                                        <h4 class="m-b0">Company Name:</h4><span>{{$todo1->companyname}}</span>
+                                        <h4 class="m-b0">Designation:</h4><span>{{$todo1->jobname}}</span>
+                                        <h4 class="m-b0">Branch:</h4><span>{{$todo1->branch}}</span>
+                                        <h4 class="m-b0">Eligibility:</h4><span>{{$todo1->eligibility}}</span>
+                                        <h4 class="m-b0">Last Date:</h4><span>{{$todo1->lastdate}}</span>
 										<div class="m-t10">
 											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button" style=background-color:white;color:black>For More Info</a>
 										</div>
