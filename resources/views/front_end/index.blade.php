@@ -100,12 +100,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
 								<div class="dez-box "style="background-color:#FDC716">
 									<div class="dez-info p-a20">
-										<h3 class="m-b0" style="text-align:left;"><span>{{$todo1->jobtitle}}</span></h3>
-                                        <h4 class="m-b0">Company Name:</h4><span>{{$todo1->companyname}}</span>
-                                        <h4 class="m-b0">Designation:</h4><span>{{$todo1->jobname}}</span>
-                                        <h4 class="m-b0">Branch:</h4><span>{{$todo1->branch}}</span>
-                                        <h4 class="m-b0">Eligibility:</h4><span>{{$todo1->eligibility}}</span>
-                                        <h4 class="m-b0">Last Date:</h4><span>{{$todo1->lastdate}}</span>
+										<h3 class="m-b0" style="text-align:left;"><span style="color:black;">{{$todo1->jobtitle}}</span></h3>
+                                        <h4 class="m-b0">Company Name:</h4><span style="color:black;">{{$todo1->companyname}}</span>
+                                        <h4 class="m-b0">Designation:</h4><span style="color:black;">{{$todo1->jobname}}</span>
+                                        <h4 class="m-b0">Branch:</h4><span style="color:black;">{{$todo1->branch}}</span>
+                                        <h4 class="m-b0">Eligibility:</h4><span style="color:black;">{{$todo1->eligibility}}</span>
+                                        <h4 class="m-b0">Last Date:</h4><span style="color:black;">{{$todo1->lastdate}}</span>
 										<div class="m-t10">
 											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" rel="noopener noreferrer" target="_blank" style=background-color:white;color:black>View More</a>
 										</div>
@@ -141,12 +141,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="col-md-6 col-lg-4 col-sm-6 m-b30 product-item card-container">
 								<div class="dez-box " style="background-color:#FDC716">
 									<div class="dez-info p-a20">
-										<h3 class="m-b0" style="text-align:left;"><span>{{$todo1->jobtitle}}</span></h3>
-                                        <h4 class="m-b0">Company Name:</h4><span>{{$todo1->companyname}}</span>
-                                       	<h4 class="m-b0">Designation:</h4><span>{{$todo1->jobname}}</span>
-                                        <h4 class="m-b0">Branch:</h4><span>{{$todo1->branch}}</span>
-                                        <h4 class="m-b0">Eligibility:</h4><span>{{$todo1->eligibility}}</span>
-                                        <h4 class="m-b0">Last Date:</h4><span>{{$todo1->lastdate}}</span>
+										<h3 class="m-b0" style="text-align:left;"><span style="color:black;">{{$todo1->jobtitle}}</span></h3>
+                                        <h4 class="m-b0">Company Name:</h4><span style="color:black;">{{$todo1->companyname}}</span>
+                                       	<h4 class="m-b0">Designation:</h4><span style="color:black;">{{$todo1->jobname}}</span>
+                                        <h4 class="m-b0">Branch:</h4><span style="color:black;">{{$todo1->branch}}</span>
+                                        <h4 class="m-b0">Eligibility:</h4><span style="color:black;">{{$todo1->eligibility}}</span>
+                                        <h4 class="m-b0">Last Date:</h4><span style="color:black;">{{$todo1->lastdate}}</span>
 										<div class="m-t10">
 											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button" rel="noopener noreferrer" target="_blank" style=background-color:white;color:black>View More </a>
 										</div>
@@ -231,7 +231,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h2 class="h2">OUR EXPERTISE</h2>
 							<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
                             <div class="clear"></div>
-                            <p class="m-b0">ENGINEERING DESTINATION IS THE MOST TRUSTED PLATFORM FOR ALL ENGINEERING STUDENTS AND PROFESSIONALS FROM ALL OVER INDIA.</p>
+                            <p class="m-b0" style="color:#767676;">ENGINEERING DESTINATION IS THE MOST TRUSTED PLATFORM FOR ALL ENGINEERING STUDENTS AND PROFESSIONALS FROM ALL OVER INDIA.</p>
                         </div>    
 					</div>		
 					<div class="row">
