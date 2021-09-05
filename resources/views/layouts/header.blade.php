@@ -105,7 +105,7 @@
   						
 					<li style="margin-left:100px;">
 						
-					<a class="site-button m-r15 text-white text-center btn-block" href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" style="margin-top:-10px;">  
+					<a class="site-button m-r15 text-black text-center btn-block" href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" style="margin-top:-10px;">  
 									<p class="m-a0">Follow Us On</p>   
 					<p class="m-a0">Career Destination</p>
 									<!-- <p class="m-a0">+91 8899296385</p>   -->
@@ -114,14 +114,14 @@
 							</li>
 							<li>
 							<a class="site-button text-white text-center " href="https://www.youtube.com/channel/UCQRvGmqysawXYkbs0VWoBeQ?sub_confirmation=1"style="margin-left:10px;margin-top:-10px;" >  
-							<p class="m-a0">Follow Us On</p>		
-							<p class="m-a0">Tech Civil Destination</p>
+							<p class="m-a0" style="color:black;">Follow Us On</p>		
+							<p class="m-a0" style="color:black;">Tech Civil Destination</p>
 								</a>
 							</li>
 							<li>
 							<a class="site-button text-white text-center " href="https://www.youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw?sub_confirmation=1"style="margin-left:10px;margin-top:0px;" >  
-							<p class="m-a0">Follow Us On</p>		
-							<p class="m-a0">Civil Engineering Destination</p>
+							<p class="m-a0" style="color:black;">Follow Us On</p>		
+							<p class="m-a0" style="color:black;">Civil Engineering Destination</p>
 								</a>
 							</li>
 
