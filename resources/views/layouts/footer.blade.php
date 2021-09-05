@@ -11,7 +11,7 @@
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
 						<div class="widget_services">
-							<h4 class="m-b15 text-uppercase">Useful Links</h4>
+							<h5 class="m-b15 text-uppercase">Useful Links</h5>
 							<div class="dez-separator bg-primary"></div>
 							<ul>
 								<li><a href="/about">About</a></li>
@@ -26,7 +26,7 @@
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
 						<div class="widget widget_getintuch" style="margin-left:-8px">
-							<h4 class="m-b15 text-uppercase">Contact us</h4>
+							<h5 class="m-b15 text-uppercase">Contact us</h5>
 							<div class="dez-separator bg-primary"></div>
 							<ul>
 								<li><i class="fa fa-map-marker"></i><strong>address</strong> Alambagh, Lucknow-226005</li>
@@ -36,7 +36,7 @@
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6 footer-col-4">
 						<div class="widget widget_services">
-							<h4 class="m-b15 text-uppercase">Follow Us On</h4>
+							<h5 class="m-b15 text-uppercase">Follow Us On</h5>
 							<div class="dez-separator bg-primary"></div>
 							<ul>
 							<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" class="fa fa-facebook">&nbsp;</a>Facebook</li>
@@ -58,7 +58,7 @@
 		<div class="footer-bottom">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-4 text-left" style=" color:white;" ><span style="font-size:14px; color:white;">Design & Developed By<a href="https://www.gnariumiqnovative.com" rel="noopener noreferrer" target="_blank" style="color:white;">Gnarium Iqnovative Pvt. Ltd.</a></span></div>
+					<div class="col-lg-4 text-left" style=" color:white;" ><span style="font-size:14px; color:white;">Design & Developed By<a href="https://www.gnariumiqnovative.com" rel="noopener noreferrer" target="_blank" style="color:white;"><font style="color:white;">Gnarium Iqnovative Pvt. Ltd.</font></a></span></div>
 					<div class="col-lg-8 text-right "> All Right Reserved | Engineering Destination | 2021 </div>
 				</div>
 			</div>
