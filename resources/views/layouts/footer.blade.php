@@ -58,7 +58,7 @@
 		<div class="footer-bottom">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-4 text-left" ><span style="font-size:14px; color:#ffffff;">Design & Developed By<a href="https://www.gnariumiqnovative.com" rel="noopener noreferrer" target="_blank">Gnarium Iqnovative Pvt. Ltd.</a></span></div>
+					<div class="col-lg-4 text-left" style=" color:white;" ><span style="font-size:14px; color:white;">Design & Developed By<a href="https://www.gnariumiqnovative.com" rel="noopener noreferrer" target="_blank">Gnarium Iqnovative Pvt. Ltd.</a></span></div>
 					<div class="col-lg-8 text-right "> All Right Reserved | Engineering Destination | 2021 </div>
 				</div>
 			</div>
