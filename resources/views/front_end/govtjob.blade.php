@@ -53,11 +53,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="dez-info p-a20" style="margin-left:-10px;">
 										<h3 class="m-b0" ><span>{{$todo1->jobtitle}}</span></h3>
                                         &nbsp;
-                                        <h4 class="m-b0">Company Name:</h4><span>{{$todo1->companyname}}</span>
-                                        <h4 class="m-b0">Designation:</h4><span>{{$todo1->jobname}}</span>
-                                        <h4 class="m-b0">Branch:</h4><span>{{$todo1->branch}}</span>
-                                        <h4 class="m-b0">Eligibility:</h4><span>{{$todo1->eligibility}}</span>
-                                        <h4 class="m-b0">Last Date:</h4><span>{{$todo1->lastdate}}</span>
+                                        <h4 class="m-b0">Company Name:</h4><span style="color:black;">{{$todo1->companyname}}</span>
+                                        <h4 class="m-b0">Designation:</h4><span style="color:black;">{{$todo1->jobname}}</span>
+                                        <h4 class="m-b0">Branch:</h4><span style="color:black;">{{$todo1->branch}}</span>
+                                        <h4 class="m-b0">Eligibility:</h4><span style="color:black;">{{$todo1->eligibility}}</span>
+                                        <h4 class="m-b0">Last Date:</h4><span style="color:black;">{{$todo1->lastdate}}</span>
 										<div class="m-t10">
 											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" rel="noopener noreferrer" target="_blank" style=background-color:white;color:black>For More Info</a>
 										</div>
