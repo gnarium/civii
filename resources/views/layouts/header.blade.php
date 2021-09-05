@@ -106,8 +106,8 @@
 					<li style="margin-left:100px;">
 						
 					<a class="site-button m-r15 text-black text-center btn-block" href="https://www.youtube.com/channel/UCzmD7qEkkg4ltvAp-bJhSWg?sub_confirmation=1" style="margin-top:-10px;">  
-									<p class="m-a0">Follow Us On</p>   
-					<p class="m-a0">Career Destination</p>
+									<p class="m-a0" style="color:black;">Follow Us On</p>   
+					<p class="m-a0" style="color:black;">Career Destination</p>
 									<!-- <p class="m-a0">+91 8899296385</p>   -->
 								</a>
 								
@@ -148,32 +148,32 @@
 						<!-- main nav -->
 						<div class="header-nav navbar-collapse collapse justify-content-start" id="navbarNavDropdown">
 							<ul class=" nav navbar-nav">
-							<li class="active"> <a href="/">Home</a>
+							<li class="active"> <a href="/" style="color:black;">Home</a>
 							</li>
-							<li> <a href="/about">About</a>
+							<li> <a href="/about" style="color:black;">About</a>
 								
 							</li>
-							<li> <a href="/govtjob">Government Job's</a>
+							<li> <a href="/govtjob" style="color:black;">Government Job's</a>
 									</li>
-							<li> <a href="/privatejob">Private Job's</a>
+							<li> <a href="/privatejob" style="color:black;">Private Job's</a>
 								
 							</li>
-							<li> <a href="/iscode">IS CODE</a>
+							<li> <a href="/iscode" style="color:black;">IS CODE</a>
 								
 							</li>
 
-							<li> <a href="/qa">QA/QC TESTING</a>
+							<li> <a href="/qa" style="color:black;">QA/QC TESTING</a>
 								
 							</li>
 							
-							<li> <a href="/privacy">Privacy</a>
+							<li> <a href="/privacy" style="color:black;">Privacy</a>
 								
 							</li>
 
-							<li> <a href="/disclaimer">Disclaimer</a>
+							<li> <a href="/disclaimer" style="color:black;">Disclaimer</a>
 								
 							</li>
-							<li> <a href="/contact">Contact us </a>
+							<li> <a href="/contact" style="color:black;">Contact us </a>
 								
 							</li>
 						</ul>
