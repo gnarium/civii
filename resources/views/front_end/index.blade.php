@@ -116,7 +116,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							
                         @endforeach
 						</div>
-						<div class="m-t10" style="text-align:center;">
+						<div class="m-t10" style="text-align:center; color:black;">
 							<a href="/govtjob" rel="noopener noreferrer" target="_blank" class="site-button">View More Jobs</a>
 						</div>
                    
@@ -156,8 +156,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         @endforeach
 						</div>
 						
-						<div class="m-t10" style="text-align:center;">
-							<a href="/privatejob" rel="noopener noreferrer" target="_blank" class="site-button">View More Jobs</a>
+						<div class="m-t10" style="text-align:center; color:black;" >
+							<a href="/privatejob" rel="noopener noreferrer" target="_blank" class="site-button" >View More Jobs</a>
 						</div>
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home 4 -->
