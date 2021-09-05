@@ -117,7 +117,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         @endforeach
 						</div>
 						<div class="m-t10" style="text-align:center; color:black;">
-							<a href="/govtjob" rel="noopener noreferrer" target="_blank" class="site-button">View More Jobs</a>
+							<a href="/govtjob" rel="noopener noreferrer" target="_blank" style="color:black;" class="site-button">View More Jobs</a>
 						</div>
                    
 						<div class="text-center m-b50">
@@ -157,7 +157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						
 						<div class="m-t10" style="text-align:center; color:black;" >
-							<a href="/privatejob" rel="noopener noreferrer" target="_blank" class="site-button" >View More Jobs</a>
+							<a href="/privatejob" rel="noopener noreferrer" target="_blank" style="color:black;" class="site-button" >View More Jobs</a>
 						</div>
                         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home 4 -->
