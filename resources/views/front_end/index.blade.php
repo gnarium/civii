@@ -107,7 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <h4 class="m-b0">Eligibility:</h4><span style="color:black;">{{$todo1->eligibility}}</span>
                                         <h4 class="m-b0">Last Date:</h4><span style="color:black;">{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" rel="noopener noreferrer" target="_blank" style=background-color:white;color:black>View More</a>
+											<a href="{{url('/govtjob')}}/{{$todo1->jobtitileurl}}" class="site-button" rel="noopener noreferrer"  style=background-color:white;color:black>View More</a>
 										</div>
 									</div>
 									
@@ -148,7 +148,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <h4 class="m-b0">Eligibility:</h4><span style="color:black;">{{$todo1->eligibility}}</span>
                                         <h4 class="m-b0">Last Date:</h4><span style="color:black;">{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button" rel="noopener noreferrer" target="_blank" style=background-color:white;color:black>View More </a>
+											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" class="site-button" rel="noopener noreferrer" style=background-color:white;color:black>View More </a>
 										</div>
 										</div>
 								</div>
