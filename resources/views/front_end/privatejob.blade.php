@@ -62,7 +62,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <h4 class="m-b0">Eligibility:</h4><span style="color:black;">{{$todo1->eligibility}}</span>
                                         <h4 class="m-b0">Last Date:</h4><span style="color:black;">{{$todo1->lastdate}}</span>
 										<div class="m-t10">
-											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" rel="noopener noreferrer" target="_blank" class="site-button" style=background-color:white;color:black>For More Info</a>
+											<a href="{{url('/privatejob')}}/{{$todo1->jobtitileurl}}" rel="noopener noreferrer" class="site-button" style=background-color:white;color:black>For More Info</a>
 										</div>
 									</div>
 								</div>
