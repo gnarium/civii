@@ -1,3 +1,5 @@
+<meta name="description" content="QA/QC stands for quality assurance quality control. For any construction project to be executed it needs to be approved from many government organizations and must carry some standards.">
+
 @extends('layouts.main')
 @section('content')
 <!-- Google Tag Manager (noscript) -->
