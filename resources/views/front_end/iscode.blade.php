@@ -1,3 +1,5 @@
+<meta name="description" content="Indian Standard Codes IS codes are a predefined set of instructions and information provided by the government of India for different types of construction, repair and maintenance work in India.">
+
 @extends('layouts.main')
 @section('content')
 <!-- Google Tag Manager (noscript) -->
