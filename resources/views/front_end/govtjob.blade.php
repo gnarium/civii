@@ -1,3 +1,5 @@
+<meta name="description" content="Here you can get the latest engineering government jobs updates in India in 2021 , all government  jobs are well updated and verified .">
+
 @extends('layouts.main')
 @section('content')
 <!-- Google Tag Manager (noscript) -->
