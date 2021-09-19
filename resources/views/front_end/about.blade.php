@@ -1,3 +1,4 @@
+<meta name="description" content="Engineering Destination is founded by India’s Best Civil Engineering Mentor and Teacher Anmol Dainesh Singh (A. D Singh) to help engineering students.">
 @extends('layouts.main')
 
 <!-- Google Tag Manager (noscript) -->
