@@ -1,5 +1,5 @@
-<meta property="og:title" content="QN and QC"/>
-<meta name="description" content="QA/QC stands for quality assurance quality control. For any construction project to be executed it needs to be approved from many government organizations and must carry some standards.">
+<meta property="og:title" content="QA and QC"/>
+<meta name="description" content="QA and QC stands for quality assurance quality control. For any construction project to be executed it needs to be approved from many government organizations and must carry some standards.">
 
 @extends('layouts.main')
 @section('content')
