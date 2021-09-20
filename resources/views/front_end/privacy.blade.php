@@ -1,3 +1,6 @@
+<meta property="og:title" content="Privacy"/>
+<meta name="description" content="At Engineering Destination, accessible from www.engineeringdestination.com, one of our main priorities is the privacy of our visitors.">
+ 
 @extends('layouts.main')
 @section('content')
 <!-- Google Tag Manager (noscript) -->
