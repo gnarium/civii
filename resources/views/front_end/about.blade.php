@@ -1,5 +1,5 @@
 @extends('layouts.main')
-<meta property="og:title" content="About"/>
+<meta property="og:title" content="About Engineering Destination"/>
 <meta name="description" content="Engineering Destination is founded by India’s Best Civil Engineering Mentor and Teacher Anmol Dainesh Singh (A. D Singh) to help engineering students.">
 
 <!-- Google Tag Manager (noscript) -->
@@ -50,7 +50,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         
                         <div class="col-lg-6">
                             
-                            <h2 class="h2 m-t0"> About  <span class="text-primary">Engineering Destination </span></h2>
+                            <h1 class="h2 m-t0" style="color:black;"> About  <span class="text-primary">Engineering Destination </span></h2>
                             <div class="dez-separator bg-primary"></div>
                             <div class="clear"></div>
                             <p class="m-b30"style="text-align:justify;">Engineering Destination is the official website of Civil Engineering Destination an ISO 9001:2015 certified channel owned by Anmol Dainesh Singh (A. D Singh) graduated B. Tech in civil engineering from central government university. Civil Engineering Destination was founded on 4 September 2020 After years of service and experience in big construction companies and government organizations and big projects like infrastructure, bridges, tunnels and roads.  I have decided to work for the improvement and career counselling of engineering students and graduates.</p><p class="m-b30"style="text-align:justify;">Engineering destination provides all jobs details and links. Other helpful information like IS codes and QA/QC test report formats are also available on our website. We also provide current affairs related to engineering and technical classes for all competitive exams in India.</p>
@@ -76,7 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</span> 
 										</div>
                                         <div class="icon-content">
-                                            <h5 class="dez-tilte " style="text-align:justify">Civil engineering</h5>
+                                            <h2 class="dez-tilte " style="text-align:justify">Civil engineering</h2>
                                             <p >Related to construction, planning and designing of all infrastructures, bridge and roads projects.</p>
                                         </div>
                                     </div>
@@ -89,7 +89,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</span> 
 										</div>
                                         <div class="icon-content">
-                                            <h5 class="dez-tilte" style="text-align:justify">Finishing engineer</h5>
+                                            <h2 class="dez-tilte" style="text-align:justify">Finishing engineer</h2>
                                             <p >Designing and detailing of external and internal appearance of any construction project.</p>
                                         </div>
                                     </div>
@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</span> 
 										</div>
                                         <div class="icon-content">
-                                            <h5 class="dez-tilte" style="text-align:justify">Architecture</h5>
+                                            <h2 class="dez-tilte" style="text-align:justify">Architecture</h2>
                                             <p >Designing of landscape and planning of towns and maintenance of buildings.</p>
                                         </div>
                                     </div>
@@ -117,7 +117,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</span> 
 										</div>
                                         <div class="icon-content">
-                                            <h5 class="dez-tilte" style="text-align:justify">Green building</h5>
+                                            <h2 class="dez-tilte" style="text-align:justify">Green building</h2>
                                             <p >Building that reduces the negative impacts on environment using latest technologies.</p>
                                         </div>
                                     </div>
