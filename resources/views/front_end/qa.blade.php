@@ -1,7 +1,8 @@
+
+@extends('layouts.main')
 <meta property="og:title" content="QA and QC"/>
 <meta name="description" content="QA and QC stands for quality assurance quality control. For any construction project to be executed it needs to be approved from many government organizations and must carry some standards.">
 
-@extends('layouts.main')
 @section('content')
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKNSJHM"
