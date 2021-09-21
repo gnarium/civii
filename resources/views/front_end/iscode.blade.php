@@ -1,7 +1,8 @@
+
+@extends('layouts.main')
 <meta property="og:title" content="IS Codes"/>
 <meta name="description" content="Indian Standard Codes IS codes are a predefined set of instructions and information provided by the government of India for different types of construction, repair and maintenance work in India.">
 
-@extends('layouts.main')
 @section('content')
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKNSJHM"
