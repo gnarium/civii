@@ -78,15 +78,15 @@
 				<div class="row d-flex justify-content-between">
 					<div class="dez-topbar-left">
 						<ul class="social-line text-center pull-right">
-							<li><a href="javascript:void(0);" rel="canonical"> <span> AN ISO 9001:2015 Certified Youtube Channel</span> </a></li>
+							<li><a href="javascript:void(0);" name="none" rel="canonical"> <span> AN ISO 9001:2015 Certified Youtube Channel</span> </a></li>
 						</ul>
 					</div>                        
 					<div class="dez-topbar-right">
 						<ul class="social-line text-center pull-right">
-							<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" rel="canonical" class="fa fa-facebook"></a></li>
-							<li><a href="https://t.me/civilenggdestination" rel="canonical" class="fa fa-telegram"></a></li>
-							<li><a href="https://www.linkedin.com/in/civilengineeringdestination-43255b1b6/" rel="canonical" class="fa fa-linkedin"></a></li>
-							<li><a href="https://www.instagram.com/civilengineeringdestination" rel="canonical" class="fa fa-instagram"></a></li>
+							<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" rel="canonical" name="facebook" class="fa fa-facebook"></a></li>
+							<li><a href="https://t.me/civilenggdestination" rel="canonical" name="telegram" class="fa fa-telegram"></a></li>
+							<li><a href="https://www.linkedin.com/in/civilengineeringdestination-43255b1b6/" name="linkedin" rel="canonical" class="fa fa-linkedin"></a></li>
+							<li><a href="https://www.instagram.com/civilengineeringdestination" rel="canonical" name="instagram" class="fa fa-instagram"></a></li>
 						</ul>
 					</div>
 				</div>
