@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+@extends('layouts.main')
 <meta property="og:title" content="About"/>
 <meta name="description" content="Engineering Destination is founded by India’s Best Civil Engineering Mentor and Teacher Anmol Dainesh Singh (A. D Singh) to help engineering students.">
-@extends('layouts.main')
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKNSJHM"
