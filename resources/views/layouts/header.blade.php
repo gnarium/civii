@@ -78,15 +78,15 @@
 				<div class="row d-flex justify-content-between">
 					<div class="dez-topbar-left">
 						<ul class="social-line text-center pull-right">
-							<li><a href="javascript:void(0);"> <span> AN ISO 9001:2015 Certified Youtube Channel</span> </a></li>
+							<li><a href="javascript:void(0);" rel="canonical"> <span> AN ISO 9001:2015 Certified Youtube Channel</span> </a></li>
 						</ul>
 					</div>                        
 					<div class="dez-topbar-right">
 						<ul class="social-line text-center pull-right">
-							<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" class="fa fa-facebook"></a></li>
-							<li><a href="https://t.me/civilenggdestination" class="fa fa-telegram"></a></li>
-							<li><a href="https://www.linkedin.com/in/civilengineeringdestination-43255b1b6/" class="fa fa-linkedin"></a></li>
-							<li><a href="https://www.instagram.com/civilengineeringdestination" class="fa fa-instagram"></a></li>
+							<li><a href="https://www.facebook.com/CIVIL-ENGG-Destination-100649208640067" rel="canonical" class="fa fa-facebook"></a></li>
+							<li><a href="https://t.me/civilenggdestination" rel="canonical" class="fa fa-telegram"></a></li>
+							<li><a href="https://www.linkedin.com/in/civilengineeringdestination-43255b1b6/" rel="canonical" class="fa fa-linkedin"></a></li>
+							<li><a href="https://www.instagram.com/civilengineeringdestination" rel="canonical" class="fa fa-instagram"></a></li>
 						</ul>
 					</div>
 				</div>
@@ -97,7 +97,7 @@
 			<div class="container header-contant-block">
 				<div class="row">
 					<div class="col-md-4">
-						<div class="dez-logo "><a href="/"><img src="{{ asset('user/front_end/images/logooo.webp')}}" width="193" height="89" alt=""></a></div>
+						<div class="dez-logo "><a href="/" rel="canonical"><img src="{{ asset('user/front_end/images/logooo.webp')}}" width="193" height="89" alt=""></a></div>
 					</div>
 					<div class="col-md-8">
   						 
@@ -148,32 +148,32 @@
 						<!-- main nav -->
 						<div class="header-nav navbar-collapse collapse justify-content-start" id="navbarNavDropdown">
 							<ul class=" nav navbar-nav">
-							<li class="active"> <a href="/" style="color:black;">Home</a>
+							<li class="active"> <a href="/" rel="canonical" style="color:black;">Home</a>
 							</li>
-							<li> <a href="/about" style="color:black;">About</a>
+							<li> <a href="/about" rel="canonical" style="color:black;">About</a>
 								
 							</li>
-							<li> <a href="/govtjob" style="color:black;">Government Job's</a>
+							<li> <a href="/govtjob" rel="canonical" style="color:black;">Government Job's</a>
 									</li>
-							<li> <a href="/privatejob" style="color:black;">Private Job's</a>
+							<li> <a href="/privatejob" rel="canonical" style="color:black;">Private Job's</a>
 								
 							</li>
-							<li> <a href="/iscode" style="color:black;">IS CODE</a>
+							<li> <a href="/iscode" rel="canonical" style="color:black;">IS CODE</a>
 								
 							</li>
 
-							<li> <a href="/qa" style="color:black;">QA/QC TESTING</a>
+							<li> <a href="/qa" rel="canonical" style="color:black;">QA/QC TESTING</a>
 								
 							</li>
 							
-							<li> <a href="/privacy" style="color:black;">Privacy</a>
+							<li> <a href="/privacy" rel="canonical" style="color:black;">Privacy</a>
 								
 							</li>
 
-							<li> <a href="/disclaimer" style="color:black;">Disclaimer</a>
+							<li> <a href="/disclaimer" rel="canonical" style="color:black;">Disclaimer</a>
 								
 							</li>
-							<li> <a href="/contact" style="color:black;">Contact us </a>
+							<li> <a href="/contact" rel="canonical" style="color:black;">Contact us </a>
 								
 							</li>
 						</ul>
