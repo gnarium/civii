@@ -78,7 +78,7 @@
 				<div class="row d-flex justify-content-between">
 					<div class="dez-topbar-left">
 						<ul class="social-line text-center pull-right">
-							<li><a href="javascript:void(0);" name="none" rel="canonical"> <span> AN ISO 9001:2015 Certified Youtube Channel</span> </a></li>
+							<li> <span> AN ISO 9001:2015 Certified Youtube Channel</span> </li>
 						</ul>
 					</div>                        
 					<div class="dez-topbar-right">
