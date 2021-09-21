@@ -1,7 +1,8 @@
+
+@extends('layouts.main')
 <meta property="og:title" content="Private Jobs"/>
 <meta name="description" content="Here you can get the latest engineering government jobs updates in India in 2021 , all private  jobs are well updated and verified .">
 
-@extends('layouts.main')
 @section('content')
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKNSJHM"
