@@ -24,7 +24,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="breadcrumb-row">
             <div class="container">
                 <ul class="list-inline">
-                    <li><a href="/">Home</a></li>
+                    <li><a href="/" style="color:black;">Home</a></li>
                     <li>Government Job</li>
                 </ul>
             </div>
