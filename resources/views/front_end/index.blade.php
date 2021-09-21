@@ -1,5 +1,6 @@
-<meta name="description" content="Engineering Destination is the complete job solution for every engineer in India . Here we provide the latest government and private job updates .">
 @extends('layouts.main')
+<meta name="description" content="Engineering Destination is the complete job solution for every engineer in India . Here we provide the latest government and private job updates .">
+
 @section('content')	
 
 	<!-- Google Tag Manager (noscript) -->
