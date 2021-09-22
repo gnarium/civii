@@ -51,7 +51,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 			</div>	
 		</div>
-		
+		<div class="section-full bg-white content-inner">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12">
+                    <h1 class="m-b20 m-t0">Online Courses and Webinars</h1>
+                   		<a href="https://rzp.io/l/TunnelDesigning" aria-hidden="true"><p style="text-align:justify; color:black; font-size:20px; line-height:28px;">Tunnel Design webinar certificate</p></a>
+					   		<a href="https://rzp.io/l/mswordbasics" aria-hidden="true"><p style="text-align:justify; color:black; font-size:20px; line-height:28px;">6 Days Online Crash Course On MS Office</p></a>
+				</div>	
+			</div>
+		</div>
+</div>
 <div class="section-full bg-white content-inner">
             <!-- Product -->
             <div class="container">
