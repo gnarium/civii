@@ -50,7 +50,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         
                         <div class="col-lg-6">
                             
-                            <h1 class="h2 m-t0" style="color:black;"> About  <span class="text-primary" style="color:black;">Engineering Destination </span></h2>
+                            <h1 class="h2 m-t0" style="color:black;"> About  <span class="text-primary" style="font-color:black;">Engineering Destination </span></h2>
                             <div class="dez-separator bg-primary"></div>
                             <div class="clear"></div>
                             <p class="m-b30"style="text-align:justify;">Engineering Destination is the official website of Civil Engineering Destination an ISO 9001:2015 certified channel owned by Anmol Dainesh Singh (A. D Singh) graduated B. Tech in civil engineering from central government university. Civil Engineering Destination was founded on 4 September 2020 After years of service and experience in big construction companies and government organizations and big projects like infrastructure, bridges, tunnels and roads.  I have decided to work for the improvement and career counselling of engineering students and graduates.</p><p class="m-b30"style="text-align:justify;">Engineering destination provides all jobs details and links. Other helpful information like IS codes and QA/QC test report formats are also available on our website. We also provide current affairs related to engineering and technical classes for all competitive exams in India.</p>
