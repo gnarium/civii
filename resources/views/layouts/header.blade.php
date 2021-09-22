@@ -153,9 +153,9 @@
 							<li> <a href="/about" rel="canonical" style="color:black;">About</a>
 								
 							</li>
-							<li> <a href="/govtjob" rel="canonical" style="color:black;">Government Job's</a>
+							<li> <a href="/govtjob" rel="canonical" style="color:black;">Government Jobs</a>
 									</li>
-							<li> <a href="/privatejob" rel="canonical" style="color:black;">Private Job's</a>
+							<li> <a href="/privatejob" rel="canonical" style="color:black;">Private Jobs</a>
 								
 							</li>
 							<li> <a href="/iscode" rel="canonical" style="color:black;">IS CODE</a>
