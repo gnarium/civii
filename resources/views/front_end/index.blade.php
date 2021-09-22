@@ -56,8 +56,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
                     <h1 class="m-b20 m-t0" style="text-align:center;">Online Courses and Webinars</h1>
-                   		<p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226;Tunnel Design webinar certificate <a href="https://rzp.io/l/TunnelDesigning" aria-hidden="true">Click Here</a></p>
-					   		<p style="text-align:justify; color:black; font-size:20px; line-height:28px;">6 Days Online Crash Course On MS Office<a href="https://rzp.io/l/mswordbasics" aria-hidden="true">Click Here</a></p>
+                   		<p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226;Tunnel Design webinar certificate <a href="https://rzp.io/l/TunnelDesigning" style="color:red;" aria-hidden="true">Click Here</a></p>
+					   		<p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226;6 Days Online Crash Course On MS Office<a href="https://rzp.io/l/mswordbasics" style="color:red;" aria-hidden="true"> Click Here</a></p>
 				</div>	
 			</div>
 		</div>
