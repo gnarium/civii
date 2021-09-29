@@ -21,6 +21,7 @@ Route::view('/','front_end/index');
 Route::view('/about','front_end/about');
 Route::view('/privacy','front_end/privacy');
 Route::view('/disclaimer','front_end/disclaimer');
+Route::view('/terms-and-conditions','front_end/terms-and-conditions');
 
 
 Route::get('search',[App\Http\Controllers\AdminController::class,'search'])->name('search');
