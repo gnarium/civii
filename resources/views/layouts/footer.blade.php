@@ -29,7 +29,7 @@
 							<h5 class="m-b15 text-uppercase">Contact us</h5>
 							<div class="dez-separator bg-primary"></div>
 							<ul>
-								<li><i class="fa fa-map-marker"></i><strong>address</strong> Alambagh, Lucknow-226005</li>
+								<li><i class="fa fa-map-marker"></i><strong>address</strong> Jai Prakash Nagar , Alambagh, Lucknow , Uttar Pradesh - 226005</li>
 								<li><i class="fa fa-envelope"></i><strong>E-mail</strong>engineeringdestination140@gmail.com<b style="text-align:left;"><br/>Note:</b>  We do not provide jobs , Kindly do not email your cv or any other documents . The website is for information purpose only.</li>
 							</ul>
 						</div>
