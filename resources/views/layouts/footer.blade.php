@@ -15,12 +15,12 @@
 							<div class="dez-separator bg-primary"></div>
 							<ul>
 								<li><a href="/about">About</a></li>
-								<li><a href="/govtjob">Government Jobs</a></li>
-								<li><a href="/privatejob">Private Jobs</a></li>
-								<li><a href="/privacy">Privacy & Policy</a></li>
-								<li><a href="/contact">Contact</a></li>
 								<li><a href="/iscode">IS Codes</a></li>
 								<li><a href="/qa">QA/QC Reports</a></li>
+                                <li><a href="/contact">Contact</a></li>
+								<li><a href="/privacy">Privacy & Policy</a></li>
+								<li><a href="/privatejob">Disclaimer</a></li>
+                                <li><a href="/privatejob">Terms-And-Conditions</a></li>
 							</ul>
 						</div>
 					</div>
