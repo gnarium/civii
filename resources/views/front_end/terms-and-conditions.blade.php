@@ -48,10 +48,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <ul class="list-check-circle primary">
                             <li>https://youtube.com/channel/UCngfRnQGedv6a3uB0APK6Mw</li>
                             <li> The registration fees of any 
-                            The registration fees of any 
-                                ●	Courses which is or will be conducted on our platform once paid will be non refundable .
-                                ●	Webinar which will be conducted on our platform once paid will be non refundable 
-                            </li>
+                            The registration fees of any </li>
+                                <li>	Courses which is or will be conducted on our platform once paid will be non refundable .</li>
+                                <li>	Webinar which will be conducted on our platform once paid will be non refundable </li>
+                            
                             <li>Product or service fees will also be non refundable.</li>
                                                 </ul>
                        <p style="text-align:justify;">Users can find more specific service and product terms and conditions on the payment pages created using payment gateway platforms i.e "Razorpay" etc.  Or on the product or service pages created on our website toor on our YouTube channel .</p>
