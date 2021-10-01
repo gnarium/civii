@@ -166,16 +166,6 @@
 								
 							</li>
 							
-							<li> <a href="/privacy" rel="canonical" style="color:black;">Privacy</a>
-								
-							</li>
-
-							<li> <a href="/disclaimer" rel="canonical" style="color:black;">Disclaimer</a>
-								
-							</li>
-                            <li> <a href="/terms-and-conditions" rel="canonical" style="color:black;">Term And Conditions</a>
-								
-							</li>
 							<li> <a href="/contact" rel="canonical" style="color:black;">Contact us </a>
 								
 							</li>
