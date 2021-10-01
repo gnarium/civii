@@ -54,6 +54,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             
                             <li>Product or service fees will also be non refundable.</li>
                                                 </ul>
+                       <h3>Cancellation Policy :</h3>
+                        <p style="text-align:justify;">The payment made by user cannot be cancelled on our website <a href="https://engineeringdestination.com/">"www.engineeringdestination.com"</a> or YouTube channel  . They will only provided product or service in behalf of the payment made .
+</p>
                        <p style="text-align:justify;">Users can find more specific service and product terms and conditions on the payment pages created using payment gateway platforms i.e "Razorpay" etc.  Or on the product or service pages created on our website toor on our YouTube channel .</p>
 						 </div>
                         
