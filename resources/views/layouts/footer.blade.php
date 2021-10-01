@@ -20,7 +20,7 @@
                                 <li><a href="/contact">Contact</a></li>
 								<li><a href="/privacy">Privacy & Policy</a></li>
 								<li><a href="/privatejob">Disclaimer</a></li>
-                                <li><a href="/privatejob">Terms-And-Conditions</a></li>
+                                <li><a href="/terms-and-conditions">Terms-And-Conditions</a></li>
 							</ul>
 						</div>
 					</div>
