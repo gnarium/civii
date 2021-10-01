@@ -19,7 +19,7 @@ Route::get('/', function () {
 });
 Route::view('/','front_end/index');
 Route::view('/about','front_end/about');
-Route::view('/privacy','front_end/privacy');
+Route::view('/privacy-policy','front_end/privacy');
 Route::view('/disclaimer','front_end/disclaimer');
 Route::view('/terms-and-conditions','front_end/terms-and-conditions');
 
