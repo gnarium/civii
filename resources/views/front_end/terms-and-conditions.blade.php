@@ -13,7 +13,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="dez-bnr-inr overlay-black-middle" style="background-image:url('{{ asset('user/front_end/images/background/bg4.jpg')}}');">
             <div class="container">
                 <div class="dez-bnr-inr-entry">
-                    <h1 class="text-white">Terms And Contions</h1>
+                    <h1 class="text-white">Terms And Conditions</h1>
                 </div>
             </div>
         </div>
