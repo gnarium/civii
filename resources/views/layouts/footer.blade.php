@@ -18,9 +18,9 @@
 								<li><a href="/iscode">IS Codes</a></li>
 								<li><a href="/qa">QA/QC Reports</a></li>
                                 <li><a href="/contact">Contact</a></li>
-								<li><a href="/privacy-policy">Privacy & Policy</a></li>
+								<li><a href="/privacy-policy">Privacy Policy</a></li>
 								<li><a href="/privatejob">Disclaimer</a></li>
-                                <li><a href="/terms-and-conditions">Terms-And-Conditions</a></li>
+                                <li><a href="/terms-and-conditions">Terms And Conditions</a></li>
 							</ul>
 						</div>
 					</div>
