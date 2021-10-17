@@ -165,6 +165,13 @@
 							<li> <a href="/qa" rel="canonical" style="color:black;">QA/QC TESTING</a>
 								
 							</li>
+							<li> <a href="/privacy-policy" rel="canonical" style="color:black;">Privacy Policy</a>
+								
+							</li>
+							
+                            <li> <a href="/disclaimer" rel="canonical" style="color:black;">Disclaimer</a>
+								
+							</li>
 							
 							<li> <a href="/contact" rel="canonical" style="color:black;">Contact us </a>
 								
