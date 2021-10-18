@@ -51,7 +51,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="p-a30 bg-gray clearfix m-b30 ">
 							<h2>Send Message Us</h2>
                             
-							<form method="post"  action="/contact">
+							<form method="post"  action="/contact-us">
 							{{ csrf_field()}}
 							    <div class="row">
                                     <div class="col-md-6">
