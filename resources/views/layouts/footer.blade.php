@@ -15,8 +15,8 @@
 							<div class="dez-separator bg-primary"></div>
 							<ul>
 								<li><a href="/about">About</a></li>
-								<li><a href="/government-jobs">Government Jobs</a></li>
-								<li><a href="/private-jobs">Private Jobs</a></li>
+								<li><a href="/government-jobs">Government-Jobs</a></li>
+								<li><a href="/private-jobs">Private-Jobs</a></li>
 								<li><a href="/privacy-policy">Privacy-Policy</a></li>
 								<li><a href="/contact-us">Contact-Us</a></li>
 								<li><a href="/is-codes">IS-Codes</a></li>
