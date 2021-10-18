@@ -26,8 +26,8 @@ Route::view('/terms-and-conditions','front_end/terms-and-conditions');
 Route::get('search',[App\Http\Controllers\AdminController::class,'search'])->name('search');
 
 
-Route::get('contact',[App\Http\Controllers\AdminController::class,'contact'])->name('admin');
-Route::post('contact',[App\Http\Controllers\AdminController::class,'contact_db'])->name('admin');
+Route::get('contact-us',[App\Http\Controllers\AdminController::class,'contact'])->name('admin');
+Route::post('contact-us',[App\Http\Controllers\AdminController::class,'contact_db'])->name('admin');
 
 
 Route::get('private-jobs',[App\Http\Controllers\AdminController::class,'privatejobdetails'])->name('admin');
