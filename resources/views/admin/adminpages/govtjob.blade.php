@@ -1,5 +1,7 @@
 @extends ('admin.adminlayouts.adminmain')
+<meta name="robots" content="noindex">
 <body>
+
 
 <script src="https://cdn.ckeditor.com/4.16.0/full/ckeditor.js"></script>
 	<header class="header fixed-top clearfix" style="background-color:#FDC716">
