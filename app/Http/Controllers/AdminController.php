@@ -125,7 +125,7 @@ class AdminController extends Controller
         $contacts->subject=$req2->Subject;
         $contacts->msg=$req2->Msg;
         $contacts->save();
-        return redirect('/contact')->with('success','We Will Connect You as soon as possible!');
+        return redirect('/contact-us')->with('success','We Will Connect You as soon as possible!');
     }
     public function contactdisplay()
     {
