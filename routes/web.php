@@ -23,7 +23,6 @@ Route::view('/privacy-policy','front_end/privacy');
 Route::view('/disclaimer','front_end/disclaimer');
 Route::view('/terms-and-conditions','front_end/terms-and-conditions');
 
-
 Route::get('search',[App\Http\Controllers\AdminController::class,'search'])->name('search');
 
 
@@ -31,22 +30,21 @@ Route::get('contact',[App\Http\Controllers\AdminController::class,'contact'])->n
 Route::post('contact',[App\Http\Controllers\AdminController::class,'contact_db'])->name('admin');
 
 
-Route::get('privatejob',[App\Http\Controllers\AdminController::class,'privatejobdetails'])->name('admin');
+Route::get('private-jobs',[App\Http\Controllers\AdminController::class,'privatejobdetails'])->name('admin');
 
-Route::get('/privatejob/{tab}',[App\Http\Controllers\AdminController::class,'privatejobdetailsdescribtion'])->name('admin');
+Route::get('/private-jobs/{tab}',[App\Http\Controllers\AdminController::class,'privatejobdetailsdescribtion'])->name('admin');
 
 Route::match(['get','post'],'/admin/login',[App\Http\Controllers\AdminController::class,'login'])->name('admin');
 
-Route::get('govtjob',[App\Http\Controllers\AdminController::class,'govtjobdetails'])->name('admin');
+Route::get('government-jobs',[App\Http\Controllers\AdminController::class,'govtjobdetails'])->name('admin');
 Route::get('/',[App\Http\Controllers\AdminController::class,'govtjobdetail'])->name('admin');
 
-Route::get('govtjob/{tab}',[App\Http\Controllers\AdminController::class,'jobdetailsdescribtion'])->name('admin');
+Route::get('government-jobs/{tab}',[App\Http\Controllers\AdminController::class,'jobdetailsdescribtion'])->name('admin');
 
 
-Route::get('/qa',[App\Http\Controllers\AdminController::class,'qas_enquiry'])->name('admin');
+Route::get('/qa-and-qc-testing',[App\Http\Controllers\AdminController::class,'qas_enquiry'])->name('admin');
 
-Route::get('/iscode',[App\Http\Controllers\AdminController::class,'iscodes_enquiry'])->name('admin');
-
+Route::get('/is-codes',[App\Http\Controllers\AdminController::class,'iscodes_enquiry'])->name('admin');
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
