@@ -158,15 +158,15 @@
 							<li> <a href="/private-jobs" rel="canonical" style="color:black;">Private Jobs</a>
 								
 							</li>
-							<li> <a href="/is-codes" rel="canonical" style="color:black;">IS CODE</a>
+							<li> <a href="/is-codes" rel="canonical" style="color:black;">IS CODES</a>
 								
 							</li>
 
-							<li> <a href="/qa-and-qc-testing" rel="canonical" style="color:black;">QA/QC TESTING</a>
+							<li> <a href="/qa-and-qc-testing" rel="canonical" style="color:black;">Qa-And-Qc-Testing</a>
 								
 							</li>
 							
-							<li> <a href="/privacy-policy" rel="canonical" style="color:black;">Privacy</a>
+							<li> <a href="/privacy-policy" rel="canonical" style="color:black;">Privacy-Policy</a>
 								
 							</li>
 
