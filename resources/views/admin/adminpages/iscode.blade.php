@@ -1,4 +1,5 @@
 @extends ('admin.adminlayouts.adminmain')
+<meta name="robots" content="noindex">
 <body>
 	<header class="header fixed-top clearfix"style="background-color:#FDC716">
 <!--logo start-->
