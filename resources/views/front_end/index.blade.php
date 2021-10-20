@@ -229,17 +229,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="section-content">
                     <div class="row">
                         <div class="col-lg-12 text-center section-head">
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
 <!-- Home 3 -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-3775391448345901"
      data-ad-slot="1262460995"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-ad-format="auto"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
                             <h2 class="h2">OUR EXPERTISE</h2>
 							<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
                             <div class="clear"></div>
@@ -312,17 +313,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-12 col-md-7 col-sm-12">
 						<br/>
 						<div class="text-center m-b50">
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
 <!-- Home 4 -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-3775391448345901"
      data-ad-slot="5219971582"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-ad-format="auto"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 							<h2 class="m-t0">Success Stories</h2>
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
