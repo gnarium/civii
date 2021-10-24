@@ -20,7 +20,7 @@
 								<li><a href="/privacy-policy">Privacy-Policy</a></li>
 								<li><a href="/contact-us">Contact-Us</a></li>
 								<li><a href="/is-codes">IS-Codes</a></li>
-								<li><a href="/qa-and-qc-testing">QA-And-QC-Testing</a></li>
+								<li><a href="/terms-and-conditions">Terms And Conditions</a></li>
 							</ul>
 						</div>
 					</div>
