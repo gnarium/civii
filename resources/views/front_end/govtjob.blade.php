@@ -38,7 +38,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-lg-10 col-md-7 col-sm-12">
 						<div class="text-center m-b50">
 							<h2 class="m-t0">Government  Jobs</h2>
-                                       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
                                         <!-- Gov 1 -->
                                         <ins class="adsbygoogle"
                                              style="display:block"
@@ -78,32 +79,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						
 					</div>
                     <div class="col-lg-2">
-                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
                         <!-- GOV 3 -->
                         <ins class="adsbygoogle"
-                        style="display:block"
-                        data-ad-client="ca-pub-3775391448345901"
-                        data-ad-slot="5344104401"
-                        data-ad-format="auto"
-                        data-full-width-responsive="true"></ins>
+                             style="display:block"
+                             data-ad-client="ca-pub-3775391448345901"
+                             data-ad-slot="5344104401"
+                             data-ad-format="auto"
+                             data-full-width-responsive="true"></ins>
                         <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
+                             (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
                         <!-- GOV 3 -->
                         <ins class="adsbygoogle"
-                        style="display:block"
-                        data-ad-client="ca-pub-3775391448345901"
-                        data-ad-slot="5344104401"
-                        data-ad-format="auto"
-                        data-full-width-responsive="true"></ins>
+                             style="display:block"
+                             data-ad-client="ca-pub-3775391448345901"
+                             data-ad-slot="5344104401"
+                             data-ad-format="auto"
+                             data-full-width-responsive="true"></ins>
                         <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
+                             (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
 
                     </div>
                 </div>
-                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
 <!-- Gov 2 -->
 <ins class="adsbygoogle"
      style="display:block"
