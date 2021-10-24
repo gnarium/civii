@@ -153,27 +153,27 @@
 							<li> <a href="/about" rel="canonical" style="color:black;">About</a>
 								
 							</li>
-							<li> <a href="/government-jobs" rel="canonical" style="color:black;">Government-Jobs</a>
+							<li> <a href="/government-jobs" rel="canonical" style="color:black;">Government Jobs</a>
 									</li>
-							<li> <a href="/private-jobs" rel="canonical" style="color:black;">Private-Jobs</a>
+							<li> <a href="/private-jobs" rel="canonical" style="color:black;">Private Jobs</a>
 								
 							</li>
-							<li> <a href="/is-codes" rel="canonical" style="color:black;">IS-CODES</a>
+							<li> <a href="/is-codes" rel="canonical" style="color:black;">IS CODES</a>
 								
 							</li>
 
-							<li> <a href="/qa-and-qc-testing" rel="canonical" style="color:black;">Qa-And-Qc-Testing</a>
+							<li> <a href="/qa-and-qc-testing" rel="canonical" style="color:black;">Qa And Qc Testing</a>
 								
 							</li>
 							
-							<li> <a href="/privacy-policy" rel="canonical" style="color:black;">Privacy-Policy</a>
+							<li> <a href="/privacy-policy" rel="canonical" style="color:black;">Privacy Policy</a>
 								
 							</li>
 
 							<li> <a href="/disclaimer" rel="canonical" style="color:black;">Disclaimer</a>
 								
 							</li>
-							<li> <a href="/contact-us" rel="canonical" style="color:black;">Contact-us </a>
+							<li> <a href="/contact-us" rel="canonical" style="color:black;">Contact Us </a>
 								
 							</li>
 						</ul>
