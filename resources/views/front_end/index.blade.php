@@ -69,7 +69,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-7 col-sm-12">
-                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
 <!-- Home 8 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,7 +174,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="m-t10" style="text-align:center; color:black;" >
 							<a href="/privatejob" rel="noopener noreferrer"  style="color:black;" class="site-button" >View More Jobs</a>
 						</div>
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
 <!-- Home 4 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -238,10 +240,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      style="display:block"
      data-ad-client="ca-pub-3775391448345901"
      data-ad-slot="1262460995"
-     data-ad-format="auto"></ins>
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 
                             <h2 class="h2">OUR EXPERTISE</h2>
 							<div class="dez-separator-outer"><div class="dez-separator bg-primary style-liner"></div></div>
@@ -355,10 +359,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      style="display:block"
      data-ad-client="ca-pub-3775391448345901"
      data-ad-slot="3715318228"
-     data-ad-format="auto"></ins>
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 			
 					</div>
                 </div>
@@ -378,7 +384,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      style="display:block"
      data-ad-client="ca-pub-3775391448345901"
      data-ad-slot="2402236553"
-     data-ad-format="auto"></ins>
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -425,10 +432,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      style="display:block"
      data-ad-client="ca-pub-3775391448345901"
      data-ad-slot="4774330597"
-     data-ad-format="auto"></ins>
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
