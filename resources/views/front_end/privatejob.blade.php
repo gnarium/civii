@@ -34,17 +34,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            
             <!-- Product -->
             <div class="container">
-             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                <!-- private 1 -->
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-3775391448345901"
-                     data-ad-slot="5930418023"
-                     data-ad-format="auto"
-                     data-full-width-responsive="true"></ins>
-                <script>
-                     (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
+<!-- private 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="5930418023"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 				<div class="row">
 					<div class="col-lg-10 col-md-7 col-sm-12">
@@ -111,17 +112,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         
                 </div>
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                <!-- Private 2 -->
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-3775391448345901"
-                     data-ad-slot="1991173013"
-                     data-ad-format="auto"
-                     data-full-width-responsive="true"></ins>
-                <script>
-                     (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
+     crossorigin="anonymous"></script>
+<!-- Private 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3775391448345901"
+     data-ad-slot="1991173013"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 		   </div>
         </div>
