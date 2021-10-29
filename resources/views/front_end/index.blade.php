@@ -101,22 +101,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         @endforeach
 						</div>
 						<div class="m-t10" style="text-align:center; color:black;">
-							<a href="/govtjob" rel="noopener noreferrer"  style="color:black;" class="site-button">View More Jobs</a>
+							<a href="/government-jobs" rel="noopener noreferrer"  style="color:black;" class="site-button">View More Jobs</a>
 						</div>
                    
 						<div class="text-center m-b50">
 							<h2 class="m-t0">Private  Jobs</h2>
-                                                                     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3775391448345901"
-                                 crossorigin="anonymous"></script>
-                            <ins class="adsbygoogle"
-                                 style="display:block; text-align:center;"
-                                 data-ad-layout="in-article"
-                                 data-ad-format="fluid"
-                                 data-ad-client="ca-pub-3775391448345901"
-                                 data-ad-slot="1194634110"></ins>
-                            <script>
-                                 (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
+                                                                     
 
 							<div class="dez-separator-outer "><div class="dez-separator bg-primary style-skew"></div> </div>
 						</div>
@@ -141,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						
 						<div class="m-t10" style="text-align:center; color:black;" >
-							<a href="/privatejob" rel="noopener noreferrer"  style="color:black;" class="site-button" >View More Jobs</a>
+							<a href="/private-jobs" rel="noopener noreferrer"  style="color:black;" class="site-button" >View More Jobs</a>
 						</div>
                       
 					</div>
