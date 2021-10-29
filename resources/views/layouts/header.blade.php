@@ -14,8 +14,6 @@
 	<meta name="google-site-verification" content="ucTRTXLEo1IKrfkR8YoZtee9XpyNdwghNzkuH1hpZcU" />
     <script data-ad-client="ca-pub-3775391448345901" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
        
-    <script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://iclickcdn.com/tag.min.js',4619533,document.body||document.documentElement)</script>
-	
 	<link rel="canonical" href="https://www.engineeringdestination.com"/>
 	<link rel="icon" href="{{ asset('user/front_end/images/Engineering Destination Favicon .webp')}}" type="image/x-icon"  style="height: 300px;"/>
 	
