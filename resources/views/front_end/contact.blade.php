@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="fa fa-map-marker"></i></a> </div>
                                     <div class="icon-content">
                                         <h6 class="text-uppercase m-tb0 dez-tilte">Address:</h6>
-                                        <p>Alambagh Lucknow 226005</p>
+                                        <p>152 Vijay Nagar , New Delhi 110009, India</p>
                                     </div>
                                 </li>
                                 <li class="icon-bx-wraper left  m-b30">
