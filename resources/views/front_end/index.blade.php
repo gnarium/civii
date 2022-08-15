@@ -56,9 +56,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
                     <h1 class="m-b20 m-t0" style="text-align:center;">Online Courses and Webinars</h1>
+                    <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Solidworks (Drafting & Modeling) <a href="https://rzp.io/l/solidworksdnmen08" style="color:red;" aria-hidden="true"> Click Here <sup> New </sup> </a></p>
                     <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Construction DPR Course (Daily progress report) <a href="https://rzp.io/l/constructiondpren07" style="color:red;" aria-hidden="true"> Click Here <sup> New </sup> </a></p>
                     <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Staad Pro (Foundation Design) <a href="https://rzp.io/l/staadprofoundationdesign" style="color:red;" aria-hidden="true"> Click Here <sup> New </sup> </a></p>
-                                        <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Staad Pro (Bridge Design And Load Analysis) <a href="https://rzp.io/l/Staadprobridgedesign" style="color:red;" aria-hidden="true"> Click Here  </a></p>
+                    <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Staad Pro (Bridge Design And Load Analysis) <a href="https://rzp.io/l/Staadprobridgedesign" style="color:red;" aria-hidden="true"> Click Here  </a></p>
                     <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; AutoCAD Beginner <a href="https://rzp.io/l/autocandbeginner1" style="color:red;" aria-hidden="true"> Click Here  </a></p>
                           <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; 6 Days Online Course On Staad Pro Basics With G+9 Building Design <a href="https://rzp.io/l/staadprobasics1" style="color:red;" aria-hidden="true"> Click Here </a></p>
                    		<p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Tunnel Design webinar certificate <a href="https://rzp.io/l/TunnelDesigning" style="color:red;" aria-hidden="true">Click Here </a></p>
