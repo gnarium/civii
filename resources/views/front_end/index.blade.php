@@ -84,6 +84,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 		</div>
 </div>
+
+<div class="section-full bg-white content-inner">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12">
+                    <h1 class="m-b20 m-t0" style="text-align:center;"> Collage Admission Program  </h1>
+
+
+                    <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Interested in top Private Collage Admission  <a href="https://forms.gle/C4QaZbELFy8ANvYv6" style="color:red;" aria-hidden="true"> Click Here </a></p>
+
+				</div>	
+			</div>
+		</div>
+</div>
+
 <div class="section-full bg-white content-inner">
             <!-- Product -->
             <div class="container">
