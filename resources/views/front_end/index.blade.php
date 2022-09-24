@@ -56,8 +56,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
                     <h1 class="m-b20 m-t0" style="text-align:center;">Online Courses and Webinars</h1>
-                                        <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Construction And Erection Of Web Girder Bridge   <a href="https://rzp.io/l/WjTBG7gYPFen10" style="color:red;" aria-hidden="true"> Click Here <sup> New </sup> </a></p>
-                    <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Construction and installation of Fire Fighting System ( FFS )  <a href="https://rzp.io/l/9VXLYIken09" style="color:red;" aria-hidden="true"> Click Here  </a></p>
+
+
                     <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Solidworks (Drafting & Modeling) <a href="https://rzp.io/l/solidworksdnmen08" style="color:red;" aria-hidden="true"> Click Here </a></p>
                     <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Construction DPR Course (Daily progress report) <a href="https://rzp.io/l/constructiondpren07" style="color:red;" aria-hidden="true"> Click Here </a></p>
                     <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Staad Pro (Foundation Design) <a href="https://rzp.io/l/staadprofoundationdesign" style="color:red;" aria-hidden="true"> Click Here </a></p>
@@ -66,6 +66,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; 6 Days Online Course On Staad Pro Basics With G+9 Building Design <a href="https://rzp.io/l/staadprobasics1" style="color:red;" aria-hidden="true"> Click Here </a></p>
                    		<p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Tunnel Design webinar certificate <a href="https://rzp.io/l/TunnelDesigning" style="color:red;" aria-hidden="true">Click Here </a></p>
 					   		<p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; 6 Days Online Crash Course On MS Office<a href="https://rzp.io/l/mswordbasics" style="color:red;" aria-hidden="true"> Click Here</a></p>
+
+				</div>	
+			</div>
+		</div>
+</div>
+<div class="section-full bg-white content-inner">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12">
+                    <h1 class="m-b20 m-t0" style="text-align:center;"> Internship Program ( Unpaid )  </h1>
+
+
+                    <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Internship At Gnarium Iqnovative Pvt Ltd  <a href="https://forms.gle/jLZvouBL6b29bcHc7" style="color:red;" aria-hidden="true"> Click Here </a></p>
 
 				</div>	
 			</div>
