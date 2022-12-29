@@ -1,4 +1,4 @@
-<footer class="site-footer">
+n<footer class="site-footer">
 		<div class="footer-top">
 			<div class="container">
 				<div class="row">
@@ -30,7 +30,7 @@
 							<div class="dez-separator bg-primary"></div>
 							<ul>
 								<li><i class="fa fa-map-marker"></i><strong>address</strong> 152  , Vijay Nagar, New Delhi , India - 110009</li>
-								<li><i class="fa fa-envelope"></i><strong>E-mail</strong>engineeringdestination140@gmail.com<b style="text-align:left;"><br/>Note:</b>  We do not provide jobs , Kindly do not email your cv or any other documents . The website is for information purpose only.</li>
+								<li><i class="fa fa-envelope"></i><strong>E-mail</strong>info@engineeringdestination.com<b style="text-align:left;"><br/>Note:</b>  We do not provide jobs , Kindly do not email your cv or any other documents . The website is for information purpose only.</li>
 							</ul>
 						</div>
 					</div>
