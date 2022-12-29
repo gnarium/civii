@@ -105,7 +105,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="icon-content">
                                         <h6 class="text-uppercase m-tb0 dez-tilte">Email:</h6>
                                         		
-                                        <p style="font-size:13px;">engineeringdestination140@gmail.com<b style="text-align:left;"><br/>Note:</b>  We do not provide job , please do not send your cv or any other document .This is for informative purpose only.</p>
+                                        <p style="font-size:13px;">info@engineeringdestination.com<b style="text-align:left;"><br/>Note:</b>  We do not provide job , please do not send your cv or any other document .This is for informative purpose only.</p>
                                     </div>
                                 </li>
                                 
