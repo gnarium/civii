@@ -57,7 +57,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-lg-12 col-md-12">
                     <h1 class="m-b20 m-t0" style="text-align:center;">Online Courses and Webinars</h1>
 
-
+<p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Quality Control And Monitoring <a href="https://rzp.io/l/qcmen11" style="color:red;" aria-hidden="true"> Click Here </a></p>
                     <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Solidworks (Drafting & Modeling) <a href="https://rzp.io/l/solidworksdnmen08" style="color:red;" aria-hidden="true"> Click Here </a></p>
                     <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Construction DPR Course (Daily progress report) <a href="https://rzp.io/l/constructiondpren07" style="color:red;" aria-hidden="true"> Click Here </a></p>
                     <p style="text-align:justify; color:black; font-size:20px; line-height:28px;">&#8226; Staad Pro (Foundation Design) <a href="https://rzp.io/l/staadprofoundationdesign" style="color:red;" aria-hidden="true"> Click Here </a></p>
